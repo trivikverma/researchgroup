@@ -4,29 +4,44 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "ABOUT"
+  url = "#aboutsite"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "PEOPLE"
+  url = "people/"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "MASTERS"
+  url = "masters/"
+  weight = 21
+
+[[main]]
+  name = "PUBLICATIONS"
+  url = "publication/"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "NEWS"
+  url = "news/"
   weight = 40
 
+  [[main]]
+    name = "BLOG"
+    url = "blog/"
+    weight = 70
+
+  [[main]]
+    name = "CONTACT"
+    url = "mailto:t.verma@tudelft.nl/"
+    weight = 80
+
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+    name = "CV"
+    url = "cv/CV_trivikverma.pdf"
+    weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

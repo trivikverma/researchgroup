@@ -8,6 +8,8 @@ title: Publications
 #   4 = Citation
 view: 4
 
+share: false  # Show social sharing links?
+
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
