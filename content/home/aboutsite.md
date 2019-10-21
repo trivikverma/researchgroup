@@ -31,7 +31,7 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["50px", "25px", "10px", "25px"]
 +++
-{{< figure library="1" src="header.png" title="" >}}
+{{< figure library="1" src="header.png" title="">}}
 
 4D Cities is a research initiative founded at the department of [Multi Actor Systems](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/) at the faculty of [Technology, Policy and Management](https://www.tudelft.nl/en/tpm/) at TU Delft, the Netherlands and follows the line of research and education promoted by the university on building sustainable and climate resilient cities for the future.
 
