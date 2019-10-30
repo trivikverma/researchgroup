@@ -72,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professors
+- Head
 ---
 
 I am an Assistant Professor at the section of Policy Analysis in the department of Multi-Actor Systems. My research aims at modelling the dynamics of urban infrastructure systems and their interaction with humans in an effort to inform policy on sustainable development and planning of cities. I am particularly interested in the design and modelling of resilient, sustainable and public-oriented infrastructure systems.
