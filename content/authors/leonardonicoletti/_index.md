@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student of MSc Engineering and Policy Analysis
+role: Master Student of Engineering and Policy Analysis
 
 # Organizations/Affiliations
 organizations:
