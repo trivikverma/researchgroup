@@ -7,7 +7,7 @@ authors:
 - nunoaraujo
 
 # Is this the primary user of the site?
-superuser: no
+superuser: false
 
 # Role/position
 role: Assistant Professor
