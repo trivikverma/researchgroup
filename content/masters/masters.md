@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 #### Abel Buijtenweg
 ##### _TIL @ CiTG, TU Delft [Sep 2019 - Feb 2020]_
 
-### [6] Estimating Flooding in River Ecosystems using a Complex Networks Approach
+### [6] {{% staticref "msc_projects/BramvanMeurs.pdf" %}}Riverine Flood Risk Screening with a Simple Network-based Approach{{% /staticref %}}
 #### Bram van Meurs
 ##### _EPA @ TPM, TU Delft [Aug - Dec 2019]_
 
