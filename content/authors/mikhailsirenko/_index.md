@@ -31,13 +31,13 @@ interests:
 
 education:
   courses:
-  - course: MSc in Engineering and Policy Analysis,
+  - course: MSc in Engineering and Policy Analysis
     institution: Delft University of Technology
     year: 2019
   - course: PhD in Mathematical modelling, Numerical Methods and Program Complexes
     institution: Tomsk State University
     year: 2016
-  - course: Mathematical Methods in Economics
+  - course: Specialist in Mathematical Methods in Economics
     institution: Tomsk State University
     year: 2010
 

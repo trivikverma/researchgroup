@@ -20,6 +20,31 @@ date_format = "Jan 2006"
 -----
 <br />
 
+Open MSc Projects
+
+### [1] Evaluation of fairness in addressing citizen complaints using the Dutch complaints database
+
+### [2] Preference Elicitation of public and private sector organisations in addressing climate change
+
+-----
+<br />
+
+### [12] Supporting Decision Making for Time-Resilience of Public Transport Systems
+#### Jakob Serlier [BSc Student]
+##### _BSc @ TPM, TU Delft [Feb 2020 -  July 2020]_
+
+### [11] Estimating Factors that Influence Migration Flows in Refugees
+#### Jochem de Vlug
+##### _EPA @ TPM, TU Delft [Feb 2020 -  July 2020]_
+
+### [10] Designing a Space-Time Gravity Model for Meso-Scale Mobilty Flow Estimation
+#### Karan Pappala
+##### _EPA @ TPM, TU Delft [Feb 2020 -  July 2020]_
+
+### [9] Measuring Ecological Footprint of Cities
+#### Ruchik Patel
+##### _EPA @ TPM, TU Delft [Feb 2020 -  July 2020]_
+
 ### [8] Measuring the Age of Building using Remote Sensing Data
 #### Oana Garbasevschi
 ##### _EPA @ TPM, TU Delft [Oct 2019 -  Mar 2020]_

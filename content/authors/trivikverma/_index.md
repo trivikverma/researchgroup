@@ -72,11 +72,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Head
+- Research Director
 ---
 
-I am an Assistant Professor at the section of Policy Analysis in the department of Multi-Actor Systems. My research aims at modelling the dynamics of urban infrastructure systems and their interaction with humans in an effort to inform policy on sustainable development and planning of cities. I am particularly interested in the design and modelling of resilient, sustainable and public-oriented infrastructure systems.
+I am an Assistant Professor at the faculty of [Technology, Policy and Management](https://www.tudelft.nl/en/tpm/) in [Delft University of Technology](https://www.tudelft.nl/en/). I lead the **4DCities** research group at the intersection of Urban Science and Policy at the department of [Multi-Actor Systems](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/). I am also an active member of the [Dutch Network Science community](http://www.netsci.nl/) and the [4TU Centre for Resilience Engineering](https://www.4tu.nl/resilience/en/).
 
-Through my research, I have discovered that most systems have a tendency to form a core-periphery network that brings an imbalance in the distribution of resources in society. My research and education thus concentrate on understanding and designing urban spaces through the lens of social inclusion.
+My research focusses on **C**omputational **U**rban **S**cience and **P**olicy. Together with my group, we model cities at the intersection of data science and complex systems engineering in the frame of infrastructure development, meso-scale mobility prediction, and human well-being. I am particularly interested in the design of methods to aid in understanding urbanization processes and evaluating the effectiveness and implications of policies for the development of growing urban spaces and equitable use of resources.
 
-I also instruct on remote expeditions for [National Geographic](https://www.nationalgeographic.com/expeditions/trip-types/student/) where high school students have the opportunity to learn about conservation, anthropology, engineering and policy. Previously, I helped build a media and technology startup dedicated to the cause of making this planet a healthier place through authentic journalism and data science.
+Through my research, I have discovered that most systems have a tendency to form a core-periphery network that brings an imbalance in the distribution of resources in society. My research and education thus concentrate on understanding and designing urban spaces through the lens of social cohesion and inclusion.
+
+I also instruct on remote expeditions for [National Geographic](https://www.nationalgeographic.com/expeditions/trip-types/student/) where high school students have the opportunity to learn about conservation, anthropology, engineering and policy. Previously, I helped build a media and technology startup dedicated to the cause of making this planet a healthier place through authentic journalism and data science at [The Outdoor Journal](https://www.outdoorjournal.com/).
