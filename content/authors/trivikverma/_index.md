@@ -72,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Director
+- Research Head
 ---
 
 I am an Assistant Professor at the faculty of [Technology, Policy and Management](https://www.tudelft.nl/en/tpm/) in [Delft University of Technology](https://www.tudelft.nl/en/). I lead the **4DCities** research group at the intersection of Urban Science and Policy at the department of [Multi-Actor Systems](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/). I am also an active member of the [Dutch Network Science community](http://www.netsci.nl/) and the [4TU Centre for Resilience Engineering](https://www.4tu.nl/resilience/en/).
