@@ -28,20 +28,20 @@
   url = "news/"
   weight = 40
 
-  [[main]]
-    name = "BLOG"
-    url = "blog/"
-    weight = 70
-
-  [[main]]
-    name = "CONTACT"
-    url = "mailto:t.verma@tudelft.nl/"
-    weight = 80
+[[main]]
+  name = "BLOG"
+  url = "blog/"
+  weight = 70
 
 [[main]]
-    name = "CV"
-    url = "cv/CV_trivikverma.pdf"
-    weight = 90
+  name = "OPENINGS"
+  url = "openings/"
+  weight = 80
+
+[[main]]
+  name = "CV"
+  url = "cv/CV_trivikverma.pdf"
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

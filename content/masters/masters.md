@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear.
 
-title = "MSc Students"
+title = "Current and Past Master's Students"
 subtitle = "Thesis and Semester Projects"
 
 # Date format for experience
@@ -17,16 +17,9 @@ date_format = "Jan 2006"
   columns = "1"
 
 +++
------
-<br />
-
-Open MSc Projects
-
-### [1] Evaluation of fairness in addressing citizen complaints using the Dutch complaints database
-
-### [2] Preference Elicitation of public and private sector organisations in addressing climate change
 
 -----
+
 <br />
 
 ### [12] Supporting Decision Making for Time-Resilience of Public Transport Systems
