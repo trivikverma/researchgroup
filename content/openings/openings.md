@@ -22,17 +22,17 @@ date_format = "Jan 2006"
 
 # Teaching Positions
 
-### [1] {{% staticref "jobs/TAs_EPA1316_2020.pdf" %}}Teaching Assistantship for EPA 1316 (formerly 1315) {{% /staticref %}}
+[1] {{% staticref "jobs/TAs_EPA1316_2020.pdf" %}}Teaching Assistantship for EPA 1316 (formerly 1315) {{% /staticref %}}
 
 <br />
 
 # Available Master's Projects
 
-### [1] Evaluation of fairness in addressing citizen complaints using the Dutch complaints database
+[1] Evaluation of fairness in addressing citizen complaints using the Dutch complaints database
 
-### [2] Preference elicitation of public and private sector organisations in addressing climate change
+[2] Preference elicitation of public and private sector organisations in addressing climate change
 
-### [3] Flight Slot Allocation System
+[3] Flight Slot Allocation System
 
 <br />
 
