@@ -1,5 +1,5 @@
 +++
-title = "A suggestive guide to writing scientific text"
+title = "A guide to writing scientific text"
 summary =  "The hourglass approach"
 # Add a page description.
 date = "2019-01-01T00:00:00Z"  # Add today's date.
