@@ -20,25 +20,25 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include urban ecology, computational modelling and data science for social good.
 
-interests:
-- Urban Analytics
-- Data Science and Visualisation
-- Computational Modelling
-- Social Inclusion / Fairness
-- Sustainability
-- Mobility
+#interests:
+#- Urban Analytics
+#- Data Science and Visualisation
+#- Computational Modelling
+#- Social Inclusion / Fairness
+#- Sustainability
+#- Mobility
 
-education:
-  courses:
-  - course: PhD in Transport Modelling and Computational Statistics
-    institution: ETH Zürich
-    year: 2016
-  - course: MSc in Distributed Systems and Networks
-    institution: Delft University of Technology
-    year: 2012
-  - course: BTech in Computer Science and Engineering
-    institution: Manipal Institute of Technology
-    year: 2010
+#education:
+#  courses:
+#  - course: PhD in Transport Modelling and Computational Statistics
+#    institution: ETH Zürich
+#    year: 2016
+#  - course: MSc in Distributed Systems and Networks
+#    institution: Delft University of Technology
+#    year: 2012
+#  - course: BTech in Computer Science and Engineering
+#    institution: Manipal Institute of Technology
+#    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -75,9 +75,9 @@ user_groups:
 - Research Head
 ---
 
-I am an Assistant Professor at the faculty of [Technology, Policy and Management](https://www.tudelft.nl/en/tpm/) in [Delft University of Technology](https://www.tudelft.nl/en/). I lead the **4DCities** research group at the intersection of Urban Science and Policy at the department of [Multi-Actor Systems](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/). I am also an active member of the [Dutch Network Science community](http://www.netsci.nl/) and the [4TU Centre for Resilience Engineering](https://www.4tu.nl/resilience/en/).
+I am an Assistant Professor at the faculty of [Technology, Policy and Management](https://www.tudelft.nl/en/tpm/) in [Delft University of Technology](https://www.tudelft.nl/en/). I lead the **C**omputational **U**rban **S**cience and **P**olicy research group at the department of [Multi-Actor Systems](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/). I am in the advisory team of the [TPM AI Lab](https://www.tudelft.nl/tpm/tpm-ai-lab/) and also an active member of the [Dutch Network Science community](http://www.netsci.nl/) and the [4TU Centre for Resilience Engineering](https://www.4tu.nl/resilience/en/).
 
-My research focusses on **C**omputational **U**rban **S**cience and **P**olicy. Together with my group, we model cities at the intersection of data science and complex systems engineering in the frame of infrastructure development, meso-scale mobility prediction, and human well-being. I am particularly interested in the design of methods to aid in understanding urbanization processes and evaluating the effectiveness and implications of policies for the development of growing urban spaces and equitable use of resources.
+My research in focusses on the science of cities. In our group, we model urban spaces at the intersection of data science and complex systems engineering in the frame of infrastructure development, meso-scale mobility prediction, and human well-being. I am particularly interested in the design of methods to aid in understanding urbanization processes and evaluating the effectiveness and implications of policies for the development of growing urban spaces and equitable use of resources.
 
 Through my research, I have discovered that most systems have a tendency to form a core-periphery network that brings an imbalance in the distribution of resources in society. My research and education thus concentrate on understanding and designing urban spaces through the lens of social cohesion and inclusion.
 
