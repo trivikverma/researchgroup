@@ -26,7 +26,7 @@ There are only **four** primary forms of writing styles: expository, descriptive
 
 We ought to describe the details of our work. But describing experimental information, methods and limitations of data is very rarely about a character, event or place and should not be confused with the nature of descriptive writing such as poetry, fiction or journal entries.
 
-In a persuasive essay, argumentation is typically presented in a way to convince someone of your own opinion. Academic writing need not fall for description or persuasion. Our job is to present evidence and draw a logical conclusion from a series of arguments supported by the evidence presented. There must not be any room for emotion, opinion or influence.
+In a persuasive essay, argumentation is typically presented in a way to convince someone of your own opinion. Academic writing need not fall for description or persuasion. Our job is to present evidence and draw a logical conclusion from a series of arguments supported by the evidence presented. There must not be any room for emotionally charged statements, opinion or influence. Such statements harm your academic credibility, unless you can back them up with proof.
 
 How then do we connect facts and figures into a coherent story that is devoid of judgment and persuasion?
 
