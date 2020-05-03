@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher @ 4TU Resilience Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Researchers
+- Alumni
 ---
+Now I am working at the Resilience Lab @ TU Delft affilied with the 4TU Resilience Engineering on an EU Project called HeROS.
 
-I am a Postdoc researcher at the Policy Analysis section of TU Delft’s Faculty of Technology, Policy and Management. Broadly speaking, my research focuses on the usage of data to improve understanding of cities and contribute to better policy-making. I’m primarily using (but not limited to) the following methods: data science & visualization, and simulation models. Currently, I’m working on the following research themes: urban resilience and vulnerability to extreme heat, transportation networks, displaced populations, and reproducible research.
+I was a Postdoc researcher at the Policy Analysis section of TU Delft’s Faculty of Technology, Policy and Management between Oct 2019 and April 2020. Broadly speaking, my research focuses on the usage of data to improve understanding of cities and contribute to better policy-making. I’m primarily using (but not limited to) the following methods: data science & visualization, and simulation models. Currently, I’m working on the following research themes: urban resilience and vulnerability to extreme heat, transportation networks, displaced populations, and reproducible research.
