@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 
 # Teaching Positions
 
-[1] {{% staticref "jobs/TAs_EPA1316_2020.pdf" %}}Teaching Assistantship for EPA 1316 (formerly 1315) {{% /staticref %}}
+[1] Teaching Assistantship for EPA 1316 (formerly 1315) **[CLOSED]**
 
 <br />
 

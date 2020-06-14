@@ -22,12 +22,32 @@ date_format = "Jan 2006"
 
 <br />
 
+### [16] Understanding the Role of Municipalities in National Energy Transition for Netherlands
+#### Jaromir Bogdanovski
+##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
+
+### [15] Affecting Behavior Patterns of Citizens using Language-based Microtargetting
+#### Manos Leontaris
+##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
+
+### [14] Prediciting Bus Ridership using Trip Planner Data
+#### Ziyulong Wang
+##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
+
+### [14] Investigating the Role of Points of Interest in Estimating Mobility Patterns in Cities
+#### Karan Pappala
+##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
+
+### [13] Understanding the Impact of AirBnB on the Social Fabric of Cities: A Case of Amsterdam
+#### Fabio Tejedor
+##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
+
 ### [12] Supporting Decision Making for Time-Resilience of Public Transport Systems
 #### Jakob Serlier [BSc Student]
 ##### _BSc @ TPM, TU Delft [Feb 2020 -  July 2020]_
 
 ### [11] Estimating Factors that Influence Migration Flows in Refugees
-#### Jochem de Vlug
+#### Jochem Vlug
 ##### _EPA @ TPM, TU Delft [Feb 2020 -  July 2020]_
 
 ### [10] Designing a Space-Time Gravity Model for Meso-Scale Mobilty Flow Estimation

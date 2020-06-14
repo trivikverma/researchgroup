@@ -7,7 +7,7 @@ authors:
 - trivikverma
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Assistant Professor of Urban Science and Policy
@@ -72,13 +72,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Head
+- Director
 ---
 
 I am an Assistant Professor at the faculty of [Technology, Policy and Management](https://www.tudelft.nl/en/tpm/) in [Delft University of Technology](https://www.tudelft.nl/en/). I lead the **C**omputational **U**rban **S**cience and **P**olicy research group at the department of [Multi-Actor Systems](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/). I am in the advisory team of the [TPM AI Lab](https://www.tudelft.nl/tpm/tpm-ai-lab/) and also an active member of the [Dutch Network Science community](http://www.netsci.nl/) and the [4TU Centre for Resilience Engineering](https://www.4tu.nl/resilience/en/).
 
-My research in focusses on the science of cities. In our group, we model urban spaces at the intersection of data science and complex systems engineering in the frame of infrastructure development, meso-scale mobility prediction, and human well-being. I am particularly interested in the design of methods to aid in understanding urbanization processes and evaluating the effectiveness and implications of policies for the development of growing urban spaces and equitable use of resources.
-
-Through my research, I have discovered that most systems have a tendency to form a core-periphery network that brings an imbalance in the distribution of resources in society. My research and education thus concentrate on understanding and designing urban spaces through the lens of social cohesion and inclusion.
+My research focusses on understanding the fundamental processes that drive, shape and sustain cities. In our group, we leverage large-scale datasets borne of the digital age and networked societies to develop computational frameworks for advancing a transdisciplinary urban science. We investigate how urban data can be useful in investigating the spatial and temporal scales of the different layers of urban systems: infrastructure form, networked material and information flows, and socioeconomic dynamics of citizens, all linked together through various governance systems. We also research how city management and planning can utilise such research to design more equitable and effective policy options. I am particularly interested in the design of methods that facilitate a clear path for cities to address some of the major challenges of equity and sustainability of our society.
 
 I also instruct on remote expeditions for [National Geographic](https://www.nationalgeographic.com/expeditions/trip-types/student/) where high school students have the opportunity to learn about conservation, anthropology, engineering and policy. Previously, I helped build a media and technology startup dedicated to the cause of making this planet a healthier place through authentic journalism and data science at [The Outdoor Journal](https://www.outdoorjournal.com/).
