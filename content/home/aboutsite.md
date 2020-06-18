@@ -31,7 +31,6 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["50px", "25px", "10px", "25px"]
 +++
-{{< figure library="1" src="header.png" title="">}}
 
 ## Urbanisation
 
