@@ -107,9 +107,9 @@ Subsequently, we used K-means clustering to sort the hexagons based on the stand
 
 
 ![Distribution of hexagons, clustered based on the composition of amenity types](clusters-hex.png)
-_Distribution of hexagons, clustered based on the composition of amenity types. Clusters labelled 2 and 3 appear to be concentrated in Central London._
+_Distribution of hexagons, clustered based on the composition of amenity types. Clusters labelled 1 and 3 appear to be concentrated in Central London._
 
-Finally, we obtained the total number of travellers (exit counts) at stations within those hexagons and compared this number against the number of amenities in each hexagon. We found that clusters 2 and 3 (in Central London) attract markedly higher passenger volumes (approximately 80%) than group 1 locations outside of Central London.
+Finally, we obtained the total number of travellers (exit counts) at stations within those hexagons and compared this number against the number of amenities in each hexagon. We found that clusters 1 and 3 (in Central London) attract markedly higher passenger volumes (approximately 80%) than cluster 2 locations outside of Central London
 
 
 ![Comparison of total passenger counts per cluster of hexagons.](clusters-bar.png)
@@ -122,3 +122,9 @@ In this exercise, we explored the relationship between urban amenities and popul
 Furthermore, the POIs dataset that forms the backbone of this analysis deserves further attention. As mentioned earlier, one can refine the sorting of amenities into broader categories to include more amenity types, as opposed to sorting into a hodgepodge category of “miscellaneous” amenities that we ultimately omit from the analysis.
 
 Lastly, we suspect that basing the analysis on aggregate passenger volumes presents only one part of the picture. A more involved analysis, including the distribution of passenger volumes over times of the day, may provide a clearer picture and a more conclusive understanding of the relationship between travel behaviour and urban amenities.
+
+<br />
+
+-----
+
+_See the [medium post](https://medium.com/@smithie/mapping-urban-form-a-distribution-of-points-of-interest-in-greater-london-987e0871e06f) to follow other written works by Jin._
