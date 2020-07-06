@@ -44,4 +44,4 @@ Currently there are no openings for PhD positions.
 
 # Prospective Postdoctoral Positions
 
-A postdoc position at the intersection of urban science, complex networks and machine learning is coming up soon, in 2020. Keep an eye out for more information.
+[1] {{% staticref "jobs/Postdoc_CUSP_2020.pdf" %}}A postdoc position at the intersection of urban science, complex networks and machine learning{{% /staticref %}}
