@@ -34,24 +34,20 @@ date_format = "Jan 2006"
 #### Ziyulong Wang
 ##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
 
-### [14] Investigating the Role of Points of Interest in Estimating Mobility Patterns in Cities
+### [13] Investigating the Role of Points of Interest in Estimating Mobility Patterns in Cities
 #### Karan Pappala
 ##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
 
-### [13] Understanding the Impact of AirBnB on the Social Fabric of Cities: A Case of Amsterdam
+### [12] Understanding the Impact of AirBnB on the Social Fabric of Cities: A Case of Amsterdam
 #### Fabio Tejedor
 ##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
 
-### [12] Supporting Decision Making for Time-Resilience of Public Transport Systems
+### [11] Supporting Decision Making for Time-Resilience of Public Transport Systems
 #### Jakob Serlier [BSc Student]
 ##### _BSc @ TPM, TU Delft [Feb 2020 -  July 2020]_
 
-### [11] Estimating Factors that Influence Migration Flows in Refugees
+### [10] Estimating Factors that Influence Migration Flows in Refugees
 #### Jochem Vlug
-##### _EPA @ TPM, TU Delft [Feb 2020 -  July 2020]_
-
-### [10] Designing a Space-Time Gravity Model for Meso-Scale Mobilty Flow Estimation
-#### Karan Pappala
 ##### _EPA @ TPM, TU Delft [Feb 2020 -  July 2020]_
 
 ### [9] Measuring Ecological Footprint of Cities

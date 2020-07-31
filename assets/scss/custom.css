@@ -145,9 +145,34 @@ html {
 }
 
 /*************************************************
- *  Alerts
+ *  Trusted Widget v4.8
  **************************************************/
 
+.img-grayscale {
+  filter: grayscale(100%);
+}
+
+.dark .img-grayscale {
+  filter: grayscale(100%) invert(1);
+}
+
+/*************************************************
+ *  Alerts
+ *************************************************/
+
+ div.alert-thanks > div:first-child::before {
+  font-family: sans-serif;
+  font-weight: normal;
+  content: '🙏';
+}
+
+div.alert-thanks {
+  background: rgba(250, 235, 221, 0.3);
+}
+
+.dark div.alert-thanks {
+  background: rgba(250, 235, 221, 0.3);
+}
 
 .alert-note {
   color: #fff;

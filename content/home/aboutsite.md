@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = ""
+title = "Urbanisation"
 subtitle = ""
 
 [design]
@@ -14,15 +14,18 @@ subtitle = ""
 
 [background]
   # Background color.
-  color = ""
+  #color = ""
 
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
 
   # Background image.
   #image = "header.png"  # Name of image in `static/img/`.
   #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  #image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -32,11 +35,10 @@ subtitle = ""
   padding = ["50px", "25px", "10px", "25px"]
 +++
 
-## Urbanisation
 
 By _2050_, _80%_ of the world's population will be living in cities. Globally, cities are being transformed redeveloped to continue providing citizens opportunities for sustainable and proposerous livelihoods. Historically, humans have always migrated to dense spatial agglomerations for intense social interactions, exchange of goods, services, information and ideas. The process of urbanisation has naturally fostered socioeconomic, technological and institutional transformations that are also neccessary for sustaining this growth. But the unprecendented development is tightly linked to the most pressing functional and environmental challenges of our time.
 
-Multiple cities in the world are at the brink of collapse, suffering from poverty and segregation, excessive consumption, pollution and associated changes in climate, depleting agricultural utility and in exceptional cases, submergence of land. Lacking resources to solve such problems, some cities are directing further development to satellite centres like Accra in Ghana or Cairo in Egypt. Jakarta, home to $60\%$ of the Indonesian population, is considering relocating its capital city to the rainforests of Borneo because of rising sea levels. Rapidly urbanising cities are also making an tremendous efforts to become smarter, sutainable, resilient and inclusive. But how?
+Multiple cities in the world are at the brink of collapse, suffering from poverty and segregation, excessive consumption, pollution and associated changes in climate, depleting agricultural utility and in exceptional cases, submergence of land. Lacking resources to solve such problems, some cities are directing further development to satellite centres like Accra in Ghana or Cairo in Egypt. Jakarta, home to 60% of the Indonesian population, is considering relocating its capital city to the rainforests of Borneo because of rising sea levels. Rapidly urbanising cities are also making an tremendous efforts to become smarter, sutainable, resilient and inclusive. But how?
 
 <br />
 ## Urban Data

@@ -21,6 +21,9 @@ subtitle = "Media, Announcements and Posts"
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
+  # Add a see all button under the features posts
+  link_to_archive = true
+
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""

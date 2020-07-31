@@ -46,7 +46,7 @@ Like in an hourglass (see Fig. 1), scientific content flows in one direction: to
 
 In the lower inverted cone of the hourglass, objectively expand on methods and results. Build one step at a time from the first set of exploratory data analysis, modelling and experimentation to the final conclusions. Finally, discuss the broad impact and opportunities for future research. Always end on a strong note.
 
-{{< figure library="true" src="resources/scientific-writing.jpg" title="Figure 1. **The illustration of the hourglass framework** shows how content flows from top to bottom of a scientific article. The left of the image shows pointers for each _section_ and the right side describes the _philosophy_ of the framework itself. The colour coding from left to right is not necessarily matched by section to philosophy but is a guiding hand." lightbox="true" >}}
+{{< figure library="true" src="scientific-writing.jpg" title="Figure 1. **The illustration of the hourglass framework** shows how content flows from top to bottom of a scientific article. The left of the image shows pointers for each _section_ and the right side describes the _philosophy_ of the framework itself. The colour coding from left to right is not necessarily matched by section to philosophy but is a guiding hand." lightbox="true" >}}
 
 ## A Loose Structure of research article / thesis / proposal
 (every publication outlet has a different purpose and publication guidelines)
@@ -85,7 +85,7 @@ Every paragraph (see Fig. 2)
 2. the body of the paragraph elaborates on the main message, and
 3. ends with either a concluding remark or a connection with the next section.
 
-{{< figure library="true" src="resources/paragraph-writing.jpg" title="Figure 2. **Paragraph Structure.** Every paragraph should begin with a topical sentence that describes the contents of the paragraph briefly. The body of the paragraph elaborates on the topic giving more detailed insights. Finally, the concluding remark can also act as a connecting sentence to give way to the content of the next paragraph. This can also be omitted at times." lightbox="true" >}}
+{{< figure library="true" src="paragraph-writing.jpg" title="Figure 2. **Paragraph Structure.** Every paragraph should begin with a topical sentence that describes the contents of the paragraph briefly. The body of the paragraph elaborates on the topic giving more detailed insights. Finally, the concluding remark can also act as a connecting sentence to give way to the content of the next paragraph. This can also be omitted at times." lightbox="true" >}}
 
 An excellent way to start writing this is to lay an outline with 5-7 significant points. This way, you can be sure that your message is following a coherent narrative (a story of connected events following a proper sequence) and is meticulous in nature. As you elaborate on the sub-points of each bullet, your paragraph starts to take shape. This also helps you in identifying the main message for every section. The main points can even be thought of as an elevator pitch. All that remains is to remove the bullets and use your literature survey to substantiate the argumentation.
 
