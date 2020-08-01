@@ -1,24 +1,18 @@
 ---
-# Course title, summary, and position in the list.
-linktitle: Syllabus
-summary:
-weight: 30
-
-# Page metadata.
 title: Syllabus
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
+linktitle: Syllabus
+toc: true
+type: docs
+date: "2019-05-05T00:00:00Z"
+draft: false
 menu:
   epa1316-2020:
     name: Syllabus
-    weight: 30
+    parent: Introduction
+    weight: 2
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+# weight: 1
 ---
 
 

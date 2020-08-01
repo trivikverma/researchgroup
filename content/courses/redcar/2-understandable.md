@@ -1,5 +1,5 @@
 ---
-title: Reproducible
+title: Understandable
 linktitle: Understandable1
 toc: true
 type: docs

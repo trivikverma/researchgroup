@@ -1,14 +1,14 @@
 ---
 # Course title, summary, and position in the list.
-linktitle: An Example Course
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+linktitle: Reproducible Computational Research
+summary: Learn how to make your computational results reproducible, more easily understandable, and accessible to others.
+weight: 2
 
 # Page metadata.
 title: Get Started
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
@@ -23,15 +23,15 @@ menu:
 
 ## Introduction
 
-REproDucible ComputAtional Research or simply REDCAR is a project initiated by TU Delft [HumTechLab](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/humtech-lab/humtech-lab/). The goal of the project is to help students and researchers to make their computational results **reproducible**, more easily **understandable**, and **accessible to others**.
+**RE**pro**D**ucible **C**omput**A**tional **R**esearch or simply ``REDCAR`` is an online, workshop-oriented course designed to help students and researchers to make their computational results **reproducible**, more easily **understandable**, and **accessible to others**.
 
-![Project idea](.gitbook/assets/project-idea.png)
+{{< figure src="project-idea.png" title="Project idea" >}}
 
 ## Background
 
 Big data, powerful computers, and programming languages such as Python and R brought quantitative research to a whole new level. Now you can apply a machine learning algorithm to train a car or a drone to become automated with 2 lines of code \([proof](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/ml.jpg)\).
 
-Along with the opportunities, such a technological leap brought complications. Scientists became overwhelmed with all details that should be taken into account while conducting a computational study. Given the pressure from the deadlines, they are forced to **decide between "quick-and-dirty"** **and reproducible research**, not in favor of the latter. Manual corrections of the raw data, conflicting versions of software packages, lack of instructions on how the code should be executed, making it hard if not impossible to reproduce results of a computational study. As a result, more and more scholars have started to highlight the importance of **reproducibility**, propose ways to achieve it and pose it **as a minimum standard** **for assessing the value of scientific claims** \[[1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285),[2](https://science.sciencemag.org/content/334/6060/1226)\].
+Along with the opportunities, the technological leaps also brought complications. Scientists became overwhelmed with all details that should be taken into account while conducting a computational study. Given the pressure from the deadlines, they are forced to **decide between "quick-and-dirty"** **and reproducible research**, not in favor of the latter. Manual corrections of the raw data, conflicting versions of software packages, lack of instructions on how the code should be executed, making it hard if not impossible to reproduce results of a computational study. As a result, more and more scholars have started to highlight the importance of **reproducibility**, propose ways to achieve it and pose it **as a minimum standard** **for assessing the value of scientific claims** \[[1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285),[2](https://science.sciencemag.org/content/334/6060/1226)\].
 
 But what do we mean by reproducible? In this project we will use definition introduced in \[[3](https://stm.sciencemag.org/content/8/341/341ps12.short?casa_token=VgB2iSv2JNkAAAAA:nEpwUfQh5c9LtRUjk7k3CNW99XUArjLuFcwBRgdVYUnIWHifsZLnrtxvEfCFcYk4V2yehf7Sg-LC6sA)\]:
 

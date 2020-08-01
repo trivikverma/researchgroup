@@ -1,14 +1,14 @@
 ---
 # Course title, summary, and position in the list.
-linktitle: Introduction to Urban Data Science [EPA 1316 2020]
+linktitle: EPA 1316 Introduction to Urban Data Science
 summary: Learn how to collect, transform and analyse data using machine learning teachniques for understanding urban phenomena.
 weight: 1
 
 # Page metadata.
-title:
+title: EPA 1316 Introduction to Urban Data Science
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
@@ -21,7 +21,6 @@ menu:
     weight: 1
 ---
 
-# `EPA 1316` Introduction to Urban Data Science
 
 Welcome to EPA 1316 taught by Dr Trivik Verma at Delft University of Technology. The course used to be called Data Analytics and Visualisation and has concurrently been named Introduction to _Urban_ Data Science.
 
