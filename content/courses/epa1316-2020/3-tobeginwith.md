@@ -9,17 +9,20 @@ menu:
   epa1316-2020:
     name: To Begin With
     parent: Introduction
-    weight: 3
+    weight: 30
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 # weight: 1
 ---
 
-### How can we be okay?
+<br/>
+<br/>
 
-{{% alert warning %}}
-Let's address the pandemic. I am not okay and I think none of us are feeling completely okay. If you are going to share your troubles with me, I am not going to judge you or pass on your private information with anybody else. I hope you can extend the same courtesy to me.
+{{% alert note %}}
+Let's address the pandemic. I am not okay and I think none of us are feeling completely okay. If you are going to share your troubles with me, I am not going to judge you or pass on your private information to anybody else. I hope you can extend the same courtesy to me.
 {{% /alert %}}
+
+### How to be okay?
 
 I would like to lay out some ground rules:
 

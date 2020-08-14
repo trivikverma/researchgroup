@@ -31,20 +31,17 @@ in and can calculate the point reduction. It is your responsibility to understan
 there is anything unclear, ask me!
 
 ## Assignment Format
-All assignments will be handed in via bCourses. Assignments should include your full name on
-each page. In addition, in order to help with grading, I would like you to include word counts at
-the end of each writing assignment.
+All assignments will be handed in via **Brightspace** using your own name and account.
 
 ## Email
-I normally respond to emails within a day during a course period. If there is a delay of over 72 hours, do send a reminder. It is not your responsibility to remind me but it may be that the email went to spam or did not reach me. Do not expect us to respond to last minute emails before assignments are due. Substantive questions should be saved for office hours with either me or the TAs.
+I normally respond to emails within a day during a course period. If there is a delay of over _72_ hours, do send a reminder. It is not your responsibility to remind me but it may be that the email went to spam or did not reach me. Do not expect us to respond to last minute emails before assignments are due. Substantive questions should be saved for office hours with either me or the TAs.
 
 ## Academic Honesty
-This is a course designed to provoke critical thinking. While I encourage study groups and
-working together to understand course material, all written work should be your own. Please do
-not use other students’ work for your assignments. If you cite an author or use his/her ideas,
-please cite properly. Plagiarized assignments will receive a failing mark. More information on what
-constitutes as plagiarism is available from the TU Delft Code of Student Conduct:
-http://sa.berkeley.edu/student-code-of-conduct. If you have any further questions, please ask.
+This course is designed to understand the use of data science in addressing urban problems. Many of your ideas may dwell from the same spirit that brought you to this program in the first place, helping society. While I encourage study groups and working together to understand course material, all assignment related work should be your own. Please do not use other students’ work for your assignments. As these are strongly about programming and visuals, it may be that a lot of your pitputs are the same. However, if they are copied and changed, I will know. trust me.
+
+For project related work, we will working in groups. If you cite an author or use their ideas,
+please cite properly. Plagiarised assignments will receive a failing mark. More information on what
+constitutes as plagiarism is available from the {{% staticref "media/resources/epa1316/regulations-tud.pdf" "newtab" %}}TU Delft Rules and Guidelines of the Board of Examiners{{% /staticref %}}. If you have any further questions, please do not hesitate to ask me.
 
 ## Grade Disputes
 Students who wish to dispute grades on an assignment must do so in writing. Grade disputes
@@ -54,11 +51,10 @@ information about what grades you usually get or how long you spent on the assig
 note that grades may be lowered as well as raised after reviewing assignments.
 
 ## Electronic Technology Policy
-Computers (laptops, phones, tablets etc.) and recording devices are not allowed in class except to
-take the 5-minute quiz during section. Please turn these off and put them away before each class.
+Computers (laptops, phones, tablets etc.) and recording devices are generally not allowed during lectures. But in time of remote teaching and learning, we have to use one, so please let me know if this is not possible for som reason. We will work together to address it. Please do not record sessions unless I have explicitly asked you to do so. We will only record sessions, if all your peers agree.
 
-## Special Needs / Accommodations for Students with Disabilities
+## Accommodating Students with Special Needs and Disabilities
 We are committed to creating a learning environment welcoming of all students. If you have any
 special needs, please notify us as soon as possible so that appropriate accommodations can be
 made. If an unexpected personal or medical challenge is interfering with your ability to complete
-assignments and/or attend class, it is your responsibility to contact us as early as possible.
+assignments and/or attend class, it is your responsibility to contact us as early as possible. We will work with you to address it. 

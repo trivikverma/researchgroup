@@ -9,27 +9,33 @@ menu:
   epa1316-2020:
     name: Syllabus
     parent: Introduction
-    weight: 2
+    weight: 20
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 # weight: 1
 ---
 
+<br/>
+<br/>
 
+| Week                                                                                                                                                        | Lecture | Topic                                  | Homework [^1] | Assessment [^2][^3] |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------------------------|------------|---------------|
+| W 1                                                                                                                                                         | L1      | Introduction to Urban Data Science     | H1         |               |
+| W 2                                                                                                                                                         | L2      | Spatial and Urban Data                 | H2         |               |
+|                                                                                                                                                             | L3      | Data Scraping, Grammar and Engineering |            | Assignment 1  |
+| W 3                                                                                                                                                         | L4      | EDA & Visualisation                    | H3         |               |
+| W 4                                                                                                                                                         | L5      | Geo-Visualisation                      | H4         |               |
+|                                                                                                                                                             | L6      | Networks & Spatial Weights             |            | Assignment 2  |
+| W 5                                                                                                                                                         | L7      | Exploratory Spatial Data Analysis      | H5         |               |
+|                                                                                                                                                             | L8      | Machine Learning for Everyone          | H6         |               |
+| W 6                                                                                                                                                         | L9      | Anatomy of a Learning Algorithm        | H7         |               |
+|                                                                                                                                                             | L10     | Basic Practice                         |            | Assignment 3  |
+| W 7                                                                                                                                                         | L11     | Clustering                             | H8         |               |
+|                                                                                                                                                             | L12     | Dimensionality Reduction               | H9         |               |
+| W 8                                                                                                                                                         | L13     | Points + Density Estimation            |            |               |
+|                                                                                                                                                             | L14     | Responsible Data Science               |            | Assignment 4  |
+| W 10                                                                                                                                                        |         |                                        |            | Final Project |
 
-| Week    | Lecture    | Topic                                                    | Learning Goals                      | Python Libraries     | Homework / Labs | Assessment    |
-| ------- | ---------  | -------------------------------------------------------- | ----------------------------------- | -------------------- | --------------- | ------------- |
-| Week 1  | Lecture 1  | Introduction to Data Science                             |                                     | \-                   | H1              |               |
-| Week 1  | Lecture 2  | Problem Understanding                                    |                                     | Anaconda and Jupyter |                 | Assignment 1  |
-| Week 2  | Lecture 3  | Obtaining Data                                           | Obtain, Discuss                     | Requests + JSON      | H2              |               |
-| Week 2  | Lecture 4  | Data, Grammar and Engineering                            | Discuss, manipulate and Consolidate | Numpy, Scipy, Pandas | H3              |               |
-| Week 3  | Lecture 5  | Exploratory Data Analysis                                | Interpret                           | Seaborn + Matplotlib | H4              |               |
-| Week 3  | Lecture 6  | Geo-Visualisation                                        | Describe, Analyse                   | Geopandas            |                 | Assignment 2  |
-| Week 4  | Lecture 7  | How are things connected? - Networks and Spatial Weights | Describe, Analyze                   | Networkx + Osmnx     | H5              |               |
-| Week 4  | Lecture 8  | Supervised Learning - Regression                         | Apply                               | Scikit-learn         | H6              |               |
-| Week 5  | Lecture 9  | Regularisation and Dimensionality Reduction              | Infer                               |                      | H7              |               |
-| Week 5  | Lecture 10 | Bayesian vs Frequentist                                  | Apply                               |                      |                 | Assignment 3  |
-| Week 6  | Lecture 11 | Unsupervised Learning - Clustering                       | Apply                               |                      | H8              |               |
-| Week 6  | Lecture 12 | Classification                                           | Apply                               |                      | H9              |               |
-| Week 7  | Lecture 13 | Causal Inference                                         | Infer                               |                      |                 | Assignment 4  |
-| Week 10 |            |                                                          |                                     |                      |                 | Final Project |
+[^1]: Homeworks are not graded.
+[^2]: Due at the end of the specified week on Friday at 2330.
+[^3]: Grades and feedback released the week after on Friday at 2330.
