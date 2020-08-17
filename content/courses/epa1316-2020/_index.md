@@ -21,9 +21,7 @@ menu:
     weight: 1
 ---
 
-
 Welcome to EPA 1316 taught by Dr Trivik Verma at Delft University of Technology. The course used to be called Data Analytics and Visualisation and has concurrently been named Introduction to _Urban_ Data Science.
-
 
 The timetable for the course is:
 
