@@ -8,7 +8,7 @@ draft: false
 menu:
   epa1316-2020:
     name: Assessment
-    weight: 4
+    weight: 5
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 # weight: 1

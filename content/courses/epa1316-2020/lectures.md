@@ -16,18 +16,21 @@ menu:
 
 1. [Lecture 1: Introduction to _Urban_ Data Science](#lecture-1---introduction-to-urban-data-science) (Sep 2, 2020)
 2. [Lecture 2: Spatial and Urban Data](#lecture-2---spatial-and-urban-data) (Sep 7, 2020)
-3. [Lecture 3: Data Grammar, Engineering and Scraping](#lecture-3) (Sep 9, 2020)
-4. [Lecture 4:](#lecture-2---) (Sep 14, 2020)
-5. [Lecture 5:](#lecture-2---) (Sep 21, 2020)
-6. [Lecture 6:](#lecture-2---) (Sep 23, 2020)
-7. [Lecture 7:](#lecture-2---) (Sep 28, 2020)
-8. [Lecture 8:](#lecture-2---) (Sep 30, 2020)
-9. [Lecture 9:](#lecture-2---) (Oct 5, 2020)
-10. [Lecture 10:](#lecture-2---) (Oct 7, 2020)
-11. [Lecture 11:](#lecture-2---) (Oct 12, 2020)
-12. [Lecture 12:](#lecture-2---) (Oct 14, 2020)
-13. [Lecture 13:](#lecture-2---) (Oct 19, 2020)
-14. [Lecture 14:](#lecture-2---) (Oct 21, 2020)
+3. [Lecture 3: Data Scraping and Grammar](#lecture-3---data-scraping-and-grammar) (Sep 9, 2020)
+4. [Lecture 4: Data Engineering and Transformations](#lecture-4---data-engineering-and-transformations) (Sep 14, 2020)
+5. [Lecture 5 EDA and Visualisation:](#lecture-5---eda-and-visualisation) (Sep 21, 2020)
+6. [Lecture 6: Geo-Visualisation](#lecture-6---geo-visualisation) (Sep 23, 2020)
+7. [Lecture 7: Networks and Spatial Weights](#lecture-7---networks-and-spatial-weights) (Sep 28, 2020)
+8. [Lecture 8: Exploratory Spatial Data Analysis](#lecture-8---exploratory-spatial-data-analysis) (Sep 30, 2020)
+9. [Lecture 9: Machine Learning for Everyone](#lecture-9---machine-learning-for-everyone) (Oct 5, 2020)
+10. [Lecture 10: Anatomy of a Learning Algorithm](#lecture-10---anatomy-of-a-learning-algorithm) (Oct 7, 2020)
+11. [Lecture 11: Clustering](#lecture-11---clustering) (Oct 12, 2020)
+12. [Lecture 12: Dimensionality Reduction](#lecture-12---dimensionality-reduction) (Oct 14, 2020)
+13. [Lecture 13: Spatial Density Estimation](#lecture-13---spatial-density-estimation) (Oct 19, 2020)
+14. [Lecture 14: Responsible Data Science](#lecture-14---responsible-data-science) (Oct 21, 2020)
+
+<br/>
+<br/>
 
 {{% alert note %}}
 Before starting this course, watch [this video](https://www.youtube.com/watch?v=8jqEj8XUPlk&t=80s) by Khalid Kadir about a reflection on poverty (an example of a social problem), expertise and equity. This representation is an example of how experts form boxes around their craft. As a data scientist or a future AI expert, it is our responsibility to step out of those boxes and engage with communities to strive for just outcomes.
@@ -107,7 +110,7 @@ The contents of this lecture are loosely based on, and explored into further det
 ***
 <br/>
 
-## Lecture 3 - Data Grammar, Engineering and Scraping
+## Lecture 3 - Data Scraping and Grammar
 
 ### Slides
 
@@ -128,7 +131,30 @@ The contents of this lecture are loosely based on, and explored into further det
 ***
 <br/>
 
-## Lecture 4 - EDA and Visualisation
+## Lecture 4 - Data Engineering and Transformations
+
+### Slides
+
+- [html]()
+- [pdf]()
+
+### To do before class
+
+* Read a short blog on [Why, How and When to Scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
+
+### Related readings
+
+The contents of this lecture are loosely based on, and explored into further detail, in the following two references :
+
+* Section 9.3.1 of [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) by Andriy Burkov.
+* A more academically suited blog on [Feature Scaling](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+
+<br/>
+
+***
+<br/>
+
+## Lecture 5 - EDA and Visualisation
 
 This lecture is partly inspired by (Tufte, 1983).
 
@@ -161,7 +187,7 @@ This lecture is partly inspired by (Tufte, 1983).
 ***
 <br/>
 
-## Lecture 5 - Geo-Visualisation
+## Lecture 6 - Geo-Visualisation
 
 This lecture is partly inspired by (Rey, 2015).
 
@@ -192,7 +218,7 @@ This lecture is partly inspired by (Rey, 2015).
 ***
 <br/>
 
-## Lecture 6 - Networks and Spatial Weights
+## Lecture 7 - Networks and Spatial Weights
 
 ### Slides
 
@@ -219,7 +245,7 @@ This lecture is partly inspired by (Rey, 2015).
 ***
 <br/>
 
-## Lecture 7 - Exploratory Spatial Data Analysis
+## Lecture 8 - Exploratory Spatial Data Analysis
 
 ### Slides
 
@@ -247,7 +273,7 @@ This lecture is partly inspired by (Rey, 2015).
 ***
 <br/>
 
-## Lecture 8 - Machine Learning for Everyone
+## Lecture 9 - Machine Learning for Everyone
 
 Kindly buy [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) as _some_ chapters will be used in _some_ topics from this point onwards and it is generally an amazing book to have. If you cannot or do not want to spend $20.00 on the e-copy, email me and we will figure something out. The author has invested a lot in writing this book and it is an excellent resource on Machine Learning, even beyond this class.
 
@@ -275,7 +301,7 @@ The contents of this lecture are loosely based on, and explored into further det
 ***
 <br/>
 
-## Lecture 9 - Anatomy of a Learning Algorithm
+## Lecture 10 - Anatomy of a Learning Algorithm
 
 ### Slides
 
@@ -295,29 +321,6 @@ The contents of this lecture are loosely based on, and explored into further det
 ### References
 
 {% bibliography --cited %}
-
-<br/>
-
-***
-<br/>
-
-## Lecture 10 - Basic Data Transformations
-
-### Slides
-
-- [html]()
-- [pdf]()
-
-### To do before class
-
-* Read a short blog on [Why, How and When to Scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
-
-### Related readings
-
-The contents of this lecture are loosely based on, and explored into further detail, in the following two references :
-
-* Section 9.3.1 of [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) by Andriy Burkov.
-* A more academically suited blog on [Feature Scaling](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 
 <br/>
 
@@ -418,7 +421,3 @@ The contents of this lecture are loosely based on, and explored into further det
 ### Related readings
 
 * Watch [The unfortunate history of racial bias in photography.](https://www.youtube.com/watch?v=d16LNHIEJzs).
-
-### References
-
-{% bibliography --cited %}
