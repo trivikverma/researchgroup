@@ -37,7 +37,7 @@ In 2020, the university has decided to host all lectures online so students can 
 ## Contact
 
 ```markdown
-Trivik Verma - T.Verma [at] tudelft.nl
+Trivik Verma - t.verma [at] tudelft.nl
 Assistant Professor in Computational Urban Science & Policy
 B1.290, Building 31
 Faculty of Technology, Policy and Management
@@ -45,6 +45,16 @@ Jaffalaan 5
 2628 BX Delft
 The Netherlands
 ```
+
+## Teaching Assistants
+
+Aarthi Meenakshi Sundaram <A.MeenakshiSundaram [at] student.tudelft.nl>\
+Jelle Egbers <J.T.Egbers [at] student.tudelft.nl>\
+Tess Kim <N.Kim-2 [at] student.tudelft.nl>\
+Lotte Lourens <L.Lourens [at] student.tudelft.nl>\
+Amir Ebrahimi Fard <A.EbrahimiFard-1 [at] tudelft.nl>\
+Giulia Reggiani <G.Reggiani [at] tudelft.nl>\
+Bramka Jafino <B.A.Jafino [at] tudelft.nl>
 
 ## Course Language
 

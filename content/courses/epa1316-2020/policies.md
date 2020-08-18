@@ -37,7 +37,7 @@ All assignments will be handed in via **Brightspace** using your own name and ac
 I normally respond to emails within a day during a course period. If there is a delay of over _72_ hours, do send a reminder. It is not your responsibility to remind me but it may be that the email went to spam or did not reach me. Do not expect us to respond to last minute emails before assignments are due. Substantive questions should be saved for office hours with either me or the TAs.
 
 ## Academic Honesty
-This course is designed to understand the use of data science in addressing urban problems. Many of your ideas may dwell from the same spirit that brought you to this program in the first place, helping society. While I encourage study groups and working together to understand course material, all assignment related work should be your own. Please do not use other students’ work for your assignments. As these are strongly about programming and visuals, it may be that a lot of your pitputs are the same. However, if they are copied and changed, I will know. trust me.
+This course is designed to understand the use of data science in addressing urban problems. Many of your ideas may dwell from the same spirit that brought you to this program in the first place, helping society. While I encourage study groups and working together to understand course material, all assignment related work should be your own. Please do not use other students’ work for your assignments. As these are strongly about programming and visuals, it may be that a lot of your outputs are the same. However, if they are copied and changed, I will know.
 
 For project related work, we will working in groups. If you cite an author or use their ideas,
 please cite properly. Plagiarised assignments will receive a failing mark. More information on what
@@ -47,14 +47,21 @@ constitutes as plagiarism is available from the {{% staticref "media/resources/e
 Students who wish to dispute grades on an assignment must do so in writing. Grade disputes
 must be submitted no sooner than 24 hours after receiving your grade, but within two weeks.
 Any dispute should outline specifically why you feel there is an error and should not contain
-information about what grades you usually get or how long you spent on the assignment. Please
-note that grades may be lowered as well as raised after reviewing assignments.
+information about what grades you usually get or how long you spent on the assignment.
+
+If you are not satisfied, and you wish to discuss your grade further, you have two options:
+
+[A]: If you are interested in what/how about your assignment/project answers, and wish to learn from your mistakes, we can have a discussion about your work. Please request a 15 minutes appointment by email. We WILL NOT discuss changing the grading of your answers during this discussion.
+
+[B]: In the case that you are not satisfied with your grade, and believe that you deserve more, we will follow the procedure below. Per TBM rules, I am not allowed to change the grade when you are present, in order to prevent any kind of bias. Therefore :
+- [x] You need to prepare a written document, arguing per question why your answers / report should to get a different number of points than what you have scored.
+- [x] I will consider your argumentation, and re-grade the entire project. This means that you will receive a new, and this time final grade, which may be higher but also lower that the previous score. I will communicate this grade with you by email.
 
 ## Electronic Technology Policy
-Computers (laptops, phones, tablets etc.) and recording devices are generally not allowed during lectures. But in time of remote teaching and learning, we have to use one, so please let me know if this is not possible for som reason. We will work together to address it. Please do not record sessions unless I have explicitly asked you to do so. We will only record sessions, if all your peers agree.
+Computers (laptops, phones, tablets etc.) and recording devices are generally not allowed during lectures. But in time of remote teaching and learning, we have to use one, so please let me know if this is not possible for some reason. We will work together to address it. Please do not record sessions unless I have explicitly asked you to do so. We will only record sessions, if all your peers agree.
 
 ## Accommodating Students with Special Needs and Disabilities
 We are committed to creating a learning environment welcoming of all students. If you have any
 special needs, please notify us as soon as possible so that appropriate accommodations can be
 made. If an unexpected personal or medical challenge is interfering with your ability to complete
-assignments and/or attend class, it is your responsibility to contact us as early as possible. We will work with you to address it. 
+assignments and/or attend class, it is your responsibility to contact us as early as possible. We will work with you to address it.

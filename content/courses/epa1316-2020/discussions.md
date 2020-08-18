@@ -14,64 +14,101 @@ menu:
 # weight: 1
 ---
 
-1. [Discussion 1: What is Urban Data Science?](#discussion-1---week-1) (Sep 4, 2020)
-2. [Discussion 2: Spatial and Urban Data](#discussion-2---spatial-and-urban-data) (Sep 11, 2020)
-3. [Discussion 3: Data Grammar, Engineering and Scraping](#discussion-3) (Sep 18, 2020)
-4. [Discussion 4:](#discussion-2---) (Sep 25, 2020)
-5. [Discussion 5:](#discussion-2---) (Oct 2, 2020)
-6. [Discussion 6:](#discussion-2---) (Oct 9, 2020)
-7. [Discussion 7:](#discussion-2---) (Oct 16, 2020)
-8. [Discussion 8:](#discussion-2---) (Oct 23, 2020)
+1. [Discussion 1: Big Data and Big Cities](#week-1---big-urban-data) (Sep 4, 2020)
+2. [Discussion 2: Urban Data Sensing and Collection](#week-2---urban-data-sensing-and-collection) (Sep 11, 2020)
+3. [Discussion 3: Measuring the Urban Condition](#week-3---measuring-the-urban-condition) (Sep 18, 2020)
+4. [Discussion 4: Exploratory Spatial Interaction](#week-4---exploratory-spatial-interaction) (Sep 25, 2020)
+5. [Discussion 5: Spatial Network Analysis](#week-5---spatial-network-analysis) (Oct 2, 2020)
+6. [Discussion 6: Large-scale Urban Laws](#week-6---large-scale-urban-laws)(Oct 9, 2020)
+7. [Discussion 7: Clustering the Urban Form](#week-7---clustering-the-urban-form) (Oct 16, 2020)
+8. [Discussion 8: Ethics of Smart Cities](#week-8---ethics-of-smart-cities) (Oct 23, 2020)
 
 <br/>
 
 ***
 <br/>
 
-## Week 1 - What is Urban Data Science
+## Week 1 - Big Urban Data
 
+Big Data and Big Cities: The Promises and Limitations of Improved Measures of Urban Life
+<br/>
+[[pdf](../discussions/week1.pdf)][[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12364)]
 
+<br/>
 
-- [pdf](../discussions/01-introduction.pdf)
+***
+<br/>
 
-## Week 2 - Urban Data, Sensing and Collection
+## Week 2 - Urban Data Sensing and Collection
 
+(So) Big Data and the transformation of the city
+<br/>
+[[pdf](../discussions/week2.pdf)][[link](https://link.springer.com/article/10.1007/s41060-020-00207-3)]
 
+<br/>
 
-- [pdf](../discussions/01-introduction.pdf)
+***
+<br/>
 
-## Week 3 - Data Transformations
+## Week 3 - Measuring the Urban Condition
 
+Road network vulnerability analysis: Conceptualization,implementation and application
+<br/>
+[pdf[^1]][[link - sign in with your TUD credentials to get access](https://www.sciencedirect.com/science/article/pii/S0198971514000192)]
 
+[^1]: I cannot provide you a PDF because of the absurd billion dollar academic publishing industry
 
-- [pdf](../discussions/01-introduction.pdf)
+<br/>
 
-## Week 4 - Geo-Visualisation and Planning
+***
+<br/>
 
+## Week 4 - Exploratory Spatial Interaction
 
+Quantifying long-term evolution of intra-urban spatial interactions
+<br/>
+[[pdf](../discussions/week4.pdf)][[link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.1089)]
 
-- [pdf](../discussions/01-introduction.pdf)
+<br/>
 
-## Week 5 - Exploratory Spatial Data Analysis
+***
+<br/>
 
+## Week 5 - Spatial Network Analysis
 
+Toward cities without slums: Topology and the spatial evolution of neighborhoods
+<br/>
+[[pdf](../discussions/week5.pdf)][[link](https://advances.sciencemag.org/content/4/8/eaar4644)][[post](https://miurban.uchicago.edu/2019/11/14/millionneighborhoodsmap/)][[tool](https://millionneighborhoods.org/#2/8.84/17.54)]
 
-- [pdf](../discussions/01-introduction.pdf)
+<br/>
 
-## Week 6 - Learning and Regression
+***
+<br/>
 
+## Week 6 - Large-scale Urban Laws
 
+Urban Scaling and Its Deviations: Revealing the Structure of Wealth, Innovation and Crime across Cities
 
-- [pdf](../discussions/01-introduction.pdf)
+[[pdf](../discussions/week6.pdf)][[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013541)]
 
-## Week 7 - The need for Clustering
+<br/>
 
+***
+<br/>
 
+## Week 7 - Clustering the Urban Form
 
-- [pdf](../discussions/01-introduction.pdf)
+Urban DNA and Sustainable Cities: A Multi-City Comparison
 
-## Week 8 - Bias, Ethics, Limitations and Responsibility
+[[pdf](../discussions/week7.pdf)][[link](https://www.frontiersin.org/articles/10.3389/fenvs.2019.00004/full)]
 
+<br/>
 
+***
+<br/>
 
-- [pdf](../discussions/01-introduction.pdf)
+## Week 8 - Ethics of Smart Cities
+
+The ethics of smart cities and urban science
+
+[[pdf](../discussions/week8.pdf)][[link](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2016.0115)]

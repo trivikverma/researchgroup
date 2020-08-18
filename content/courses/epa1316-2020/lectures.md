@@ -62,11 +62,12 @@ As a way to wet your apetite about the content of the first class, I recommend y
 
 ### Related readings
 
-The contents of this lecture are loosely based on, and explored into further detail, in the following three references :
+The contents of this lecture are loosely based on, and explored into further detail, in the following four references :
 
 * **[Recommended]** "Chapter 1: Introduction" (Schutt & O’Neil, 2013). Free sampler of the book containing the chapter available online ([html](http://shop.oreilly.com/product/0636920028529.do), [pdf](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449358655_sampler.pdf)).
 * Excellent overview of Data Science (Donoho, 2017).
 * A Geographic take on Data Science, proposing a new field (Singleton & Arribas-Bel, 2019).
+* [A critical approach to Data Science for Cities](https://hdsr.mitpress.mit.edu/pub/1um18ajd/release/1)
 
 ### References
 
@@ -310,17 +311,12 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### To do before class
 
-
+* Read [An accessible introduction to how machine learning is applied in urban design: a generative design tool](https://ui.kpf.com/smarter-city)
+* Go through this amazing medium post about [A first step toward the future of neighborhood design](https://medium.com/sidewalk-talk/a-first-step-toward-the-future-of-neighborhood-design-a2777ad69550)
 
 ### Related readings
 
-The contents of this lecture are loosely based on, and explored into further detail, in the following three references :
-
-* **[Recommended]**
-
-### References
-
-{% bibliography --cited %}
+* [Explainable ML/AI: Why Are We Using Black Box Models in AI When We Don’t Need To?](https://hdsr.mitpress.mit.edu/pub/f9kuryi8/release/5)
 
 <br/>
 
@@ -342,13 +338,15 @@ The contents of this lecture are loosely based on, and explored into further det
 
 * Chapters 1 and 2 in (Webber & Burrows, 2018) provides a fascinating account of the origins of Geodemographic classifications.
 * Chapter 7 in (Brunsdon & Singleton, 2015): *Geodemographic Analysis*, by Alexandros Alexiou and Alex Singleton.
-* (Duque, Ramos, & Suriñach, 2007)  is an excellent review of regionalization algorthims, but it is an advanced read.
+* (Duque, Ramos, & Suriñach, 2007) is an excellent review of regionalization algorthims, but it is an advanced read.
+* (Oke et al., 2019) provides a very nice urban framework using hierarchical clustering methods and diverse set of abundant data.
 
 ### References
 
 1. Webber, R., & Burrows, R. (2018). The Predictive Postcode: The Geodemographic Classification of British Society. SAGE.
 2. Brunsdon, C., & Singleton, A. (2015). Geocomputation: A Practical Primer. SAGE.
 3. Duque, J. C., Ramos, R., & Suriñach, J. (2007). Supervised regionalization methods: A survey. International Regional Science Review, 30(3), 195–220.
+4. Oke, J. B., Aboutaleb, Y. M., Akkinepally, A., Azevedo, C. L., Han, Y., Zegras, P. C., ... & Ben-Akiva, M. E. (2019). A novel global urban typology framework for sustainable mobility futures. Environmental Research Letters, 14(9), 095006.
 
 <br/>
 
@@ -372,6 +370,8 @@ The contents of this lecture are loosely based on, and explored into further det
 The contents of this lecture are loosely based on, and explored into further detail, in the following reference :
 
 * Section 9.3.1 of [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) by Andriy Burkov.
+
+
 
 <br/>
 
@@ -416,8 +416,13 @@ The contents of this lecture are loosely based on, and explored into further det
 
 * Read [A city is not a computer](https://placesjournal.org/article/a-city-is-not-a-computer/?cn-reloaded=1), Shannon Mattern which carefully examines the limitations of computation in bettering human condition.
 * Explore the [Gender Shades](http://gendershades.org/overview.html) project by Joy Buolamwini and Timnit Gebru that uncovers the priorities, preferences and prejudices of powerful organisations that develop automated systems.
-*
+* Read and critically examine a post by Sidewalk Labs: [An Update on Data Governance for Sidewalk Toronto](https://www.sidewalklabs.com/blog/an-update-on-data-governance-for-sidewalk-toronto/)
 
 ### Related readings
 
 * Watch [The unfortunate history of racial bias in photography.](https://www.youtube.com/watch?v=d16LNHIEJzs).
+* (El-Geneidy et al., 2016) describe the cost of equity in assessing transit accessibility and social disparity using total travel cost.
+
+### References
+
+1. El-Geneidy, A., Levinson, D., Diab, E., Boisjoly, G., Verbich, D., & Loong, C. (2016). The cost of equity: Assessing transit accessibility and social disparity using total travel cost. Transportation Research Part A: Policy and Practice, 91, 302-316.
