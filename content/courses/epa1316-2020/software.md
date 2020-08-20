@@ -30,7 +30,7 @@ To install Python and required libraries through this approach, please follow th
 
 - Install [`miniconda`](https://docs.conda.io/en/latest/miniconda.html) for your OS version from the [official link](https://docs.conda.io/en/latest/miniconda.html). Make sure to install the Python 3 (e.g. 3.7) version, not Python 2.
 - Once you have miniconda installed, we need to setup an independent environment that isolates all the functionality we need. Open up a terminal ("Anaconda Command Prompt" in Windows, "Applications --> Utilities --> Terminal" in macOS and  "ctr+alt+T" in Linux) and run the following commands:
-    - Download the installer file from [here](https://raw.githubusercontent.com/darribas/gds19/master/content/infrastructure/install_gds_stack.yml) and place it in a folder you can access (e.g. Downloads)
+    - Download the installer file from [here](https://raw.githubusercontent.com/trivikverma/researchgroup/master/content/courses/epa1316-2020/resources/install_gds_stack.yml) and place it in a folder you can access (e.g. Downloads)
     - Navigate to the folder where this file is (e.g. Downloads):
 
         ```
@@ -48,13 +48,6 @@ To install Python and required libraries through this approach, please follow th
         ```
         conda activate gds
         ```
-    - If you want to test the results, you can download [this file](https://github.com/darribas/gds19/raw/master/content/infrastructure/check_gds_stack.ipynb), place it in the same folder and run:
-
-        ```
-        jupyter nbconvert --execute --to html
-        ```
-
-        When this completes, it will create a `.html` file in the same folder that you can inspect. If no error messages are present, the installation was successful!
 
 ## 2) A comprehensive approach: the GDS Docker container
 
