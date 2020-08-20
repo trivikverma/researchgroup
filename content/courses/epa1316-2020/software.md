@@ -29,7 +29,17 @@ If you just want a more minimalist installation that *only* includes the barebon
 To install Python and required libraries through this approach, please follow these steps:
 
 - Install [`miniconda`](https://docs.conda.io/en/latest/miniconda.html) for your OS version from the [official link](https://docs.conda.io/en/latest/miniconda.html). Make sure to install the Python 3 (e.g. 3.7) version, not Python 2.
-- Once you have miniconda installed, we need to setup an independent environment that isolates all the functionality we need. Open up a terminal ("Anaconda Command Prompt" in Windows, "Applications --> Utilities --> Terminal" in macOS and  "ctr+alt+T" in Linux) and run the following commands:
+- Once you have miniconda installed, we need to setup an independent environment that isolates all the functionality we need.
+
+But first, what are environments and do I need them?
+
+Environments in Python are like sandboxes that have different versions of Python and/or packages installed in them. You can create, export, list, remove, and update environments. Switching or moving between environments is called activating the environment. When you are done with an environments you may deactivate it.
+
+For this class we want to have a bit more control on the packages that will be installed with the enviromnent so we will create an environment with a so called YAML file called `install_gds_stack.yml` (you will find it later in this page). Originally YAML was said to mean *Yet Another Markup Language* referencing its purpose as a markup language with the yet another construct, but it was then repurposed as *YAML Ain't Markup Language* [source:wikipedia].
+
+#### Creating an environment from an environment.yml file
+
+- Open up a terminal ("Anaconda Command Prompt" in Windows, "Applications --> Utilities --> Terminal" in macOS and  "ctr+alt+T" in Linux) and run the following commands:
     - Download the installer file from [here](https://raw.githubusercontent.com/trivikverma/researchgroup/master/content/courses/epa1316-2020/resources/install_gds_stack.yml) and place it in a folder you can access (e.g. Downloads)
     - Navigate to the folder where this file is (e.g. Downloads):
 
@@ -48,6 +58,16 @@ To install Python and required libraries through this approach, please follow th
         ```
         conda activate gds
         ```
+
+        You should see the name of the environment at the start of your command prompth in parenthesis.
+
+    - Verify that the new environment was installed correctly:
+
+        ```
+        conda list
+        ```
+
+        This will give you a list of the packages installed in this environment. For reference, go to [Manage conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 ## 2) A comprehensive approach: the GDS Docker container
 

@@ -14,15 +14,14 @@ menu:
 # weight: 1
 ---
 
-1. [Lab 0: Tools](#Lab-0---tools) (Sep 2, 2020)
-2. [Lab 1: Spatial and Urban Data](#Lab-2---spatial-and-urban-data) (Sep 7, 2020)
-3. [Lab 2: Data Scraping and Grammar](#Lab-3---data-scraping-and-grammar) (Sep 9, 2020)
-4. [Lab 3: Data Engineering and Transformations](#Lab-4---data-engineering-and-transformations) (Sep 14, 2020)
-5. [Lab 4 EDA and Visualisation:](#Lab-5---eda-and-visualisation) (Sep 21, 2020)
-6. [Lab 5: Geo-Visualisation](#Lab-6---geo-visualisation) (Sep 23, 2020)
-7. [Lab 6: Networks and Spatial Weights](#Lab-7---networks-and-spatial-weights) (Sep 28, 2020)
-8. [Lab 7: Exploratory Spatial Data Analysis](#Lab-8---exploratory-spatial-data-analysis) (Sep 30, 2020)
-9. [Lab 8: Machine Learning for Everyone](#Lab-9---machine-learning-for-everyone) (Oct 5, 2020)
+1. [Lab 1: Tools](#lab-1---tools) (Sep 2, 2020)
+2. [Lab 2: Tidy Data](#lab-2---tidy-data) (Sep 7, 2020)
+3. [Lab 3: Data Engineering](#lab-3---data-engineering) (Sep 9, 2020)
+4. [Lab 4: Geo-Visualisation](#lab-4---geo---visualisation) (Sep 14, 2020)
+5. [Lab 5: Networks and Spatial Weights](#lab-5---networks-and-spatial-weights) (Sep 21, 2020)
+6. [Lab 6: Linear Regression](#lab-6---linear-regression) (Sep 23, 2020)
+7. [Lab 7: Clustering](#lab-7---clustering) (Sep 28, 2020)
+8. [Lab 8: Exploratory Spatial Data Analysis](#lab-8---exploratory-spatial-data-analysis) (Sep 30, 2020)
 
 <br/>
 <br/>
@@ -33,25 +32,16 @@ menu:
 ***
 <br/>
 
-## Lab 0 - Tools
+## Lab 1 - Tools
 
+**IMPORTANT** This is a supplementary notebook that covers many basics of the tools we will use in the course, but does not explain anything directly related to Urban Data Science.
 
-**IMPORTANT** This is a supplementary notebook that covers many basics of the tools we will use in the course, but does not explain anything directly related to Geographic Data Science.
-
-Students are encouraged to read it once before getting started with the other notebooks and then keep it as a reference throughout the rest of the course.
-
----
-
-**TIP**: Here you can find a step-by-step tutorial about how to start up the notebook, download files, and access them through the notebook:
-
-> [[HTML](../content/labs/begin.html)]
-
+Students are encouraged to read it once before getting started with the other notebooks and then keep it as a reference throughout the rest of the course. There are some basic Python operations in there that act as a refresher, practice or learning material.
 
 ### Notebook
 
-- [ipynb](../labs/lab_00.ipynb)
-- [html](../labs/lab_00.html)
-- [pdf](../labs/lab_00.pdf)
+- [lab-ipynb](../labs/lab-01.ipynb)
+- [homework-ipynb](../labs/hw-01.ipynb)
 
 ### Additional materials
 
@@ -70,31 +60,28 @@ If you want to explore further by yourself the contents presented in this tutori
 ***
 <br/>
 
-## Lab 2 - Spatial and Urban Data
+## Lab 2 - Tidy Data
 
-### Slides
+### Notebook
 
-- [html]()
-- [pdf]()
+- [lab-ipynb](../labs/lab-02.ipynb)
+- [homework-ipynb](../labs/hw-02.ipynb)
 
-### To do before class
+### Data
 
-* Watch the [TED talk](https://www.youtube.com/watch?v=CijsvAGU6-c) by Carlo Rati about MIT's SENSEable City Lab projects: excellent set of examples
-* Read the [New York Times piece](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) on US buildings map
-* Explore the [GHSL](https://ghsl.jrc.ec.europa.eu/index.php) Dataset, by the European Commission
+This session uses the **"Census socio-demographics"** datasets. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
 
-### Related readings
+### Additional materials
 
-* The part of the Lab on new sources of data relies on (Arribas-Bel, 2014) and (Lazer & Radford, 2017).
-* (Goodchild, 2007): a classic on the rise of volunteered geographic information.
-* (Kitchin, 2014): recent book on the data revolution from a Social Science/Human geography perspective.
+* A good extension of this session is (Wickham, 2014).. The paper is published under an Open Access license so it is freely available on the journal's site, but the author has also made available a public [repository](https://github.com/hadley/tidy-data) with the data and code used in the paper. Keep in mind the paper and the code that comes with it are based on R, not on Python.
+* **[Visualization]** Python library `seaborn` [tutorial](http://stanford.edu/~mwaskom/software/seaborn/tutorial.html).
+* **[Recommended]** (McKinney, 2012): excellent introduction to Python for data analysis, with plenty of examples and code snippets (Publisher's page [link](http://shop.oreilly.com/product/0636920023784.do)).
+* [NY Times article](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0) about the importance of cleaning data.
 
 ### References
 
-1. Arribas-Bel, D. (2014). Accidental, open and everywhere: Emerging data sources for the understanding of cities . Applied Geography , 49, 45–53.
-2. Lazer, D., & Radford, J. (2017). Data ex Machina: Introduction to Big Data. Annual Review of Sociology, (0).
-3. Goodchild, M. F. (2007). Citizens as sensors: the world of volunteered geography. GeoJournal, 69(4), 211–221.
-4. Kitchin, R. (2014). The data revolution: Big data, open data, data infrastructures and their consequences. Sage.
+1. Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(10).
+2. McKinney, W. (2012). Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. O’Reilly Media, Inc.
 
 <br/>
 
@@ -122,139 +109,133 @@ If you want to explore further by yourself the contents presented in this tutori
 ***
 <br/>
 
-## Lab 4 - Data Engineering and Transformations
+## Lab 4 - Geo-Visualization
 
-### Slides
+### Notebook
 
-- [html]()
-- [pdf]()
+- [lab-ipynb](../labs/lab-02.ipynb)
+- [homework-ipynb](../labs/hw-02.ipynb)
 
-### To do before class
+### Extra Practice
 
-* Read a short blog on [Why, How and When to Scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
+- [lab-ipynb](../labs/lab-02.ipynb)
+- [homework-ipynb](../labs/hw-02.ipynb)
 
-### Related readings
+### Data
 
-The contents of this Lab are loosely based on, and explored into further detail, in the following two references :
+This session uses the **"Census socio-demographics"** dataset as well as the Ordnance Survey **(OS) Geodata Pack**. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
 
-* Section 9.3.1 of [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) by Andriy Burkov.
-* A more academically suited blog on [Feature Scaling](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+The extra practice session uses the **"Index of Multiple Deprivation""** dataset as well as the Ordnance Survey **(OS) Geodata Pack**. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
 
-<br/>
+Additionally, you will need the raster file for the basemap of Liverpool. This has been assembled by [Dani Arribas-Bel](http://darribas.org) from the [OS VectorMap District (Backdrop Raster)](https://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html), and it is licensed as OpenData. The file is available for download on the following link:
 
-***
-<br/>
+> [http://darribas.org/gds17/content/labs/figs/lab04_liverpool.tif](http://darribas.org/gds17/content/labs/figs/lab04_liverpool.tif)
 
-## Lab 5 - EDA and Visualisation
+### Additional materials
 
-This Lab is partly inspired by (Tufte, 1983).
-
-### Slides
-
-- [html]()
-- [pdf]()
-
-### To do before class
-
-* Watch this short [video](https://www.youtube.com/watch?v=j8g4_ee27Tk) on data visualisation by Nathan Yau
-* [Think about the grammar of graphics when improving your graphs](https://medium.com/tdebeus/think-about-the-grammar-of-graphics-when-improving-your-graphs-18e3744d8d18) - at _Colourful Facts_ – a Medium blog by Thomas de Beus (Ignore the reference to the **R** programming language as this course is based on **Python** (no offense intended to any community).)
-
-### Related readings
-
-* Berinato, S. Visualizations That Really Work, Harvard Business Review, Jun 2016
-* Wainer, H. How to Display Data Badly. The American Statistician 1984; 38: 137-1470
-* Alberto Cairo's weblog called [The Functional Art](http://www.thefunctionalart.com/) about information design and visualisation is a great resource for improving your visualisations.
-* (Yau, 2011)’s book ["Visualize this"](http://flowingdata.com/visualize-this/)
-  is a good general introduction to visualisation.
-* Check out [From Data to Vis](https://www.data-to-viz.com/) chart selector for selecting the right charts
-
-### References
-
-1. Tufte, E. R. (1983). The visual display of quantitative information. Graphics press Cheshire, CT.
-2. Yau, N. (2011). Visualize this: the FlowingData guide to design, visualization, and statistics. John Wiley & Sons.
+* A good introduction to the `geopandas` project is provided by Kelsey Jordahl, the project's founder in this [set of slides](http://kjordahl.github.io/SciPy-Tutorial-2015/#1) from a 2015 talk and the companion [repository](https://github.com/kjordahl/SciPy-Tutorial-2015).
+* An additional great resource is this 4h. [workshop](https://github.com/carsonfarmer/python_geospatial) by Carson Farmer.
 
 <br/>
 
 ***
 <br/>
 
-## Lab 6 - Geo-Visualisation
+## Lab 5 - Networks and Spatial Weights
 
-This Lab is partly inspired by (Rey, 2015).
+### Notebook
 
-### Slides
+- [lab-ipynb](../labs/lab-02.ipynb)
+- [homework-ipynb](../labs/hw-02.ipynb)
 
-- [html]()
-- [pdf]()
+### Extra Practice
 
-### To do before class
+- [lab-ipynb](../labs/lab-02.ipynb)
+- [homework-ipynb](../labs/hw-02.ipynb)
 
-* Watch this Lab on  "Statistical maps" by Luc Anselin ([link](https://www.youtube.com/watch?v=6-weK5J6xRI) to 25min video).
-* Read the Conversation [piece](http://theconversation.com/how-zip-codes-nearly-masked-the-lead-problem-in-flint-65626) on the Flint case, where the MAUP played a key role.
-* Spend the rest of the prep hour browsing through Nathan Yau's excellet blog, [Flowing Data](http://flowingdata.com/).
+### Data
 
-### Related readings
+This session uses the **"Index of Multiple Deprivation""** dataset. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
 
-* (Brewer, 2015)’s [Designing Better Maps](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=293&moduleID=0) covers several aspects of building effective geovisualisations.
-* [Choropleth chapter](https://geographicdata.science/book/notebooks/05_choropleth.html) from the GDS Book (in progress).
-* Color palettes are important for maps. Find some in [ColorBrewer](http://colorbrewer2.org/).
+The extra practice session uses the **Brexit** dataset. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
 
-### References
+### Required before the practical
 
-1. Rey, S. (2015). Geovisualization. In GPH471: Geographic Information Analysis. Lab slides from course taught at Arizona State University.
-2. Brewer, C. (2015). Designing better Maps: A Guide for GIS users. ESRI press.
+Watch the section on spatial weights of the SciPy'16 tutorial on Geographic Data Science with PySAL.
 
-<br/>
+> [[YouTube](https://youtu.be/TY4QWnnd4jY?t=1h2m55s) - Min 1:02:55 to 1:25:40]
 
-***
-<br/>
+Watch the section on ESDA of the SciPy'16 tutorial on Geographic Data Science with PySAL.
 
-## Lab 7 - Networks and Spatial Weights
+> [[YouTube](https://youtu.be/TY4QWnnd4jY?t=1h25m40s) - Min 1:25:40 to 1:49:20] [[Online materials](http://darribas.org/gds_scipy16/ipynb_md/04_esda.html)]
 
-### Slides
+### Additional materials
 
-- [html]()
-- [pdf]()
-
-### To do before class
-
-* Read Eli Knaap's blog on [Measuring Urban Segregation with Spatial Computation](https://knaaptime.com/posts/segregation_dynamics/)
-* Watch this Lab on  "Spatial Weights" by Luc Anselin ([link](https://www.youtube.com/watch?v=ydFmI6ZGLQ8) to 34min video). Keep in mind the motivation in this case is focused on spatial regression.
-* Lab on "Special lag" by Luc Anselin ([link](https://www.youtube.com/watch?v=MQACCcfTpXc) to video, you can ignore the last five minutes as they are a bit more advanced).
-
-### Related readings
-
-* Check out Geoff Boeing's computational notebook showcasing the use of **OSMNX**- a python library for processing street networks as network objects- with a case of [Urban Street Network Analysis](https://escholarship.org/uc/item/6z9802kf.)
-* For an advanced and in-detail treatment, (Anselin & Rey, 2014) is an excellent reference.
-
-### References
-
-1. Anselin, L., & Rey, S. J. (2014). Modern Spatial Econometrics in Practice: A Guide to GeoDa, GeoDaSpace and PySAL. Chicago, IL: GeoDa Press LLC.
+* The ["User Guides"](https://pysal.org/getting_started) in `PySAL`'s documentation are an excellent resource to better get to know the library.
 
 <br/>
 
 ***
 <br/>
 
-## Lab 8 - Exploratory Spatial Data Analysis
+## Lab 6 - Linear Regression
 
-### Slides
 
-- [html]()
-- [pdf]()
 
-### To do before class
+<br/>
 
-* Watch this Lab on "Spatial Autocorrelation (Background)" by Luc Anselin. [[Part I](https://www.youtube.com/watch?v=EotbDebRnFg)][[Part II](https://www.youtube.com/watch?v=69CnasXK2pM)]
+***
+<br/>
 
-### Related readings
+## Lab 7 - Clustering
 
-* (Anselin, 1996) reviews the use of the Moran plot as an ESDA tool ([pdf](http://dces.wisc.edu/wp-content/uploads/sites/30/2013/08/W4_Anselin1996.pdf)).
-* (Symanzik, 2014) introduces the main concepts behind ESDA.
-* (Haining, 2014) is a good historical perspective of the origins and motivations behind most of global and local measures of spatial autocorrelation.
+### Notebook
 
-### References
+- [lab-ipynb](../labs/lab-02.ipynb)
+- [homework-ipynb](../labs/hw-02.ipynb)
 
-1. Anselin, L. (1996). The Moran scatterplot as an ESDA tool to assess local instability in spatial association. Spatial Analytical Perspectives on GIS, 111, 111–125.
-2. Symanzik, J. (2014). Exploratory Spatial Data Analysis. In Handbook of Regional Science (pp. 1295–1310). Springer.
-3. Haining, R. (2014). Spatial Data and Statistical Methods: A Chronological Overview. In Handbook of Regional Science (pp. 1277–1294). Springer.
+### Extra Practice
+
+- [lab-ipynb](../labs/lab-02.ipynb)
+- [homework-ipynb](../labs/hw-02.ipynb)
+-
+### Data
+
+This session uses the **"AirBnb listing for Inner London - MSOA level"** dataset. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
+
+### Required before the practical
+
+Watch the section on spatial clustering of the SciPy'16 tutorial on Geographic Data Science with PySAL.
+
+> [[YouTube](https://youtu.be/TY4QWnnd4jY?t=2h30m) - Min 2:30:00 to 3:02:00]
+
+### Additional materials
+
+* Although a bit more advanced, the documentation for [`scikit-learn`](http://scikit-learn.org), a world-class Python library for machine learning, is excellent and includes many examples that cover the entire functionality set of the library.
+
+<br/>
+
+***
+<br/>
+
+## Lab 8 - Points
+
+### Notebook
+
+- [lab-ipynb](../labs/lab-02.ipynb)
+- [homework-ipynb](../labs/hw-02.ipynb)
+
+### Data
+
+This lab uses a sample of geo-referenced tweets for the city of Liverpool. Go to the [Datasets](../datasets.html) tab and check the "Geo-referenced tweets" section to find out more information about the data as well as instructions to download it.
+
+### Required before the practical
+
+Watch the section on points of the SciPy'16 tutorial on Geographic Data Science with PySAL.
+
+> [[YouTube](https://youtu.be/TY4QWnnd4jY?t=1h50m) - Min 1:50:00 to 2:30:00]
+
+### Additional materials
+
+* A very good resource for kernel density estimation in Python is provided in [this blog post](https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/) by Jake Vanderplas.
+* The R package [`spatstat`](http://spatstat.github.io/) provides extensive functionality to statistically describe and model point patterns. Note that this is in R, not python. 
