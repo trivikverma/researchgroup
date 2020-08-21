@@ -8,7 +8,7 @@ draft: false
 menu:
   epa1316-2020:
     name: Discussions
-    weight: 4
+    weight: 60
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 # weight: 1
@@ -56,7 +56,7 @@ Road network vulnerability analysis: Conceptualization,implementation and applic
 <br/>
 [pdf[^1]][[link - sign in with your TUD credentials to get access](https://www.sciencedirect.com/science/article/pii/S0198971514000192)]
 
-[^1]: I cannot provide you a PDF because of the absurd billion dollar academic publishing industry
+[^1]: I cannot provide you with a PDF because of the absurd billion-dollar academic publishing industry
 
 <br/>
 

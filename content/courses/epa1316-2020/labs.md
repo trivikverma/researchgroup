@@ -8,24 +8,22 @@ draft: false
 menu:
   epa1316-2020:
     name: Labs
-    weight: 7
+    weight: 80
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 # weight: 1
 ---
 
 1. [Lab 1: Tools](#lab-1---tools) (Sep 2, 2020)
-2. [Lab 2: Tidy Data](#lab-2---tidy-data) (Sep 7, 2020)
-3. [Lab 3: Data Engineering](#lab-3---data-engineering) (Sep 9, 2020)
-4. [Lab 4: Geo-Visualisation](#lab-4---geo---visualisation) (Sep 14, 2020)
-5. [Lab 5: Networks and Spatial Weights](#lab-5---networks-and-spatial-weights) (Sep 21, 2020)
-6. [Lab 6: Linear Regression](#lab-6---linear-regression) (Sep 23, 2020)
-7. [Lab 7: Clustering](#lab-7---clustering) (Sep 28, 2020)
-8. [Lab 8: Exploratory Spatial Data Analysis](#lab-8---exploratory-spatial-data-analysis) (Sep 30, 2020)
+2. [Lab 2: Tidy Data](#lab-2---tidy-data) (Sep 9, 2020)
+3. [Lab 3: Data Engineering](#lab-3---data-engineering) (Sep 17[^1], 2020)
+4. [Lab 4: Geo-Visualisation](#lab-4---geo-visualisation) (Sep 23, 2020)
+5. [Lab 5: Networks and Spatial Weights](#lab-5---networks-and-spatial-weights) (Sep 30, 2020)
+6. [Lab 6: Linear Regression](#lab-6---linear-regression) (Oct 7, 2020)
+7. [Lab 7: Clustering](#lab-7---clustering) (Oct 14, 2020)
+8. [Lab 8: Points](#lab-8---Points) (Oct 21, 2020)
 
-<br/>
-<br/>
-
+[^1]: On Sep 16th 2020, Wednesday, there is no lecture. I think that is because you have an EPA Programme session.
 
 <br/>
 
@@ -34,7 +32,7 @@ menu:
 
 ## Lab 1 - Tools
 
-**IMPORTANT** This is a supplementary notebook that covers many basics of the tools we will use in the course, but does not explain anything directly related to Urban Data Science.
+**IMPORTANT** This is a supplementary notebook that covers many basics of the tools we will use in the course but does not explain anything directly related to Urban Data Science.
 
 Students are encouraged to read it once before getting started with the other notebooks and then keep it as a reference throughout the rest of the course. There are some basic Python operations in there that act as a refresher, practice or learning material.
 
@@ -73,9 +71,9 @@ This session uses the **"Census socio-demographics"** datasets. Go to the [Datas
 
 ### Additional materials
 
-* A good extension of this session is (Wickham, 2014).. The paper is published under an Open Access license so it is freely available on the journal's site, but the author has also made available a public [repository](https://github.com/hadley/tidy-data) with the data and code used in the paper. Keep in mind the paper and the code that comes with it are based on R, not on Python.
+* A good extension of this session is (Wickham, 2014). The paper is published under an Open Access license, so it is freely available on the journal's site, but the author has also made available a public [repository](https://github.com/hadley/tidy-data) with the data and code used in the paper. Keep in mind the paper, and the code that comes with it is based on R, not on Python.
 * **[Visualization]** Python library `seaborn` [tutorial](http://stanford.edu/~mwaskom/software/seaborn/tutorial.html).
-* **[Recommended]** (McKinney, 2012): excellent introduction to Python for data analysis, with plenty of examples and code snippets (Publisher's page [link](http://shop.oreilly.com/product/0636920023784.do)).
+* **[Recommended]** (McKinney, 2012): An excellent introduction to Python for data analysis, with plenty of examples and code snippets (Publisher's page [link](http://shop.oreilly.com/product/0636920023784.do)).
 * [NY Times article](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0) about the importance of cleaning data.
 
 ### References
@@ -88,7 +86,7 @@ This session uses the **"Census socio-demographics"** datasets. Go to the [Datas
 ***
 <br/>
 
-## Lab 3 - Data Scraping and Grammar
+## Lab 3 - Data Engineering
 
 ### Slides
 
@@ -109,7 +107,7 @@ This session uses the **"Census socio-demographics"** datasets. Go to the [Datas
 ***
 <br/>
 
-## Lab 4 - Geo-Visualization
+## Lab 4 - Geo-Visualisation
 
 ### Notebook
 
@@ -238,4 +236,4 @@ Watch the section on points of the SciPy'16 tutorial on Geographic Data Science 
 ### Additional materials
 
 * A very good resource for kernel density estimation in Python is provided in [this blog post](https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/) by Jake Vanderplas.
-* The R package [`spatstat`](http://spatstat.github.io/) provides extensive functionality to statistically describe and model point patterns. Note that this is in R, not python. 
+* The R package [`spatstat`](http://spatstat.github.io/) provides extensive functionality to statistically describe and model point patterns. Note that this is in R, not Python.
