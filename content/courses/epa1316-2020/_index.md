@@ -21,7 +21,22 @@ menu:
     weight: 1
 ---
 
-Welcome to EPA 1316 taught by Dr Trivik Verma at Delft University of Technology. The course used to be called Data Analytics and Visualisation and has concurrently been named Introduction to _Urban_ Data Science. The entire course will be held online.
+Welcome to EPA 1316 at Delft University of Technology. The course used to be called Data Analytics and Visualisation and has concurrently been named Introduction to _Urban_ Data Science. The entire course will be held online.
+
+## Instructor
+
+Dr Trivik Verma - t.verma [at] tudelft.nl
+
+#### Contact
+
+```markdown
+Assistant Professor in Computational Urban Science & Policy
+B1.290, Building 31
+Faculty of Technology, Policy and Management
+Jaffalaan 5
+2628 BX Delft
+The Netherlands
+```
 
 The [schedule]({{< relref "schedule.md" >}}) for the course is:
 
@@ -35,17 +50,7 @@ In 2020, the university has decided to host all lectures online so students can 
 
 * Course hosted `Online` @: To be updated
 
-## Contact
 
-```markdown
-Trivik Verma - t.verma [at] tudelft.nl
-Assistant Professor in Computational Urban Science & Policy
-B1.290, Building 31
-Faculty of Technology, Policy and Management
-Jaffalaan 5
-2628 BX Delft
-The Netherlands
-```
 
 ## Teaching Assistants
 
@@ -63,6 +68,12 @@ The Netherlands
 
 English & Python {{< icon name="python" pack="fab" >}}
 
+## Why Python
+
+* **General purpose** programming language
+* "Sweet spot" between *"proof-of-concept"* and *"production-ready"*
+* Industry standard: **GIS** (Esri, QGIS) and **Data Science** (World Bank, OECD, The Atlantic, Gemeente Den Haag...)
+
 ## Expected prior knowledge
 
 Students are not required to have prior programming experience. However, it will be beneficial if you have dealt with a functional programming language like R or Python before. If you have never programmed before, you will have to be more active in homework sessions that will bring you up to speed.
@@ -71,7 +82,17 @@ _Alignment courses:_ If you are taking EPA 1333, it will help you in developing 
 
 For students who have had statistical, math or computer programming courses in their bachelors or elsewhere, this course will add to your skills by providing you with tools to become future policy-makers, consultants, data scientists, and in general, supporters of open science. The course will offer some uncertainty in terms of what is a problem and how it can be solved. If you are willing to embrace it, we will learn about the fundamentals of urban data science. We may even discover new ways of designing equitable urban spaces, from neighbourhoods and cities to entire regions.
 
-### Feedback strategy
+## Philosophy of the course
+
+- (Lots of) **methods** and techniques
+    - General overview
+    - Intuition
+    - Very little math
+    - Lots of ways to continue on your own
+- Emphasis on the **application** and **use**
+- Close connection to **"real world"** applications
+
+## Feedback strategy
 
 The students will receive feedback through the following channels:
 
@@ -79,7 +100,7 @@ The students will receive feedback through the following channels:
 * Direct interaction with the instructor and teaching assistants in the lectures, labs and discussion sessions.
 * Online discussion forum maintained by the instructor where students can contribute by asking and answering questions related to the module.
 
-### Key texts and learning resources
+## Key texts and learning resources
 
 Access to materials, including lecture slides and lab notebooks, is centralized through the
 use of a course website available in the following url:
