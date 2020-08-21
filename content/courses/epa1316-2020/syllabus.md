@@ -40,6 +40,7 @@ Eight weeks of:
   (highly *employable*)
 - **2h. Paper Discussions**: reading a paper and debating a set of questions with your peers in small groups. (extremely important if you are interested in applying concepts to real-world problems). Please read the paper before coming to the discussion session so you can have a more informed and informal debate with your peers.
 - **Further readings**: how to go beyond the minimum (very useful for the final project, if we don't read, we cannot write)
+- **Discussion Forum**: students are encouraged to post any questions they may have on the Brightspace forums. This also enables your peers to learn from your questions and help each other. These will be the official channels of communications between you and us and I cannot guarantee answers to other channels like Slack or WhatsApp groups. 
 
 ## Content
 
@@ -100,9 +101,10 @@ solving** rather than acquiring specific programming tricks or stats wizardry
 |      	| L12     	| Dimensionality Reduction           	|                                 	|                     	|               	|
 | W 8  	| L13     	| Spatial Density Estimation         	| More Sklearn                    	| Lab 8               	|               	|
 |      	| L14     	| Responsible Data Science           	|                                 	|                     	| Assignment 4  	|
-| W 10 	|         	|                                    	|                                 	|                     	| Final Project 	|
+| W 10 	|         	|                                    	|                                 	|                     	| Final Project[^4] 	|
 
 
-[^1]: Labs are interactive Jupyter notebooks for practice at home. Labs are followed with a set of homework questions. Homeworks are not graded, but your peers will give you feedback. Feedback is an excellent way to learn from other people.
-[^2]: Released two weeks prior on Monday. Due at the end of the specified week on Friday at 2330.
+[^1]: In-class Labs are interactive Jupyter notebooks for practice. Labs are followed with a set of peer-reviewed homework questions. Homeworks are not graded, but your peers will give you feedback. Feedback is an excellent way to learn from other people.
+[^2]: Graded Assignments are individual activities and are released two weeks prior on Monday. Due at the end of the specified week on Friday at 2330.
 [^3]: Grades and feedback released two weeks after on Friday at 2330.
+[^4]: Final Project is a group activity

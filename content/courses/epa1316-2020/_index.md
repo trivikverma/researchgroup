@@ -25,9 +25,9 @@ Welcome to EPA 1316 taught by Dr Trivik Verma at Delft University of Technology.
 
 The [schedule]({{< relref "schedule.md" >}}) for the course is:
 
-* **Lectures**: *Wed and Fri* 0900-1030, `Online`
+* **Lectures**: *Wed and Fri* 0915-1030, `Online`
 * **Online Computer Labs**: *Wednesdays* 1045-1245, `Online`
-* **Paper Disucssions**: *Fridays* 1045-1245, `Online`
+* **Paper Discussions**: *Fridays* 1045-1245, `Online`
 
 ## Locations
 
