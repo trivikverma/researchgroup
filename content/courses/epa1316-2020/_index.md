@@ -55,7 +55,7 @@ The Netherlands
 | Jelle Egbers       	| J.T.Egbers [at] student.tudelft.nl          	| All             	|
 | Tess Kim           	| N.Kim-2 [at] student.tudelft.nl             	| All             	|
 | Lotte Lourens      	| L.Lourens [at] student.tudelft.nl           	| All             	|
-| Amir Ebrahimi Fard 	| A.EbrahimiFard-1 [at] tudelft.nl            	| Discussion only 	|
+| Amir Ebrahimi Fard 	| A.EbrahimiFard-1 [at] tudelft.nl            	| All             	|
 | Giulia Reggiani    	| G.Reggiani [at] tudelft.nl                  	| Discussion only 	|
 | Bramka Jafino      	| B.A.Jafino [at] tudelft.nl                  	| Discussion only 	|
 
@@ -83,6 +83,7 @@ The students will receive feedback through the following channels:
 
 Access to materials, including lecture slides and lab notebooks, is centralized through the
 use of a course website available in the following url:
+
 [`https://research.trivikverma.com/courses/epa1316-2020/`](https://research.trivikverma.com/courses/epa1316-2020/)
 
 Specific readings, videos, and/or podcasts, as well as academic references will be provided for each lecture and lab, and can be accessed through the course website.
@@ -91,8 +92,8 @@ Specific readings, videos, and/or podcasts, as well as academic references will 
 
 This course has been developed using my research, input from colleagues at the faculty of Technology, Policy and Management at TU Delft and a few open-source teaching resources on the web. I am incredibly grateful to these developers for offering information openly,
 
-* Arribas-Bel, D. (2019). A course on geographic data science. Journal of Open Source Education, 2(16), 42.
-* Introduction to Data Science taught at Harvard University by Pavlos Protopapas, Kevin A. Rader, and Chris Tanner.
+* Arribas-Bel, D. (2019). [A course on geographic data science](https://jose.theoj.org/papers/10.21105/jose.00042). Journal of Open Source Education, 2(16), 42.
+* Lab Materials extended from Introduction to Data Science taught at Harvard University by Pavlos Protopapas, Kevin A. Rader, and Chris Tanner.
 * All open-source material from [Geoff Boeing](https://geoffboeing.com/) at USC’s Sol Price School of Public Policy.
 
 ## License
