@@ -21,9 +21,11 @@ menu:
 5. [Lab 5: Networks and Spatial Weights](#lab-5---networks-and-spatial-weights) (Sep 30, 2020)
 6. [Lab 6: Linear Regression](#lab-6---linear-regression) (Oct 7, 2020)
 7. [Lab 7: Clustering](#lab-7---clustering) (Oct 14, 2020)
-8. [Lab 8: Points](#lab-8---Points) (Oct 21, 2020)
+8. [Lab 8: Points](#lab-8---points) (Oct 21, 2020)
 
 [^1]: On Sep 16th 2020, Wednesday, there is no lecture. I think that is because you have an EPA Programme session.
+
+Note: The labs will be updated soon, and at least by the previous Friday for every week before it begins.
 
 <br/>
 
@@ -88,19 +90,6 @@ This session uses the **"Census socio-demographics"** datasets. Go to the [Datas
 
 ## Lab 3 - Data Engineering
 
-### Slides
-
-- [html]()
-- [pdf]()
-
-### To do before class
-
-* Read a very influential pro-big data/data science article, [The End of Theory](https://www.wired.com/2008/06/pb-theory/) by Chris Anderson, the editor in chief of _Wired_.
-* Read [A reflexive call of caution](https://science.sciencemag.org/content/343/6176/1203) on Big Data Analytics by David Lazer _et al._
-
-### Related readings
-
-* A cheatsheet (such a misnomer -- nobody is cheating and it is a helpful and beautiful resource) on [Data Wrangling with Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) that you may want to stick to your wall or put as your screensaver to save time on finding useful and operational codes.
 
 <br/>
 

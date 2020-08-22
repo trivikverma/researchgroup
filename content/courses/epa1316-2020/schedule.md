@@ -15,6 +15,8 @@ menu:
 # weight: 1
 ---
 
+[Download](../resources/epa1316-at-a-glance.pdf) the whole course schedule for an overview.
+
 ## An overview of all course sessions
 
 | Week 	| Lecture 	| Topic                              	| Python Libraries                	| Labs and Homework [^1] 	| Assessment [^2][^3] 	|

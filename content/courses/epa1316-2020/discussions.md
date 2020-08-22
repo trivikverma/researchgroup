@@ -28,6 +28,17 @@ menu:
 ***
 <br/>
 
+## Guidelines for Reading
+
+- Think about why your instructor assigned this reading. What subject will this article prepare you to discuss? How does this article fit into the main questions or topics of the course?
+- Use the discussion questions as reading guides for the paper. (They will be posted a week before)
+- Before you read in detail, skim the paper all the way through. Identify the organization of the document and the central ideas or arguments. The abstract, introduction, section headings and conclusion can provide information about the purpose and main point(s) about the paper.
+- Using your first impression of the paper and the reading guides, you should read the main text purposefully, and decide where to place more attention. If you don't know critical terms and concepts, look up in a dictionary, textbook, on the Internet or post on the appropriate discussion forum on Brightspace.
+- If a complex model is explained, how would you simplify it or address the complexity differently? You may also choose to ignore the inner workings if it doesn't pertain to the course material and try to identify the use and application of that complex model.
+- Did the reading clarify answers to the main point(s) of the article and raise other questions?
+- The authors may not draw all possible conclusions of their analysis or provide all arguments to support it. You must be a critical reader! An author's view may not be in line with your own. Always keep in mind that reading academic writing means you're participating in a conversation. What do you learn from it if/how the reading sparked your thoughts is what you should reflect on.
+- After reading the paper, try to summarize it in one paragraph. It should be your summary and not the abstract. Always use five questions as your guiding hand to write summaries. What do we know about the subject/problem? What is it that we do not know? How are we going to address it? What do we find with our method? Why is it relevant for research and policy?
+- Besides, challenge the parts of the article which do not present a persuasive argument. What are, in your opinion, the strong points of the paper? If you were supposed to be a co-author, how would you make it a better article? If you were allowed to ask a question from the authors, what would you ask?
 
 
 <br/>

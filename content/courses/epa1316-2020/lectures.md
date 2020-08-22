@@ -29,6 +29,8 @@ menu:
 13. [Lecture 13: Spatial Density Estimation](#lecture-13---spatial-density-estimation) (Oct 21, 2020)
 14. [Lecture 14: Responsible Data Science](#lecture-14---responsible-data-science) (Oct 23, 2020)
 
+Note: The lectures will be updated only on the day of the lecture in the morning. 
+
 <br/>
 <br/>
 
