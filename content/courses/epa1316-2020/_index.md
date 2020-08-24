@@ -40,15 +40,17 @@ The Netherlands
 
 The [schedule]({{< relref "schedule.md" >}}) for the course is:
 
-* **Lectures**: *Wed and Fri* 0915-1030, `Online`
-* **Online Computer Labs**: *Wednesdays* 1045-1245, `Online`
-* **Paper Discussions**: *Fridays* 1045-1245, `Online`
+* **Lectures**: *Wed and Fri* 0915-1030 and 0830-0945 respectively, `Online`
+* **Computer Labs**: *Wednesdays* 1045-1245, `Online`
+* **Paper Discussions**: *Fridays* 1000-1100, `Online`
+
+Course hosted `Online` @: [Virtual Classroom on Brightspace](https://brightspace.tudelft.nl/d2l/ext/rp/279068/lti/framedlaunch/2af9630e-da09-4858-adb7-932c16dde1c2)
+
 
 ## Locations
 
 In 2020, the university has decided to host all lectures online so students can have a safe experience while still being able to continue their studies. All lectures, labs, discussions, office hours and questions will be hosted online (see below for more information). You will all receive a link for the course where everyone can interact virtually. I want to see you all in person, but desperate times require us all to cooperate. I am thankful that you are all here.
 
-* Course hosted `Online` @: To be updated
 
 
 
@@ -111,7 +113,7 @@ Specific readings, videos, and/or podcasts, as well as academic references will 
 
 ## Acknowledgement
 
-This course has been developed using my research, input from colleagues at the faculty of Technology, Policy and Management at TU Delft and a few open-source teaching resources on the web. I am incredibly grateful to these developers for offering information openly,
+This course has been developed using my research, input from colleagues at the faculty of Technology, Policy and Management at TU Delft and a few open-source teaching resources on the web. I am incredibly grateful to these developers for offering information openly:
 
 * Arribas-Bel, D. (2019). [A course on geographic data science](https://jose.theoj.org/papers/10.21105/jose.00042). Journal of Open Source Education, 2(16), 42.
 * Lab Materials extended from Introduction to Data Science taught at Harvard University by Pavlos Protopapas, Kevin A. Rader, and Chris Tanner.

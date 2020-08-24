@@ -63,4 +63,3 @@ dependencies:
   - xarray_leaflet
   - rasterio
   - dask
-gds_env_version: 5.0 - tini=0.18.0

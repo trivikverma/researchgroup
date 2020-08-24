@@ -37,6 +37,12 @@ menu:
 |      	| L14     	| Responsible Data Science           	|                                 	|                     	| Assignment 4  	|
 | W 10 	|         	|                                    	|                                 	|                     	| Final Project[^4] 	|
 
+
+[^1]: In-class Labs are interactive Jupyter notebooks for practice. Labs are followed with a set of peer-reviewed homework questions. Homeworks are not graded, but your peers will give you feedback. Feedback is an excellent way to learn from other people.
+[^2]: Graded Assignments are individual activities and are released two weeks prior on Monday. Due at the end of the specified week on Friday at 2330.
+[^3]: Grades and feedback released two weeks after on Friday at 2330.
+[^4]: Final Project is a group activity
+
 <br/>
 
 <br/>

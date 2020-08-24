@@ -25,7 +25,7 @@ If you want a more minimalist installation that *only* includes the barebones of
 
 To install Python and required libraries through this approach, please follow these steps:
 
-- Install [`miniconda`](https://docs.conda.io/en/latest/miniconda.html) for your OS version from the [official link](https://docs.conda.io/en/latest/miniconda.html). Make sure to install the Python 3 (e.g. 3.7) version, not Python 2.
+- Install [`miniconda`](https://docs.conda.io/en/latest/miniconda.html) for your OS version from the [official link](https://docs.conda.io/en/latest/miniconda.html). Make sure to install the Python 3 (e.g. 3.8) version, not Python 2.
 - Once you have miniconda installed, we need to set up an independent environment that isolates all the functionality we need.
 
 But first, what are environments and do I need them?
@@ -37,22 +37,22 @@ For this class, we want to have a bit more control on the packages that will be 
 #### Creating an environment from an environment.yml file
 
 - Open up a terminal ("Anaconda Command Prompt" in Windows, "Applications --> Utilities --> Terminal" in macOS and  "ctr+alt+T" in Linux) and run the following commands:
-    - Download the installer file from [here](https://raw.githubusercontent.com/trivikverma/researchgroup/master/content/courses/epa1316-2020/resources/install_gds_stack.yml) and place it in a folder you can access (e.g. Downloads)
+    - Download the installer file from [here](https://raw.githubusercontent.com/trivikverma/researchgroup/master/content/courses/epa1316-2020/resources/install_gds_stack.yml) and place it in a folder you can access (e.g. Downloads). You need to right-click and save the file as it is.
     - Navigate to the folder where this file is (e.g. Downloads):
 
-        ```
+        ```shell
         cd /path/to/Downloads
         ```
 
     - Execute the following command (note you will need a good and stable internet connection and will take a while to complete):
 
-        ```
+        ```shell
         conda-env create -f install_gds_stack.yml
         ```
 
     - Once this has run, you should be able to activate the environment:
 
-        ```
+        ```shell
         conda activate gds
         ```
 
@@ -60,11 +60,13 @@ For this class, we want to have a bit more control on the packages that will be 
 
     - Verify that the new environment was installed correctly:
 
-        ```
+        ```shell
         conda list
         ```
 
         This will give you a list of the packages installed in this environment. For reference, go to [Manage conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+
+    - It will take approximately 15 minutes to install all packages.
 
 ## 2) A comprehensive approach: the GDS Docker container
 
@@ -81,23 +83,22 @@ The steps to install this (given you meet the requirements above) include:
     - `Windows10 Pro/Enterprise`: [Install Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/install/)
     - `macOS`: [Get started with Docker Desktop for Mac](https://docs.docker.com/docker-for-mac/)
 - Once Docker is successfully installed, make sure to enable access to your main drive (e.g. `C:\\`):
-    - `Windows10 Pro/Enterprise`: Open the preferences for Docker and click the
+    - `Linux Users`: Open the preferences for Docker and click the
       "Shared Drives" tab; click on the drive you want to add and then "Apply"
-    - `macOS`: this feature is automatically enabled
+    - `Windows10 Pro/Enterprise and macOS`: this feature is automatically enabled but windows will ask you to give permission to access your drive (ex. ‘Do you want to share a file with C:/User ‘)
 - Once you have Docker up and running, open up a (Docker) terminal:
     - `macOS`: Open `/Applications/Utilities/Terminal.app`
     - `Windows10 Pro/Enterprise`: Powershell
 
     Then, type on the terminal the following command and hit `Enter`:
 
-    ```
+    ```shell
     > docker pull darribas/gds_py:5.0
     ```
 
-    This docker will take a while to download but, once finished; you will be all ready
-    to go.
+    This docker will take a while to download but, once finished; you will be all ready to go.
 
-* Once the command above has finished installing your GDS stack, you are ready to go! To get a Jupyter session started, you can follow these steps:
+- Once the command above has finished installing your GDS stack, you are ready to go! To get a Jupyter session started, you can follow these steps:
     1. Run on the same terminal as above the following command:
 
         ```shell
@@ -119,7 +120,7 @@ The steps to install this (given you meet the requirements above) include:
         Executing the command: jupyter notebook
         [I 11:38:40.234 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
         [I 11:38:41.328 NotebookApp] Loading IPython parallel extension
-        [I 11:38:41.612 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+        [I 11:38:41.612 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.8/site-packages/jupyterlab
         [I 11:38:41.612 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
         [I 11:38:43.091 NotebookApp] Serving notebooks from local directory: /home/jovyan
         [I 11:38:43.091 NotebookApp] The Jupyter Notebook is running at:

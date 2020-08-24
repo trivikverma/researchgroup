@@ -19,7 +19,7 @@ menu:
 <br/>
 
 {{% alert note %}}
-I want to begin by addressing the pandemic. I am struggling to keep up with things. If you are also dealing with difficult things, you are not alone. If you decide to share your troubles with me, I am not going to judge you or pass on your private information to anybody else. I hope you can excuse any faults with the course and help me improve it.
+I want to begin by addressing the pandemic. I am struggling to keep up with things. If you are also dealing with difficult things, you are not alone. If you decide to share your troubles with me, I am not going to judge you or pass on your private information to anybody else. I hope you can excuse any shortcomings with the course and help me improve it.
 {{% /alert %}}
 
 ### How to be okay?

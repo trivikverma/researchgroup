@@ -54,7 +54,7 @@ Eight weeks of:
 - **14x 1h. Lecture**: concepts, methods, examples
 - **2h. Computer labs**: hands-on, application of concepts, Python
   (highly *employable*)
-- **2h. Paper Discussions**: reading a paper and debating a set of questions with your peers in small groups. (extremely important if you are interested in applying concepts to real-world problems). Please read the paper before coming to the discussion session so you can have a more informed and informal debate with your peers.
+- **1h. Paper Discussions**: reading a paper and debating a set of questions with your peers in small groups. (extremely important if you are interested in applying concepts to real-world problems). Please read the paper before coming to the discussion session so you can have a more informed and informal debate with your peers.
 - **Further readings**: how to go beyond the minimum (very useful for the final project, if we don't read, we cannot write)
 
 ## Content
@@ -67,10 +67,10 @@ Eight weeks of:
 ## Logistics - Website
 
 - **Course Material**: [This website](https://research.trivikverma.com/courses/epa1316-2020/)
-- **[Announcements](https://brightspace.tudelft.nl/d2l/lms/news/main.d2l?ou=279068)**
-- **[Submissions and Feedback](https://brightspace.tudelft.nl/d2l/lms/dropbox/user/folders_list.d2l?ou=279068&isprv=0)**
-- **Groups**: Brightspace (TBD)
+- **Lectures and In-class Labs**: [Virtual Classroom on Brightspace](https://brightspace.tudelft.nl/d2l/ext/rp/279068/lti/framedlaunch/2af9630e-da09-4858-adb7-932c16dde1c2)
 - **[Discussion Forums](https://brightspace.tudelft.nl/d2l/le/279068/discussions/List)**
+- **[Announcements](https://brightspace.tudelft.nl/d2l/lms/news/main.d2l?ou=279068)**
+- **Groups, Submissions and Feedback**: Brightspace
 
 ## Self-directed learning
 
@@ -81,6 +81,16 @@ Eight weeks of:
 - If the first time you see a notebook is at the lab, you won't be able to follow on. The best thing to do is to prepare a set of questions to ask the TAs.
 - **Bring** questions, comments, feedback, (informed) rants to class/labs. The more you bring, the more we all learn.
 - **Collaborate** (it's **NOT** a zero-sum win!!!)
+
+## Assessment
+
+The **summative** [assessments]({{< relref "assessment.md" >}}) are `graded` components and contribute to the final mark for the course as follows:
+
+* Assignment 1 (5%)
+* Assignment 2 (10%)
+* Assignment 3 (15%)
+* Assignment 4 (10%)
+* Final Project (60%)
 
 ## More help!!!
 

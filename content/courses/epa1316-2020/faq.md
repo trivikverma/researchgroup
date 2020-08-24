@@ -14,8 +14,7 @@ menu:
 ---
 
 ## Late Assignments
-Assignments must be handed in at the end of a Friday in the week an assignment is due. Late
-assignments will **not** be penalised. But if you are going to be late, keep an explanation ready and email me, so we can respectfully work it out.
+Assignments must be handed in at the end of a Friday in the week an assignment is due. If for some reason you are not able to hand in the assignment on time, please email me in advance with an explanation, so we can respectfully work it out.
 
 ## Assignment Format
 All assessments will be handed in via **Brightspace** (*no emails with submissions, please*) so we can facilitate both summative (graded) and formative (ungraded) feedback for you. If something is not clear, ask me on one of the communication channels set up for the course.
