@@ -4,7 +4,7 @@ linktitle: Assessment
 toc: true
 type: docs
 date: "2020-08-08"
-draft: true
+draft: false
 menu:
   epa1316-2020:
     name: Assessment
