@@ -21,7 +21,7 @@ There are two main pathways to install required Python libraries on your machine
 
 ## 1) A minimalist approach: `conda` (recommended)
 
-If you want a more minimalist installation that *only* includes the barebones of what's needed in this context, and/or you are not running Windows 10 Pro, macOS or Linux, the recommended approach is to do a `conda` installation. This route will install a Python distribution natively with the libraries we will need. Please note that no interactive extensions or R packages are installed in this case, and also be aware the installation is less stable as it relies on the specific versions for your OS and latest releases. In most cases, it should be fine, and this particular stack is regularly tested, but some failures nevertheless happen sometimes).
+If you want a more minimalist installation that *only* includes the barebones of what's needed in this context, and/or you are not running Windows 10 Pro, macOS or Linux, the recommended approach is to do a `conda` installation. This route will install a Python distribution natively with the libraries we will need. Please note that no interactive extensions or R packages are installed in this case, and also be aware the installation is less stable as it relies on the specific versions for your OS and latest releases. In most cases, it should be fine, and this particular stack is regularly tested, but some failures nevertheless happen sometimes.
 
 To install Python and required libraries through this approach, please follow these steps:
 
@@ -37,7 +37,7 @@ For this class, we want to have a bit more control on the packages that will be 
 #### Creating an environment from an environment.yml file
 
 - Open up a terminal ("Anaconda Command Prompt" in Windows, "Applications --> Utilities --> Terminal" in macOS and  "ctr+alt+T" in Linux) and run the following commands:
-    - Download the installer file from [here](https://raw.githubusercontent.com/trivikverma/researchgroup/master/content/courses/epa1316-2020/resources/install_gds_stack.yml) and place it in a folder you can access (e.g. Downloads). You need to right-click and save the file as it is.
+    - Get the installer file from [here](https://raw.githubusercontent.com/trivikverma/researchgroup/master/content/courses/epa1316-2020/resources/install_gds_stack.yml) and place it in a folder you can access (e.g. Downloads). You need to right-click and save the file as it is.
     - Navigate to the folder where this file is (e.g. Downloads):
 
         ```shell

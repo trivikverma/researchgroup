@@ -185,7 +185,7 @@ Watch the section on ESDA of the SciPy'16 tutorial on Geographic Data Science wi
 
 - [lab-ipynb](../labs/lab-02.ipynb)
 - [homework-ipynb](../labs/hw-02.ipynb)
--
+
 ### Data
 
 This session uses the **"AirBnb listing for Inner London - MSOA level"** dataset. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
@@ -214,7 +214,7 @@ Watch the section on spatial clustering of the SciPy'16 tutorial on Geographic D
 
 ### Data
 
-This lab uses a sample of geo-referenced tweets for the city of Liverpool. Go to the [Datasets](../datasets.html) tab and check the "Geo-referenced tweets" section to find out more information about the data as well as instructions to download it.
+This lab uses a sample of geo-referenced tweets for the city of Liverpool. Go to the [Datasets](../datasets.html) tab and check the **Geo-referenced tweets** section to find out more information about the data as well as instructions to download it.
 
 ### Required before the practical
 
