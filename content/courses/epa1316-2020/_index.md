@@ -65,6 +65,7 @@ In 2020, the university has decided to host all lectures online so students can 
 | Amir Ebrahimi Fard 	| A.EbrahimiFard-1 [at] tudelft.nl            	| All             	|
 | Giulia Reggiani    	| G.Reggiani [at] tudelft.nl                  	| Discussion only 	|
 | Bramka Jafino      	| B.A.Jafino [at] tudelft.nl                  	| Discussion only 	|
+| Talia Kaufmann     	| Visiting PhD (no emails)                     	| Discussion only 	|
 
 ## Course Language
 

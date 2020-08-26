@@ -251,7 +251,7 @@ This lecture is partly inspired by (Rey, 2015).
 
 ### Related readings
 
-* (Anselin, 1996) reviews the use of the Moran plot as an ESDA tool ([pdf](http://dces.wisc.edu/wp-content/uploads/sites/30/2013/08/W4_Anselin1996.pdf)).
+* (Anselin, 1996) reviews the use of the Moran plot as an ESDA tool (You may access it on Scihub using the doi  https://doi.org/10.1111/j.1467-9787.1996.tb01101.x).
 * (Symanzik, 2014) introduces the main concepts behind ESDA.
 * (Haining, 2014) is an excellent historical perspective of the origins and motivations behind most of the global and local measures of spatial autocorrelation.
 
