@@ -25,7 +25,7 @@ menu:
 
 [^1]: On Sep 16th 2020, Wednesday, there is no lecture. I think that is because you have an EPA Programme session.
 
-Note: The labs will be updated soon, and at least by the previous Friday for every week before it begins.
+Note: The labs will be updated by at least the previous Friday for every week before it begins.
 
 <br/>
 
@@ -39,9 +39,10 @@ Note: The labs will be updated soon, and at least by the previous Friday for eve
 Students are encouraged to read it once before getting started with the other notebooks and then keep it as a reference throughout the rest of the course. There are some basic Python operations in there that act as a refresher, practice or learning material.
 
 ### Notebook
+{{% staticref "epa1316-2020/labs/hw-01.ipynb" "newtab" %}}Download my CV{{% /staticref %}}
 
 - [lab-ipynb](../labs/lab-01.ipynb)
-- [homework-ipynb](../labs/hw-01.ipynb)
+- [homework-ipynb](epa1316-2020/labs/hw-01.ipynb)
 
 ### Additional materials
 
