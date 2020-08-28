@@ -52,6 +52,16 @@ Big Data and Big Cities: The Promises and Limitations of Improved Measures of Ur
 <br/>
 [[pdf](../discussions/week1.pdf)][[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12364)]
 
+_The following questions do not necessarily pursue the order of the paper_
+
+1. What is big data? What are the sources of big data in the cities? What is big data analytics?
+2. How did the scholars use to address their research questions on urban science? What are the shortcomings of those approaches?
+3. What kinds of analyses are facilitated by big data analytics?
+4. How can crowdsourcing using digital apps and our digital traces (like mobile, OV-chipkaart, Google maps, Airbnb, etc.) help policymakers provide equitable distribution of resources (p135)?
+5. What are some of the differences between old and new data sources? Should we use a combination of big data and conventional data sources in urban data science (page 124 and p133)?
+6. How could we calculate the population of a city during the day and night? What kinds of data sources do you recommend? How should we use them?
+7. How could big data analytics help to manage racial conflicts in the cities?
+
 <br/>
 
 ***
