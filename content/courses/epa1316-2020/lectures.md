@@ -114,7 +114,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf]()
+- [pdf](../lectures/03-grammar.pdf)
 
 ### To do before class
 
@@ -134,7 +134,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf]()
+- [pdf](../lectures/04-engineering.pdf)
 
 ### To do before class
 

@@ -39,10 +39,8 @@ Note: The labs will be updated by at least the previous Friday for every week be
 Students are encouraged to read it once before getting started with the other notebooks and then keep it as a reference throughout the rest of the course. There are some basic Python operations in there that act as a refresher, practice or learning material.
 
 ### Notebook
-{{% staticref "epa1316-2020/labs/hw-01.ipynb" "newtab" %}}Download my CV{{% /staticref %}}
-
-- [lab-ipynb](../labs/lab-01.ipynb)
-- [homework-ipynb](epa1316-2020/labs/hw-01.ipynb)
+- {{% staticref "epa1316-2020/labs/lab-01/lab-01.zip" "newtab" %}}lab-zip{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-01/lab-01.html" "newtab" %}}lab-html{{% /staticref %}}
 
 ### Additional materials
 
