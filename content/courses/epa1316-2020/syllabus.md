@@ -26,19 +26,19 @@ The course is divided into a set of interactive lectures, labs and discussions. 
 |------	|---------	|------------------------------------	|---------------------------------	|---------------------	|---------------	|
 | W 1  	| L1      	| Introduction to Urban Data Science 	| Anaconda and Jupyter, Numpy     	| Lab 1               	|               	|
 | W 2  	| L2      	| Spatial and Urban Data             	| Pandas, Seaborn                 	| Lab 2               	|               	|
-|      	| L3      	| Data Grammar                       	|                                 	|                     	| Assignment 1  	|
-| W3   	| L4      	| Data Engineering                   	| Pandas                          	| Lab 3               	|               	|
+|      	| L3      	| Data Grammar                       	|                                 	|                     	|                	|
+| W3   	| L4      	| Data Engineering                   	| Pandas                          	| Lab 3               	| Assignment 1   	|
 | W4   	| L5      	| EDA and Visualisation              	| Geopandas, Matplotlib, Rasterio 	| Lab 4               	|               	|
-|      	| L6      	| Geo-Visualisation                  	|                                 	|                     	| Assignment 2  	|
-| W 5  	| L7      	| Networks and Spatial Weights       	| Networkx, Osmnx, Pysal          	| Lab 5               	|               	|
+|      	| L6      	| Geo-Visualisation                  	|                                 	|                     	|                	|
+| W 5  	| L7      	| Networks and Spatial Weights       	| Networkx, Osmnx, Pysal          	| Lab 5               	| Assignment 2   	|
 |      	| L8      	| Exploratory Spatial Data Analysis  	|                                 	|                     	|               	|
 | W 6  	| L9      	| Machine Learning for Everyone      	| Sklearn, Scipy, Statsmodels     	| Lab 6               	|               	|
-|      	| L10     	| Anatomy of a Learning Algorithm    	|                                 	|                     	| Assignment 3  	|
-| W 7  	| L11     	| Clustering                         	| Pysal, Sklearn-Cluster          	| Lab 7               	|               	|
+|      	| L10     	| Anatomy of a Learning Algorithm    	|                                 	|                     	|                 |
+| W 7  	| L11     	| Clustering                         	| Pysal, Sklearn-Cluster          	| Lab 7               	| Assignment 3   	|
 |      	| L12     	| Dimensionality Reduction           	|                                 	|                     	|               	|
 | W 8  	| L13     	| Spatial Density Estimation         	| More Sklearn                    	| Lab 8               	|               	|
-|      	| L14     	| Responsible Data Science           	|                                 	|                     	| Assignment 4  	|
-| W 10 	|         	|                                    	|                                 	|                     	| Final Project[^4] 	|
+|      	| L14     	| Responsible Data Science           	|                                 	|                     	|                	|
+| W 10 	|         	|                                    	|                                 	|                     	| Final Project[^4]|
 
 
 [^1]: In-class Labs are interactive Jupyter notebooks for practice. Labs are followed with a set of peer-reviewed homework questions. Homeworks are not graded, but your peers will give you feedback. Feedback is an excellent way to learn from other people.
@@ -86,10 +86,9 @@ Eight weeks of:
 
 The **summative** [assessments]({{< relref "assessment.md" >}}) are `graded` components and contribute to the final mark for the course as follows:
 
-* Assignment 1 (5%)
-* Assignment 2 (10%)
-* Assignment 3 (15%)
-* Assignment 4 (10%)
+* Assignment 1 (15%)
+* Assignment 2 (15%)
+* Assignment 3 (10%)
 * Final Project (60%)
 
 ## More help!!!

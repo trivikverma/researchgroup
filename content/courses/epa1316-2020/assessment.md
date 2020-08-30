@@ -24,8 +24,7 @@ The course is designed to include two types of assessments:
 
 2. **Summative** : These are `graded` components and contribute to the final mark for the course as follows:
 
-    * [Assignment 1](#task_01) (5%)
-    * [Assignment 2](#task_02) (10%)
-    * [Assignment 3](#task_03) (15%)
-    * [Assignment 4](#task_04) (10%)
+    * [Assignment 1](#task_01) (15%)
+    * [Assignment 2](#task_02) (15%)
+    * [Assignment 3](#task_03) (10%)
     * [Final Project](#final_proj) (60%)
