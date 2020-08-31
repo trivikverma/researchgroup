@@ -70,15 +70,10 @@ If you want to explore further by yourself the contents presented in this tutori
 
 ### Data
 
-This session uses the **"Census socio-demographics"** dataset of Liverpool, United Kingdom in two parts.
+This session uses the **"Census socio-demographics"** dataset of Liverpool, United Kingdom in two parts. The dataset for this lab is provided in the zipped lab files above.
 
-1. Table of LSOA areas in Liverpool with population counts by World region. The table is derived from the CDRC Census data pack. The dataset for this lab is provided in the zipped lab files above.
-2. Collection of socio-demographic characteristics from the 2011 Census for the city of Liverpool. A detailed description of the dataset, as well as instructions on how to download it are available on the source link below.
-
-**Source**: [CDRC](https://cdrc.ac.uk/)'s Census data pack for the city of Liverpool (UK). Available in this
-[link](https://data.cdrc.ac.uk/dataset/cdrc-2011-census-data-packs-for-local-authority-district-liverpool-e08000012).
-
-**Instructions**: you will need to be registered on the CDRC website, which is free and very easy. Once logged in, click on the link provided above and select "Download" on the dataset's page.
+1. Table of LSOA areas in Liverpool with population counts by World region. The table is derived from the CDRC Census data pack.
+2. Collection of socio-demographic characteristics from the 2011 Census for the city of Liverpool.
 
 ### Additional materials
 
