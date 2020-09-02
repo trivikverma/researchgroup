@@ -37,7 +37,7 @@ For this class, we want to have a bit more control on the packages that will be 
 #### Creating an environment from an environment.yml file
 
 - Open up a terminal ("Anaconda Command Prompt" in Windows, "Applications --> Utilities --> Terminal" in macOS and  "ctr+alt+T" in Linux) and run the following commands:
-    - Get the installer file from [here](https://raw.githubusercontent.com/trivikverma/researchgroup/master/content/courses/epa1316-2020/resources/install_gds_stack.yml) and place it in a folder you can access (e.g. Downloads). You need to right-click and save the file as it is.
+    - Get the installer file from {{% staticref "epa1316-2020/install_gds_stack.zip" "newtab" %}}here{{% /staticref %}} and unzip it.
     - Navigate to the folder where this file is (e.g. Downloads):
 
         ```shell
