@@ -44,15 +44,11 @@ The [schedule]({{< relref "schedule.md" >}}) for the course is:
 * **Computer Labs**: *Wednesdays* 1045-1245, `Online`
 * **Paper Discussions**: *Fridays* 1000-1100, `Online`
 
-Course hosted `Online` @: [Virtual Classroom on Brightspace](https://brightspace.tudelft.nl/d2l/ext/rp/279068/lti/framedlaunch/2af9630e-da09-4858-adb7-932c16dde1c2)
-
+Course hosted `Online` @: [Virtual Classroom on BigBlueButton](https://bbb.surfcloud.nl/b/tri-ays-o7q-zw5)
 
 ## Locations
 
 In 2020, the university has decided to host all lectures online so students can have a safe experience while still being able to continue their studies. All lectures, labs, discussions, office hours and questions will be hosted online (see below for more information). You will all receive a link for the course where everyone can interact virtually. I want to see you all in person, but desperate times require us all to cooperate. I am thankful that you are all here.
-
-
-
 
 ## Teaching Assistants
 

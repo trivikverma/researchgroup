@@ -67,7 +67,7 @@ Eight weeks of:
 ## Logistics - Website
 
 - **Course Material**: [This website](https://research.trivikverma.com/courses/epa1316-2020/)
-- **Lectures and In-class Labs**: [Virtual Classroom on Brightspace](https://brightspace.tudelft.nl/d2l/ext/rp/279068/lti/framedlaunch/2af9630e-da09-4858-adb7-932c16dde1c2)
+- **Lectures and In-class Labs**: [Virtual Classroom on BigBlueButton](https://bbb.surfcloud.nl/b/tri-ays-o7q-zw5)
 - **[Discussion Forums](https://brightspace.tudelft.nl/d2l/le/279068/discussions/List)**
 - **[Announcements](https://brightspace.tudelft.nl/d2l/lms/news/main.d2l?ou=279068)**
 - **Groups, Submissions and Feedback**: Brightspace
