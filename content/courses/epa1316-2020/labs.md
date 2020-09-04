@@ -94,6 +94,18 @@ This session uses the **"Census socio-demographics"** dataset of Liverpool, Unit
 
 ## Lab 3 - Data Engineering
 
+### Notebook
+
+- {{% staticref "epa1316-2020/labs/lab-03/lab-03.zip" "newtab" %}}lab-zip{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-03/lab-03.html" "newtab" %}}lab-html{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-03/lab-03-advanced.html" "newtab" %}}lab-advanced-html{{% /staticref %}}
+
+### Data
+
+This session uses two datasets which are provided in the zipped lab files above.
+
+1. A dataset about wines from different countries, download from *Kaggle*.
+2. A dataset scraped and collected from **Goodreads**.
 
 <br/>
 
@@ -104,13 +116,9 @@ This session uses the **"Census socio-demographics"** dataset of Liverpool, Unit
 
 ### Notebook
 
-- [lab-ipynb](../labs/lab-02.ipynb)
-- [homework-ipynb](../labs/hw-02.ipynb)
 
 ### Extra Practice
 
-- [lab-ipynb](../labs/lab-02.ipynb)
-- [homework-ipynb](../labs/hw-02.ipynb)
 
 ### Data
 
