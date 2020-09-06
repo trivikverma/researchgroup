@@ -24,14 +24,27 @@ The course is designed to include two types of assessments:
 
 2. **Summative** : These are `graded` components and contribute to the final mark for the course as follows:
 
-    * [Assignment 1](#task_01) (15%)
-    * [Assignment 2](#task_02) (15%)
-    * [Assignment 3](#task_03) (10%)
+    * Assignment 01 (15%)
+      - {{% staticref "epa1316-2020/assignments/assignment-01/assignment-01.zip" "newtab" %}}assignment-zip{{% /staticref %}}
+      - {{% staticref "epa1316-2020/assignments/assignment-01/assignment-01.html" "newtab" %}}assignment-html{{% /staticref %}}
+    * [Assignment 02](#task_02) (15%)
+    * [Assignment 03](#task_03) (10%)
     * [Final Project](#final_proj) (60%)
+
+### Marking Criteria for assignments
+
+The following specific criteria relating to the code provided will be used:
+
+* **1-2**: the code does not run and there is no documentation to follow it.
+* **2.5-5**: the code does not run, or runs but it does not produce the expected outcome. There is some documentation explaining its logic.
+* **5.5-7**: the code runs and produces the expected output. There is some documentation explaining its logic.
+* **7.5-8**: the code runs and produces the expected output. There is extensive documentation explaining its logic.
+* **8.5-9**: the code runs and produces the expected output. There is extensive documentation, properly formatted, and explaining its logic.
+* **9.5-10**: all as above, plus the code design includes clear evidence of skills presented in class and homework exercises (e.g. custom methods, list comprehensions, etc.) and variables and functions are named well.
 
 ### Submission
 
-Deadlines for everything will be Friday at 2330 for the week's homework and assignments. The first week's homework deadline is Monday 7th Sep at 2330.
+Deadlines for everything will be Friday at 2330 for the week's homework or assignments. The first week's homework deadline is Monday 7th Sep at 2330.
 
   * In-Class Labs: labs are not for submission. They help you practice and understand python programming in this course.
   * Peer-Reviewed Homework Questions: Submit weekly homework exercises called hw-0x.ipynb as follows,
@@ -43,3 +56,4 @@ Deadlines for everything will be Friday at 2330 for the week's homework and assi
     - submit the corresponding week's exercise to Peer in the respective assignment. FGor example, to Homework-1 for week 1.
     - wait for instructions on reviewing your peer's work and then reviewing the feedback you got from your peer.
     - **Note**: this is a double-blind peer review, so please do not add your names or any information revealing your identity in the submission files.
+  * Graded Assignments: Submit assignments assignment-0x.ipynb on Brightspace.
