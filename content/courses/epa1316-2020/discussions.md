@@ -73,6 +73,14 @@ _The following questions do not necessarily pursue the order of the paper_
 <br/>
 [[pdf](../discussions/week2.pdf)][[link](https://link.springer.com/article/10.1007/s41060-020-00207-3)]
 
+1. What are the four main urban applications for which different algorithmic tools are discussed? What are the advantages and limitations associated with these algorithms? The paper classifies the algorithms into two main approaches: descriptive and predictive. What are the challenges of urban data science that each approach seeks to address?
+2. What is the goal of Visual Analytics? What are the two main types of visual analytics that the paper covers? Identify the limitations of each approach. Can you think of more interesting use-cases for the datasets other than those discussed in the paper?
+3. What is the text-cloud technique and what is its importance in urban data science? [In the paper, it is mentioned and used in multiple sections: visual analytics (of both textual content and images), GeoTopics modelling framework, algorithms etc]
+4. What are the different data science techniques that this paper identifies to address three important challenges of urban data science? Identify at least 3 or 4 methods that may be familiar to you. At what part in the data science workflow are these techniques applied? Pick one case-study for an example.
+5. What do you understand about the concept of “urban metabolism” discussed in the paper (towards the end of Section 4) and how does it influence sustainable development of cities?
+6. How do Big Data and Smart Urban Metabolism overcome the limitations of urban metabolism and enhance sustainable development of cities?
+7. What are some approaches suggested in the paper to tackle privacy issues that arise due to widespread availability of mobility data? What are some ways (in your opinion) to ensure a good balance between using data for social good and addressing privacy concerns?
+
 <br/>
 
 ***
