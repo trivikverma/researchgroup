@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Amir E. Fard
+title: Amir E. Fard
 
 # Username (this should match the folder name)
 authors:

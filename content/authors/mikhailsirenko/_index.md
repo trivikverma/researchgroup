@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Mikhail Sirenko
+title: Mikhail Sirenko
 
 # Username (this should match the folder name)
 authors:
