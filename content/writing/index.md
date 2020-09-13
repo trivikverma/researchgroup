@@ -143,6 +143,14 @@ This section elaborates on rigorous details about the data, methods, statistical
 * Minimise use of words like thus, therefore, moreover, furthermore and however. These tend to be overused and distract the reader from the content (Reif-Lehrer, 1996).
 * Never say any form of the sentence, "**We all know that** society is ...", unless you have evidence or references to support it. For example, "We all know gravity exists as described by the general theory of relativity (Einstein, 1915)." Without referring to Einstein, your fact becomes conjecture.
 
+## Writing style[^1]
+
+* A short and sweet compendium of tips for writing technical papers by Stanford’s Jennifer Widom. Before you take a deep breath, roll up your sleeves, and start writing a paper, revise this document. The bit about the intro has been particularly useful.
+* A brief masterpiece, Strunk and White’s The Elements of Style is a must-read if you aim to improve your writing. A free version is available on the Internet Archive.
+* Check out this Nature article for advice on producing a manuscript that will get published and pull in readers.
+
+[^1]: Thanks to Robert West at EPFL for compiling these great resources in writing style.
+
 ## References
 
 1. Grammarly. Accessed 29 April 2020. https://www.grammarly.com/blog/types-of-writing/
