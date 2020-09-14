@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Alumni
 ---
 
 A well-informed argument is not defeated by an ill-informed one. Rather, it concedes to another well-informed argument. I believe this is best seen in the world of policy making. In that context, I am interested in working on how data can be compellingly used to build policy narratives. I am particularly interested in the fields of social equity, gender equality and education.

@@ -408,6 +408,7 @@ The contents of this lecture are loosely based on, and explored into further det
 ### Related readings
 
 * Watch [The unfortunate history of racial bias in photography.](https://www.youtube.com/watch?v=d16LNHIEJzs).
+* Watch [Coded Bias](https://www.youtube.com/watch?v=jZl55PsfZJQ&feature=youtu.be) on how corporations are not held accountable for deplying algorithms that affect humans.
 * (El-Geneidy et al., 2016) describe the cost of equity in assessing transit accessibility and social disparity using total travel cost.
 
 ### References

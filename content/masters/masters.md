@@ -26,9 +26,24 @@ date_format = "Jan 2006"
 #### Jaromir Bogdanovski
 ##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
 
-### [15] Affecting Behavior Patterns of Citizens using Language-based Microtargetting
+### [15] {{% staticref "msc_projects/JakobSerlier.pdf" %}}Affecting Behavior Patterns of Citizens using Language-based Microtargetting{{% /staticref %}}
 #### Manos Leontaris
 ##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
+
+>The focus of this work is the creation and application of an experimental framework
+that tests the effectiveness and the impacts of micro-targeted ads. Micro-targeted ads
+have been used extensively by both political and retail carriers to sway peoples’ opinion,
+but there haven’t been any academic studies (in an environmentwhich is not controlled)
+that explore the impacts and the effects of micro-targeted ads. To this end the idea is to
+use a measurable variable (in this case the misplaced trash in The Hague) and throw
+generalized (non micro-targeted) ads along with micro-targeted ads, both of them aiming
+to reduce misplaced trash-bags. The ads will be sent to specific neighborhoods in
+The Hague through Facebook. The ad itself is considered a "nudge"(an intervention that
+hints towards behavioral change without forcing it). The end goal is threefold:
+• Measuring the effectiveness of a micro-targeted ad versus a generalized one.
+• Checking the impact of privacy respecting and ethical micro-targeted ads used for
+social welfare improvement.
+• Giving public policy advice ideas based on the results of the work.
 
 ### [14] Prediciting Bus Ridership using Trip Planner Data
 #### Ziyulong Wang
@@ -42,13 +57,62 @@ date_format = "Jan 2006"
 #### Fabio Tejedor
 ##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
 
-### [11] Supporting Decision Making for Time-Resilience of Public Transport Systems
+### [11] {{% staticref "msc_projects/JakobSerlier.pdf" %}}Assessing time resilience of public transit networks using London Underground data{{% /staticref %}}
 #### Jakob Serlier [BSc Student]
 ##### _BSc @ TPM, TU Delft [Feb 2020 -  July 2020]_
 
-### [10] Estimating Factors that Influence Migration Flows in Refugees
+>The motivation behind this study is to explore the importance of disruption time in public
+transport network resilience, and how to measure the changing impact over time. We have
+proposed a methodology to model a non-cascading time-dependent network model, estimating
+changing passenger loads in a public transport network. Our models, created using empirical
+passenger data from the London Underground, show that the network is not only most vulnerable
+during peak-hours to increased passenger loads, but in addition, the impact disruptions on the
+network change and the highest during peak-hours at certain locations. One of the goals of this
+research was to explore the topological metrics which identify time-dependent critical network
+links. In this study, betweenness has shown to be a valuable indicator of link criticality when
+using our model approach. Considering capacity utilization as an important performance metric,
+disruptions of high-impact non-bridge links showed a small decrease in capacity utilization in
+preceding and succeeding links and a more significant increase in capacity utilization for parallel
+links. This parallel effect was less significant in terms of capacity utilization for non-bridge links
+which have a low betweenness centrality, instead effecting the capacity utilization of
+neighboring links in a more diffuse manner. Finally, we expected to see a spatial change in the
+effect of disruption events over time, but the analysis of our model results did not reflect this
+expectation. The results primed exciting directions for future research, and has given us valuable
+initial insights on time dependency of public transport networks.
+
+### [10] {{% staticref "msc_projects/JochemVlug.pdf" %}}Estimating Factors that Influence Migration Flows in Cities{{% /staticref %}}
 #### Jochem Vlug
 ##### _EPA @ TPM, TU Delft [Feb 2020 -  July 2020]_
+
+>Migrants are moving in great numbers towards urban areas as a result of urbanization and drivers such as
+political-, economical- and climate crises. The influx of new people brings new challenges for cities and
+municipalities to provide for a suitable environment for new and existing citizens whilst preventing adverse
+effects to occur. Current literature describes the dynamics of the city using effects such as segregation,
+gentrification and urban decay. However, the changing character of urban areas is not linked with the
+decision-making behavior of citizens in current literature. Furthermore, the dynamics of urban areas are rarely
+observed from a meso-scale perspective. This research aims to describe the relation between migration
+patterns and changes to the fabric of the city. A conceptual model on the dynamics involved in observing
+decision-making of citizens and observing changes to the city fabric is made. Using real-world data of the city
+of The Hague in The Netherlands, a Data-Driven Agent-Based model is made in Netlogo. Data analysis on
+the outcomes of the model using Python provide a better understanding of the impact of migration on the
+changes to the city fabric. The model output describes the impact on the city caused by the influx of
+migrants. More migrants entering the city can drastically increase homelessness or the "pushing out" of citizen
+groups because of housing shortages. This is most prevalent for the poorest citizens, since social rent housing
+is first to become scarce when more people enter the city. An increase in income inequality or a decrease in
+average migrant income results in even more pronounced housing shortages. The model simulates 6 policy
+interventions for the municipality of The Hague. The model shows that all policies that increase housing
+options significantly increases well-being of citizens. However, the policies that try to improve safety and
+health do not show an increase in well-being of citizens. By means of historical validation the model is tested
+for validity. The model is able to describe much of the decision-making behavior of migrants and citizens.
+However, for certain ethnicities, the model is currently unable to describe the decision-making process in such
+a way that it can represent the observed real-world moving patterns. A framework has been presented that
+can be used to better explain the impact of migration on cities. Furthermore, the conceptual model can be
+applied to different aspects of city dynamics, for instance the transport or energy sector. The ABM shows
+that current housing options and expected influx of migrants become problematic within the coming 10 years.
+An indication of the usefulness of proposed policy interventions is presented. More research and surveys are
+needed to better understand these mechanics and their relation to changes to the fabric of the city. Additional
+research into the changes to the neighborhood amenities and businesses as a result of changes in citizen
+composition can aid policy making and understanding the developments of the ever-changing city landscape.
 
 ### [9] Measuring Ecological Footprint of Cities
 #### Ruchik Patel
