@@ -25,10 +25,10 @@ The course is divided into a set of interactive lectures, labs and discussions. 
 | Week 	| Lecture 	| Topic                              	| Python Libraries                	| Labs and Homework [^1] 	| Assessment [^2][^3] 	|
 |------	|---------	|------------------------------------	|---------------------------------	|---------------------	|---------------	|
 | W 1  	| L1      	| Introduction to Urban Data Science 	| Anaconda and Jupyter, Numpy     	| Lab 1               	|               	|
-| W 2  	| L2      	| Spatial and Urban Data             	| Pandas, Seaborn                 	| Lab 2               	|               	|
+| W 2  	| L2      	| Spatial and Urban Data             	| Pandas                 	| Lab 2               	|               	|
 |      	| L3      	| Data Grammar                       	|                                 	|                     	|                	|
 | W3   	| L4      	| Data Engineering                   	| Pandas                          	| Lab 3               	| Assignment 1   	|
-| W4   	| L5      	| EDA and Visualisation              	| Geopandas, Matplotlib, Rasterio 	| Lab 4               	|               	|
+| W4   	| L5      	| EDA and Visualisation              	| Geopandas, Matplotlib, Rasterio, Seaborn 	| Lab 4               	|               	|
 |      	| L6      	| Geo-Visualisation                  	|                                 	|                     	|                	|
 | W 5  	| L7      	| Networks and Spatial Weights       	| Networkx, Osmnx, Pysal          	| Lab 5               	| Assignment 2   	|
 |      	| L8      	| Exploratory Spatial Data Analysis  	|                                 	|                     	|               	|

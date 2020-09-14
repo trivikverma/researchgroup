@@ -30,6 +30,17 @@ menu:
 
 ## Guidelines for Reading
 
+The objective of these reading discussions is,
+- to explore how articles are written
+- how data analysis is conducted and reported
+- how to critically analyse literature
+- learn to frame your own arguments using evidence
+- practice your analytical skills for the final project
+
+Your final project will benefit from these discussions. You can skip complex models and math equations introduced in these discussion papers but the bigger picture of why some models are preferred over other, or how to report data limitations and shortcomings of your work is important for the final assessment of this course. If you skip readings and discussions, you will fall behind in project work which amounts to 60% of your grade.
+
+A short guide for reading these papers is mentioned below,
+
 - Think about why your instructor assigned this reading. What subject will this article prepare you to discuss? How does this article fit into the main questions or topics of the course?
 - Use the discussion questions as reading guides for the paper. (They will be posted a week before)
 - Before you read in detail, skim the paper all the way through. Identify the organization of the document and the central ideas or arguments. The abstract, introduction, section headings and conclusion can provide information about the purpose and main point(s) about the paper.
@@ -93,6 +104,27 @@ Road network vulnerability analysis: Conceptualization,implementation and applic
 [pdf[^1]][[link - sign in with your TUD credentials to get access](https://www.sciencedirect.com/science/article/pii/S0198971514000192)]
 
 [^1]: I cannot provide you with a PDF because of the absurd billion-dollar academic publishing industry
+
+1. What is the goal of a network vulnerability analysis? When and why should policy makers use it?
+2. How do the authors define vulnerability? What is the main difference between the two perspectives on vulnerability?
+3. What is the difference between importance and criticality of a network element? When is a network link important?
+4. What assumptions are made for computational reasons? And what are the implications of these assumptions on vulnerability studies?
+5. Explain how the authors compute the travel time impact of a disruption (section 3.2). Would you compute it differently and why?
+6. What data aggregation problem is mentioned in the application section of the paper (section 4.1)? Can you think of other network data aggregation consequences?
+7. What are the main findings of the Swedish case study? What options are there to reduce vulnerability of a network? Reflect upon the concepts of redundancy, sparsity, density, hubs and how they influence expected user exposure.
+8. What aspects are clearly (or not) understandable from Fig 4-6? What would you change or add to the visualization of network vulnerability?
+9. Read the excerpt below and reflect on other examples of interdependent network failures. How would you expand the vulnerability analysis in those cases?
+
+```markdown
+A fundamental property of interdependent networks is that failure of nodes in one
+network may lead to failure of dependent nodes in other networks. A dramatic real
+world example of a cascade of failures (‘concurrent malfunction’) is the electrical
+blackout that affected much of Italy on 28 September 2003: the shutdown of power
+stations directly led to the failure of nodes in the Internet communication network,
+which in turn caused further breakdown of power stations. (Extracted from article:
+‘Catastrophic cascade of failures in interdependent networks’, Buldyrev, Sergey V.
+and Parshani, Roni and Paul, Gerald and Stanley, H. Eugene and Havlin, Shlomo).
+````
 
 <br/>
 

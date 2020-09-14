@@ -114,21 +114,26 @@ This session uses two datasets which are provided in the zipped lab files above.
 
 ## Lab 4 - Geo-Visualisation
 
+Lab 4 homework exercises are embedded within the lab files itself. You have to complete the exercises as you go along understanding the rest of the code. There are two files for this lab, ``geovis`` and ``eda``. Submit one or both together as **one** zip file on _Peer_ when you are done. Since this geocomputational lab is not as straightforward as other python code, a **solution** file will be provided here after submission ends.
+
 ### Notebook
 
+- {{% staticref "epa1316-2020/labs/lab-04/lab-04.zip" "newtab" %}}lab-zip{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-04/lab-04-geovis.html" "newtab" %}}lab-geovis-html{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-04/lab-04-EDA.html" "newtab" %}}lab-eda-html{{% /staticref %}}
 
-### Extra Practice
+### Solution for GeoVis
 
+- lab-geovis-solutions-html
 
 ### Data
 
-This session uses the **"Census socio-demographics"** dataset as well as the Ordnance Survey **(OS) Geodata Pack**. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
+This session uses multiple datasets which are provided in the zipped lab files above.
 
-The extra practice session uses the **"Index of Multiple Deprivation""** dataset as well as the Ordnance Survey **(OS) Geodata Pack**. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
-
-Additionally, you will need the raster file for the basemap of Liverpool. This has been assembled by [Dani Arribas-Bel](http://darribas.org) from the [OS VectorMap District (Backdrop Raster)](https://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html), and it is licensed as OpenData. The file is available for download on the following link:
-
-> [http://darribas.org/gds17/content/labs/figs/lab04_liverpool.tif](http://darribas.org/gds17/content/labs/figs/lab04_liverpool.tif)
+1. A **"Census socio-demographics"** dataset as well as the Ordnance Survey **(OS) Geodata Pack**.
+2. A **"Index of Multiple Deprivation""** dataset as well as the Ordnance Survey **(OS) Geodata Pack**.
+3. Additionally, you will need the raster file for the basemap of Liverpool. This has been assembled by [Dani Arribas-Bel](http://darribas.org) from the [OS VectorMap District (Backdrop Raster)](https://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html), and it is licensed as OpenData.
+4. Simple datasets on ``heart diseases``, ``titanic`` and a ``mystery`` you can find out for yourself.
 
 ### Additional materials
 
