@@ -131,7 +131,7 @@ Lab 4 homework exercises are embedded within the lab files itself. You have to c
 This session uses multiple datasets which are provided in the zipped lab files above.
 
 1. A **"Census socio-demographics"** dataset as well as the Ordnance Survey **(OS) Geodata Pack**.
-2. A **"Index of Multiple Deprivation""** dataset as well as the Ordnance Survey **(OS) Geodata Pack**.
+2. An **"Index of Multiple Deprivation""** dataset as well as the Ordnance Survey **(OS) Geodata Pack**.
 3. Additionally, you will need the raster file for the basemap of Liverpool. This has been assembled by [Dani Arribas-Bel](http://darribas.org) from the [OS VectorMap District (Backdrop Raster)](https://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html), and it is licensed as OpenData.
 4. Simple datasets on ``heart diseases``, ``titanic`` and a ``mystery`` you can find out for yourself.
 
@@ -149,19 +149,27 @@ This session uses multiple datasets which are provided in the zipped lab files a
 
 ### Notebook
 
-- [lab-ipynb](../labs/lab-02.ipynb)
-- [homework-ipynb](../labs/hw-02.ipynb)
-
-### Extra Practice
-
-- [lab-ipynb](../labs/lab-02.ipynb)
-- [homework-ipynb](../labs/hw-02.ipynb)
+- {{% staticref "epa1316-2020/labs/lab-05/lab-05.zip" "newtab" %}}lab-zip{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-05/lab-05.html" "newtab" %}}lab-geovis-html{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-05/lab-05-advanced.html" "newtab" %}}lab-eda-html{{% /staticref %}}
 
 ### Data
 
-This session uses the **"Index of Multiple Deprivation""** dataset. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
+This session uses multiple datasets which are all provided in the zipped lab files above.
 
-The extra practice session uses the **Brexit** dataset. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
+1. An **"Index of Multiple Deprivation""** dataset used in previous labs.
+2. A **Brexit** dataset.
+
+This is the dataset of the results of the 2016 referendum vote to leave the EU, at the local authority level. All the necessary data have been assembled for convenience in a single file that contains geographic information about each local authority in England, Wales and Scotland, as well as the vote attributes. The file is in the modern geospatial format [GeoPackage](http://www.geopackage.org/), which presents several advantages over the more traditional shapefile (chief among them, the need of a single file instead of several). The file is provided below,
+
+- {{% staticref "epa1316-2020/labs/lab-05/brexit.zip" "newtab" %}}brexit-data{{% /staticref %}}
+
+Unzip and add this file to the data folder as well.
+
+The source data used to compile the file linked above include:
+
+- Electoral Commission data on the EU referendum results ([`url`](https://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/past-elections-and-referendums/eu-referendum/electorate-and-count-information))
+- Local Authority District boundaries ([`url`](https://data.gov.uk/dataset/83f065f7-3b55-4871-97c8-21579adbee1c/local-authority-districts-december-2015-full-extent-boundaries-in-great-britain))
 
 ### Required before the practical
 
