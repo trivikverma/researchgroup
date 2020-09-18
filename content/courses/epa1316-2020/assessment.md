@@ -38,9 +38,9 @@ The following specific criteria relating to the code provided will be used:
 * **1-2**: the code does not run and there is no documentation to follow it.
 * **2.5-5**: the code does not run, or runs but it does not produce the expected outcome. There is some documentation explaining its logic.
 * **5.5-7**: the code runs and produces the expected output. There is some documentation explaining its logic.
-* **7.5-8**: the code runs and produces the expected output. There is extensive documentation explaining its logic.
-* **8.5-9**: the code runs and produces the expected output. There is extensive documentation, properly formatted, and explaining its logic.
-* **9.5-10**: all as above, plus the code design includes clear evidence of skills presented in class and homework exercises (e.g. custom methods, list comprehensions, etc.) and variables and functions are named well.
+* **7.5-8**: the code runs and produces the expected output. There is extensive documentation explaining its logic that helps us understand your thought process in making certain chocies in this assignment.
+* **8.5-9**: the code runs and produces the expected output. There is extensive documentation explaining its logic that helps us understand your thought process in making certain chocies in this assignment. Code design includes clear evidence of skills presented in class and homework exercises (e.g. custom methods, list comprehensions, etc.) and variables and functions are named well.
+* **9.5-10**: all as above, **plus** your code is properly formatted such that each **section** describes one aspect and the code structure is readble (for reference see how labs are formatted with markdown and code sections).
 
 ### Submission
 

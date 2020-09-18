@@ -114,7 +114,7 @@ This session uses two datasets which are provided in the zipped lab files above.
 
 ## Lab 4 - Geo-Visualisation
 
-Lab 4 homework exercises are embedded within the lab files itself. You have to complete the exercises as you go along understanding the rest of the code. There are two files for this lab, ``geovis`` and ``eda``. Submit one or both together as **one** zip file on _Peer_ when you are done. Since this geocomputational lab is not as straightforward as other python code, a **solution** file will be provided here after submission ends.
+Lab 4 homework exercises are embedded within the lab files itself. You have to complete the exercises as you go along understanding the rest of the code. There are two files for this lab, ``geovis`` and ``eda``. Submit one or both together as **one** zip file on _Peer_ when you are done. Since this geocomputational lab is not as straightforward as other python code, a **solution set** will be provided for questions indicated in the lab after submission ends.
 
 ### Notebook
 
@@ -122,9 +122,9 @@ Lab 4 homework exercises are embedded within the lab files itself. You have to c
 - {{% staticref "epa1316-2020/labs/lab-04/lab-04-geovis.html" "newtab" %}}lab-geovis-html{{% /staticref %}}
 - {{% staticref "epa1316-2020/labs/lab-04/lab-04-EDA.html" "newtab" %}}lab-eda-html{{% /staticref %}}
 
-### Solution for GeoVis
+### Solutions
 
-- lab-geovis-solutions-html
+- lab-solutions-zip
 
 ### Data
 
