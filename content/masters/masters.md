@@ -22,11 +22,19 @@ date_format = "Jan 2006"
 
 <br />
 
+### [18] Evaluating the role of social networks in adoption of new technology for sustainable city development
+#### Aarthi Meenakshi Sundaram
+##### _EPA @ TPM, TU Delft [Sep 2020 -  July 2021]_
+
+### [17] Identifying a geo-spatially optimal ensemble of Food ATMs to improve distribution of food in urbanisning refugee settlements
+#### Daan van Beek
+##### _EPA @ TPM, TU Delft [Sep 2020 -  Mar 2021]_
+
 ### [16] Understanding the Role of Municipalities in National Energy Transition for Netherlands
 #### Jaromir Bogdanovski
 ##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
 
-### [15] {{% staticref "msc_projects/JakobSerlier.pdf" %}}Affecting Behavior Patterns of Citizens using Language-based Microtargetting{{% /staticref %}}
+### [15] {{% staticref "msc_projects/ManosLeontaris.pdf" %}}Affecting Behavior Patterns of Citizens using Language-based Microtargetting{{% /staticref %}}
 #### Manos Leontaris
 ##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
 

@@ -137,6 +137,15 @@ Quantifying long-term evolution of intra-urban spatial interactions
 <br/>
 [[pdf](../discussions/week4.pdf)][[link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.1089)]
 
+1. What is intra-urban movement? How can we use for studying urban planning?
+2. How can we use large-scale datasets describing population movements to understand their behaviour in the urban areas?
+3. What are some limitations of large-scale datasets to analyse movements of people in a city?
+4. What are some indicators that can measure and quantify human mobility patterns? What do these indicators mean for such patterns?
+5. What is modularity? How does maximising modularity help the resolution of urban interaction?
+6. How does the travel distance affect travellers' activity or behaviour of the journey? Is there any correlation between distance and return behaviour?
+7. Which study or research could benefit from analysing spatial interactions? Suggest an example.
+8. What more could be done with smart-card datasets apart from what authors have mentioned in their article? Which datasets would you want to obtain to study urban interactions and why?
+
 <br/>
 
 ***
