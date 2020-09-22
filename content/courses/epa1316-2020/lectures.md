@@ -158,12 +158,15 @@ This lecture is partly inspired by (Tufte, 1983).
 
 ### Slides
 
-- [pdf]()
+- [pdf](../lectures/05-visualisation.pdf)
+- [Beautiful visualisations](../lectures/AYearInGraphicDetail.zip)
+- [Principles of Graphical Excellence and other things..](../lectures/ExtraReading.zip)
 
 ### To do before class
 
 * Watch this short [video](https://www.youtube.com/watch?v=j8g4_ee27Tk) on data visualisation by Nathan Yau
 * [Think about the grammar of graphics when improving your graphs](https://medium.com/tdebeus/think-about-the-grammar-of-graphics-when-improving-your-graphs-18e3744d8d18) - at _Colourful Facts_ – a Medium blog by Thomas de Beus (Ignore the reference to the **R** programming language as this course is based on **Python** (no offence intended to any community).)
+* Learn about [Kernel Density Estimation](https://mathisonian.github.io/kde/)
 
 ### Related readings
 

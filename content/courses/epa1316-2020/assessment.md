@@ -27,7 +27,9 @@ The course is designed to include two types of assessments:
     * Assignment 01 (15%)
       - {{% staticref "epa1316-2020/assignments/assignment-01/assignment-01.zip" "newtab" %}}assignment-zip{{% /staticref %}}
       - {{% staticref "epa1316-2020/assignments/assignment-01/assignment-01.html" "newtab" %}}assignment-html{{% /staticref %}}
-    * [Assignment 02](#task_02) (15%)
+    * Assignment 02 (15%)
+      - {{% staticref "epa1316-2020/assignments/assignment-02/assignment-02.zip" "newtab" %}}assignment-zip{{% /staticref %}}
+      - {{% staticref "epa1316-2020/assignments/assignment-02/assignment-02.html" "newtab" %}}assignment-html{{% /staticref %}}
     * [Assignment 03](#task_03) (10%)
     * [Final Project](#final_proj) (60%)
 
@@ -40,7 +42,7 @@ The following specific criteria relating to the code provided will be used:
 * **5.5-7**: the code runs and produces the expected output. There is some documentation explaining its logic.
 * **7.5-8**: the code runs and produces the expected output. There is extensive documentation explaining its logic that helps us understand your thought process in making certain chocies in this assignment.
 * **8.5-9**: the code runs and produces the expected output. There is extensive documentation explaining its logic that helps us understand your thought process in making certain chocies in this assignment. Code design includes clear evidence of skills presented in class and homework exercises (e.g. custom methods, list comprehensions, etc.) and variables and functions are named well.
-* **9.5-10**: all as above, **plus** your code is properly formatted such that each **section** describes one aspect and the code structure is readble (for reference see how labs are formatted with markdown and code sections).
+* **9.5-10**: all as above, **plus** your code is properly formatted such that each **section** describes one aspect and the code structure is readable (for reference see how labs are formatted with markdown and code sections).
 
 ### Submission
 
@@ -56,4 +58,4 @@ Deadlines for everything will be Friday at 2330 for the week's homework or assig
     - submit the corresponding week's exercise to Peer in the respective assignment. FGor example, to Homework-1 for week 1.
     - wait for instructions on reviewing your peer's work and then reviewing the feedback you got from your peer.
     - **Note**: this is a double-blind peer review, so please do not add your names or any information revealing your identity in the submission files.
-  * Graded Assignments: Submit assignments assignment-0x.ipynb on Brightspace.
+  * Graded Assignments: Submit assignments on Brightspace. Formats and naming conventions are given within the .ipynb files.
