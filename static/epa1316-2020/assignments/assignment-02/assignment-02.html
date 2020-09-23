@@ -13114,17 +13114,20 @@ div#notebook {
 <li>Work with Geographic data</li>
 <li>Plot important information about the data (graphs, scatter plots, choropleth, etc..) using the <code>principles of graphical excellence</code> and <code>guidelines of exploratory data analysis</code>.</li>
 </ul>
-<h4 id="1.4-Tasks">1.4 Tasks<a class="anchor-link" href="#1.4-Tasks">&#182;</a></h4><p>This assignment requires you to go through five tasks in eda and visualisation, and networks and spatial weights.</p>
+<h4 id="1.4-Tasks">1.4 Tasks<a class="anchor-link" href="#1.4-Tasks">&#182;</a></h4><p><code>Problem Structure</code>: First formulate a hypothesis/RQ, identify two/three key variables, search for appropriate datasets (csv, excel, etc.), merge the csv and the given shape file, do a bit of EDA/spatial analysis and then report your result in a list of <strong>5 neighbourhoods</strong> that discuss the RQ.</p>
+<p><code>What we expect</code>: Provide a list of <strong>five neighbourhoods</strong> in The Hague characterised as "safe" or "" (insert your measure based on what data you collected). Give at least two measurements that may be linked to each other (for example: your hypothesis is that neighbourhoods with no green space are more prone to populations with mental health issues). Be explicit about what definition you use for each measurement using markdown cells. I am not looking for mathematical equations as justification, but you are welcome to also form simple relations and show them in markdown. I shouldn't have to call you to find out what you mean by measurements of "Accessibility" or "Safety" or "Popularity" etc. Do not assume that there is one normative definition and skip your reasoning.</p>
+
+<pre><code>* Note that the measurement can also just be number of people living in a neighbourhood, their voting choice or availability of jobs. But it will not hurt to plot more than just a column from a csv. 
+
+</code></pre>
+<p>This assignment requires you to go through the following tasks in eda and visualisation, and networks and spatial weights.</p>
 <ol>
 <li>Use at least two datasets: merge at least 1 shapefile (already provided) and a csv file (you find and obtain).</li>
 <li>Justify your data collection process using markdown cells as you go through the notebook</li>
-<li><strong>[Optional]</strong> Plot and Overlay Shapefiles to show Den Haag with some other elements like the sea, canals, centroids, amenities (try Open Street Maps data - using <code>osmnx</code>?), climate or land-use patterns, etc. </li>
-<li>Provide a list of <strong>five neighbourhoods</strong> in The Hague characterised as "safe" or "" (insert your measure based on what data you collected). Give at least two measurements that may be linked to each other (for example: your hypothesis is that neighbourhoods with no green space are more prone to populations with mental health issues). Be explicit about what definition you use for each measurement using markdown cells. I am not looking for mathematical equations as justification, but you are welcome to also form simple relations and show them in markdown. I shouldn't have to call you to find out what you mean by measurements of "Accessibility" or "Safety" or "Popularity" etc. Do not assume that there is one normative definition and skip your reasoning.<ul>
-<li>Note that the mesurement can also just be number of people living in a neighbourhood, their voting choice or availability of jobs. But it will not hurt to plot more than just a column from a csv. </li>
-</ul>
-</li>
+<li>Clean your data and make it tabular for your own good! (think about weeks 1-3 and assignment 1)</li>
+<li>Carry out an exploratory data analysis</li>
 <li>Justify your choice of the list on the basis of your analysis.<ul>
-<li>Use at least <strong>3 figures</strong> to support your analysis. Think about exploratory data analysis (build data, clean data, explore gloabl, explore group properties). </li>
+<li>Use at least <strong>3 figures</strong> to support your analysis. Think about exploratory data analysis (build data, clean data, explore global, explore group properties). </li>
 <li>These figures should have followed the principles of graphical excellence. Using markdown, write explicity under each figure at least <strong>3 principles of excellence</strong> you have used to make it.</li>
 <li>Create <strong>choropleths</strong> to display region-specific information (ex. population, voting choice or jobs availability)</li>
 <li>Be careful with the use of color (and try to be inclusive of color blind people)</li>
@@ -13137,6 +13140,7 @@ div#notebook {
 </li>
 </ul>
 </li>
+<li><strong>[Optional]</strong> Plot and Overlay Shapefiles to show Den Haag with some other elements like the sea, canals, centroids, amenities (try Open Street Maps data - using <code>osmnx</code>?), climate or land-use patterns, etc. </li>
 </ol>
 <p>Remember to always document your code!</p>
 
