@@ -193,7 +193,7 @@ This lecture is partly inspired by (Rey, 2015).
 
 ### Slides
 
-- [pdf]()
+- [pdf](../lectures/06-geo-visualisation.pdf)
 
 ### To do before class
 

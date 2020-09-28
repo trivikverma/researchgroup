@@ -152,10 +152,11 @@ This session uses multiple datasets which are provided in the zipped lab files a
 - {{% staticref "epa1316-2020/labs/lab-05/lab-05.zip" "newtab" %}}lab-zip{{% /staticref %}}
 - {{% staticref "epa1316-2020/labs/lab-05/lab-05.html" "newtab" %}}lab-geovis-html{{% /staticref %}}
 - {{% staticref "epa1316-2020/labs/lab-05/lab-05-advanced.html" "newtab" %}}lab-eda-html{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-05/brexit.zip" "newtab" %}}brexit-data{{% /staticref %}}
 
 ### Data
 
-This session uses multiple datasets which are all provided in the zipped lab files above.
+This session uses multiple datasets which are all provided in the zipped lab files above or separately as a _Brexit_ zip file.
 
 1. An **"Index of Multiple Deprivation""** dataset used in previous labs.
 2. A **Brexit** dataset.

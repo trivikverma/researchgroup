@@ -157,6 +157,15 @@ Toward cities without slums: Topology and the spatial evolution of neighborhoods
 <br/>
 [[pdf](../discussions/week5.pdf)][[link](https://advances.sciencemag.org/content/4/8/eaar4644)][[post](https://miurban.uchicago.edu/2019/11/14/millionneighborhoodsmap/)][[tool](https://millionneighborhoods.org/#2/8.84/17.54)]
 
+1. What is the ‘big picture’ problem this paper is tackling? Why are quantitative tools needed to tackle it?
+2. What is the urban relationship that the authors quantify and how?
+3. What is the Euler characteristic of city size and the block complexity and how are these metrics calculated?
+4. How are the metrics applied to urban planning by reblocking? What is the ‘optimal reblocking’ of such an algorithm?
+5. For which parameter is the algorithm for network accessibility optimized for and why?
+6. Consider the main problem the paper tackles and the assumptions of the model.. Can you suggest a different optimisation function for such calculations?
+7. Is there a finite number of parameters that can be optimized using these two algorithms or possibly multiple?
+What is the main obstacle in implementing these reblocking plans and how do the authors suggest to use the tool they built?
+
 <br/>
 
 ***
@@ -175,9 +184,9 @@ Urban Scaling and Its Deviations: Revealing the Structure of Wealth, Innovation 
 
 ## Week 7 - Clustering the Urban Form
 
-Urban DNA and Sustainable Cities: A Multi-City Comparison
+Urban mobility and neighborhood isolation in America’s 50 largest cities
 
-[[pdf](../discussions/week7.pdf)][[link](https://www.frontiersin.org/articles/10.3389/fenvs.2019.00004/full)]
+[[pdf](../discussions/week7.pdf)][[link](https://www.pnas.org/content/115/30/7735)]
 
 <br/>
 
