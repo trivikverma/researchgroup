@@ -221,7 +221,7 @@ This lecture is partly inspired by (Rey, 2015).
 
 ### Slides
 
-- [pdf]()
+- [pdf](../lectures/07-space.pdf)
 
 ### To do before class
 

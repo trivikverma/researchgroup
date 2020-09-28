@@ -124,7 +124,7 @@ Lab 4 homework exercises are embedded within the lab files itself. You have to c
 
 ### Solutions
 
-- lab-solutions-zip
+- {{% staticref "epa1316-2020/labs/lab-04/solutions.zip" "newtab" %}}lab-solutions-zip{{% /staticref %}}
 
 ### Data
 
