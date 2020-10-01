@@ -122,7 +122,7 @@ needed to better understand these mechanics and their relation to changes to the
 research into the changes to the neighborhood amenities and businesses as a result of changes in citizen
 composition can aid policy making and understanding the developments of the ever-changing city landscape.
 
-### [9] Measuring Ecological Footprint of Cities
+### [9] {{% staticref "msc_projects/RuchikPatel.pdf" %}}Measuring Ecological Footprint of Cities{{% /staticref %}}
 #### Ruchik Patel
 ##### _EPA @ TPM, TU Delft [Feb 2020 -  July 2020]_
 
