@@ -247,7 +247,7 @@ This lecture is partly inspired by (Rey, 2015).
 
 ### Slides
 
-- [pdf]()
+- [pdf](../lectures/08-esda.pdf)
 
 ### To do before class
 
