@@ -152,7 +152,6 @@ This session uses multiple datasets which are provided in the zipped lab files a
 - {{% staticref "epa1316-2020/labs/lab-05/lab-05.zip" "newtab" %}}lab-zip{{% /staticref %}}
 - {{% staticref "epa1316-2020/labs/lab-05/lab-05.html" "newtab" %}}lab-geovis-html{{% /staticref %}}
 - {{% staticref "epa1316-2020/labs/lab-05/lab-05-advanced.html" "newtab" %}}lab-eda-html{{% /staticref %}}
-- {{% staticref "epa1316-2020/labs/lab-05/brexit.zip" "newtab" %}}brexit-data{{% /staticref %}}
 
 ### Data
 
@@ -193,7 +192,29 @@ Watch the section on ESDA of the SciPy'16 tutorial on Geographic Data Science wi
 
 ## Lab 6 - Linear Regression
 
+Since this lab is not as straightforward as other python code, a **solution set** will be provided for questions indicated in the homework after submission ends. Lab solutions are already provided but it is better if you try yourself and get feedback, then look at the solutions.
 
+### Notebook
+
+- {{% staticref "epa1316-2020/labs/lab-06/lab-06.zip" "newtab" %}}lab-zip{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-06/lab-06.html" "newtab" %}}lab-html{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-06/lab-06-advanced.html" "newtab" %}}lab-advanced-html{{% /staticref %}}
+
+### Solutions
+
+- lab-solutions-zip
+
+### Data
+
+This session uses multiple data files.
+
+1. A dataset downloaded from Kaggle on stats about the premiere league.
+2. A Boston housing dataset and its training set companion.
+3. An IMDB cast dataset.
+4. A car dataset.
+5. A cab dataset.
+
+These sets are not that relevant to the worlds problems but simple to work with on small regression practice sets.
 
 <br/>
 
@@ -204,13 +225,7 @@ Watch the section on ESDA of the SciPy'16 tutorial on Geographic Data Science wi
 
 ### Notebook
 
-- [lab-ipynb](../labs/lab-02.ipynb)
-- [homework-ipynb](../labs/hw-02.ipynb)
 
-### Extra Practice
-
-- [lab-ipynb](../labs/lab-02.ipynb)
-- [homework-ipynb](../labs/hw-02.ipynb)
 
 ### Data
 

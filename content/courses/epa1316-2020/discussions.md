@@ -177,6 +177,14 @@ Urban Scaling and Its Deviations: Revealing the Structure of Wealth, Innovation 
 
 [[pdf](../discussions/week6.pdf)][[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013541)]
 
+1. What is the main point of this paper regarding linear per capita indicators?
+2. How do the expressions ‘economies of scale’ and ‘increasing returns in socioeconomic productivity’ relate to urban scaling?
+3. What is a SAMI (Scale Adjusted Metropolitan Indicator)?
+4. What does it mean that SAMI values are temporally persistent / consistent in relation to each other?
+5. What do you think of the figures, do they help understand the paper, are they intuitive?
+6.How can the use of linear per capita indicators have influenced past decision making, would it have made a difference if scale adjusted indicators were used?
+7. How can information regarding kindred cities be used within a policy making context?
+
 <br/>
 
 ***
