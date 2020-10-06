@@ -276,7 +276,7 @@ Kindly buy [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLboo
 
 ### Slides
 
-- [pdf]()
+- [pdf](../lectures/09-ml-for-everyone.pdf)
 
 ### To do before class
 
