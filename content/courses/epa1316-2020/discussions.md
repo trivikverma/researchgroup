@@ -196,6 +196,16 @@ Urban mobility and neighborhood isolation in America’s 50 largest cities
 
 [[pdf](../discussions/week7.pdf)][[link](https://www.pnas.org/content/115/30/7735)]
 
+1. What are the implicit assumptions regarding social exclusion/isolation that the authors try to address?
+2. What are the main sources of data normally used to study social exclusion? What are the advantages and disadvantages of using such data?
+3. What are the advantages and disadvantages of using Twitter data for the study? How did the authors handle the disadvantages?
+4. The authors measure both the ‘radius’ and the ‘spread’ of individuals’ travels. What are the differences between the two?
+5. Are there significant differences with respect to the urban mobility radii and spread between residents from different ethnicities and income classes?
+6. The authors measure ‘exposure to certain (e.g., non-poor, white) neighborhoods’. What does this mean and how did the authors measure it?
+7. Can you think of an easier way to visualize Figure 4, to make the comparison of the travel pattern easier to understand?
+8. Going back to the first question, do the findings of the paper support the implicit assumptions? Can you explain why?
+9. Can you summarize or explain the main steps the authors took to end up with the final conclusions?
+
 <br/>
 
 ***
