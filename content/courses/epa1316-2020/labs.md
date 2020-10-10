@@ -132,6 +132,8 @@ This session uses multiple datasets which are provided in the zipped lab files a
 
 1. A **"Census socio-demographics"** dataset as well as the Ordnance Survey **(OS) Geodata Pack**.
 2. An **"Index of Multiple Deprivation""** dataset as well as the Ordnance Survey **(OS) Geodata Pack**.
+Scores, ranks, and components of the 2015 Index of Multiple Deprivation (IMD).
+**Source**: [CDRC](http://cdrc.ac.uk/)'s English Indices of Deprivation 2015 Geodata Pack for the city of Liverpool (UK).
 3. Additionally, you will need the raster file for the basemap of Liverpool. This has been assembled by [Dani Arribas-Bel](http://darribas.org) from the [OS VectorMap District (Backdrop Raster)](https://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html), and it is licensed as OpenData.
 4. Simple datasets on ``heart diseases``, ``titanic`` and a ``mystery`` you can find out for yourself.
 
@@ -202,7 +204,7 @@ Since this lab is not as straightforward as other python code, a **solution set*
 
 ### Solutions
 
-- lab-solutions-zip
+- {{% staticref "epa1316-2020/labs/lab-06/soultions.zip" "newtab" %}}lab-solutions-zip{{% /staticref %}}
 
 ### Data
 
@@ -225,11 +227,34 @@ These sets are not that relevant to the worlds problems but simple to work with 
 
 ### Notebook
 
-
+- {{% staticref "epa1316-2020/labs/lab-07/lab-07.zip" "newtab" %}}lab-zip{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-07/lab-07.html" "newtab" %}}lab-html{{% /staticref %}}
 
 ### Data
 
-This session uses the **"AirBnb listing for Inner London - MSOA level"** dataset. Go to the [Datasets](../datasets.html) tab to find out more information as well as instructions to download it.
+This session uses the **"AirBnb listing for Inner London - MSOA level"** dataset.
+
+This dataset contains information for [AirBnb](https://www.airbnb.com) properties for the area of Inner London aggregated at the MSOA level. It has been prepared by Dani Arribas-Bel using as the original source the full listing of AirBnb locations for London provided by [Inside AirBnb](https://insideairbnb.com/). Same as the source, the dataset is released under a [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) License.
+
+For every polygon, the following variables are provided:
+
+* `id`: MSOA unique identifier.
+* `accommodates`: average property capacity in the MSOA.
+* `bathrooms`: average number of bathrooms in the properties within the MSOA.
+* `bedrooms`: average number of bedrooms in the properties within the MSOA.
+* `beds`: average number of beds in the properties within the MSOA.
+* `number_of_reviews`: average number of reviews received by the properties within the MSOA.
+* `reviews_per_month`: average number of reviews per month received by the properties within the MSOA.
+* `review_scores_ratings`: average rating score received by the properties within the MSOA.
+* `review_scores_accuracy`: average accuracy score received by the properties within the MSOA.
+* `review_scores_cleanliness`: average cleanliness score received by the properties within the MSOA.
+* `review_scores_checkin`: average checkin score received by the properties within the MSOA.
+* `review_scores_communication`: average communication score received by the properties within the MSOA.
+* `review_scores_location`: average location score received by the properties within the MSOA.
+* `review_scores_value`: average value score received by the properties within the MSOA.
+* `property_count`: total number of AirBnb properties listed withing the MSOA.
+
+The lab also uses an additional file that contains the boundary lines of the London boroughs provided in the data fodler as well.
 
 ### Required before the practical
 
@@ -250,8 +275,6 @@ Watch the section on spatial clustering of the SciPy'16 tutorial on Geographic D
 
 ### Notebook
 
-- [lab-ipynb](../labs/lab-02.ipynb)
-- [homework-ipynb](../labs/hw-02.ipynb)
 
 ### Data
 
