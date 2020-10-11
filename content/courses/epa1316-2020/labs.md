@@ -204,7 +204,7 @@ Since this lab is not as straightforward as other python code, a **solution set*
 
 ### Solutions
 
-- {{% staticref "epa1316-2020/labs/lab-06/soultions.zip" "newtab" %}}lab-solutions-zip{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-06/solutions.zip" "newtab" %}}lab-solutions-zip{{% /staticref %}}
 
 ### Data
 
