@@ -273,12 +273,16 @@ Watch the section on spatial clustering of the SciPy'16 tutorial on Geographic D
 
 ## Lab 8 - Points
 
+You do not have to submit Lab 8 for peer feedback. It is for your own practice.
+
 ### Notebook
 
+- {{% staticref "epa1316-2020/labs/lab-08/lab-08.zip" "newtab" %}}lab-zip{{% /staticref %}}
+- {{% staticref "epa1316-2020/labs/lab-08/lab-08.html" "newtab" %}}lab-html{{% /staticref %}}
 
 ### Data
 
-This lab uses a sample of geo-referenced tweets for the city of Liverpool. Go to the [Datasets](../datasets.html) tab and check the **Geo-referenced tweets** section to find out more information about the data as well as instructions to download it.
+This lab uses a sample of geo-referenced locations of photographs taken in Tokyo.
 
 ### Required before the practical
 
