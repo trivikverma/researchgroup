@@ -33,7 +33,7 @@ The course is designed to include two types of assessments:
     * Assignment 03 (10%)
       - {{% staticref "epa1316-2020/assignments/assignment-03/assignment-03.zip" "newtab" %}}assignment-zip{{% /staticref %}}
       - {{% staticref "epa1316-2020/assignments/assignment-03/assignment-03.html" "newtab" %}}assignment-html{{% /staticref %}}
-    * [Final Project](#final_proj) (60%)
+    * [Final Project]({{< relref "assessment/final-project.md" >}}) (60%)
 
 ### Marking Criteria for assignments
 

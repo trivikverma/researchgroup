@@ -4,7 +4,7 @@ linktitle: Project Template
 toc: true
 type: docs
 date: "2019-05-05T00:00:00Z"
-draft: true
+draft: false
 menu:
   epa1316-2020:
     name: Project Template
@@ -23,6 +23,13 @@ Before starting to write the final article for this course, I suggest you read [
 
 [^1]: Note: I am not interested in assessing your writing skills in English. The assessment of this course will evaluate your ability to obtain, scrub, explore, model, interpret and communicate your findings **coherently**.
 
+#### Title
+
+Please include,
+- a suitable title
+- your names
+- student numbers
+
 #### Abstract (250 words or less)
 
 - State what we know about the subject/problem/big picture
@@ -34,7 +41,7 @@ Before starting to write the final article for this course, I suggest you read [
 - Explain why these findings are important
 
 
-#### Introduction (About 3-5 paragraphs)
+#### Introduction
 
 - Describe the _puzzle or gap_ in the literature that you will address with your data
   - What do we know?
@@ -48,7 +55,7 @@ Before starting to write the final article for this course, I suggest you read [
   - What is the answer to your research question?
   - How does this answer broaden, clarify, or challenge existing knowledge/theories?
 
-#### Related Work (Basically Justification -- About 3-5 paragraphs)
+#### Related Work (Basically Justification using relevant sources)
 
 * Restate the puzzle or gap in the literature that you will address
 * Explain why this puzzle or gap is important to address
@@ -86,13 +93,13 @@ Before starting to write the final article for this course, I suggest you read [
   - Briefly explain how this example represents the larger pattern
   - Briefly explain how this pattern provides evidence for the supporting point
 
-*Note: Everything that you include in your analysis should directly support your argument, and that argument should be the answer to your research question. A clear structure (with topic sentences and transitions) is very important for writing an analysis that meets this goal.
+*Note: Everything that you include in your analysis should directly support your argument, and that argument should be the answer to your research question. A clear structure (with topic sentences and transitions) is very important for writing an analysis that meets this goal. If you did 500 things that are not relevant for your research question because you did not learn anything from it, do not include those observations.
 
-#### Discussion/Conclusion (3-4 paragraphs)
+#### Discussion/Conclusion
 
 - Summarize your findings
   - Remind readers of the puzzle/gap in the literature that you are trying to solve
-  - Remind readers of the specific research question that you have answered
+  - Remind readers of the specific research question that you have addressed
   - Briefly review what you found
   - Briefly explain what these findings imply about the answer to your research question
 - Discuss the implications of your findings

@@ -216,3 +216,11 @@ Urban mobility and neighborhood isolation in America’s 50 largest cities
 The ethics of smart cities and urban science
 
 [[pdf](../discussions/week8.pdf)][[link](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2016.0115)]
+
+1. What are the risks of only letting big data influence your decision-making as a policy maker? How can these risks be reduced?
+2. What are the two current epistemological positions on urban science? Explain what they entail and your stance on them.
+3. What are the main ethical issues discussed in the paper? Which issue do you think needs the most attention?
+4. What is ‘data determinism’? Are there cases in which data determinism is warranted?
+5. What three dimensions are named to re-imagine and re-cast smart cities and urban science?
+6. The paper states that “Researchers need to consider the ethical implications of their work with respect to privacy harms, notice and consent, and the uses to which their research is being deployed” (p.12) and “In addition, professional bodies should review their ethical standards in the light of big data and revise accordingly” (p.12). Do you think these conclusions are easy to guide but difficult to deploy? Why or why not?
+7. There are multiple stakeholders (e.g. researchers, citizens, professional bodies, government) that are involved in urban data science. Who do you think should take the lead in safeguarding the ethical collection and use of urban data?
