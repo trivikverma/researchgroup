@@ -51,10 +51,11 @@ My suggestion is to spend week 8 on data collection and cleaning, problem scopin
 
 The division of TA groups is as follows and room links are posted on Brightspace, 
 
-Tess Kim - Groups 1-10
-Jelle Egbers - Groups 11-20
-Lotte Lourens - Groups 21-30
-Aarthi Sundaram - Groups 31-40
+- Tess Kim - Groups 1-10
+- Jelle Egbers - Groups 11-20
+- Lotte Lourens - Groups 21-30
+- Aarthi Sundaram - Groups 31-40
+
 If there are any questions about the final projects after Monday, please reach out to your TAs directly. 
 
 #### 2. Scope of Work and Preliminary EDA
