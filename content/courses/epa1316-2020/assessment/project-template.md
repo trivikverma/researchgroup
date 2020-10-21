@@ -66,7 +66,7 @@ Please include,
 * Explain how your research question solves the puzzle or fills the gap in the literature
 (i.e., “Answering this question allows me to…”)
 
-*Note: The point of a literature review is not actually to review all of the relevant literature paragrapg by partagraph. The point is to make the case for why your study is important and the literature summaries and refrences are there to justify **your** work.
+*Note: The point of a literature review is not actually to review all of the relevant literature paragraph by paragraph. The point is to make the case for why your study is important and the literature summaries and refrences are there to justify **your** work.
 
 #### Exploratory Data Analysis (4-6 short paragraphs)
 
