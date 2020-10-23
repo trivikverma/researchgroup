@@ -400,7 +400,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf]()
+- [pdf](../lectures/14-responsibility.pdf)
 
 ### To do before class
 
