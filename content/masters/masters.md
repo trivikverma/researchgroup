@@ -53,17 +53,46 @@ hints towards behavioral change without forcing it). The end goal is threefold:
 social welfare improvement.
 • Giving public policy advice ideas based on the results of the work.
 
-### [14] Prediciting Bus Ridership using Trip Planner Data
+### [14] {{% staticref "msc_projects/ZiyulongWang.pdf" %}}Prediciting Bus Ridership using Trip Planner Data{{% /staticref %}}
 #### Ziyulong Wang
 ##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
 
-### [13] Investigating the Role of Points of Interest in Estimating Mobility Patterns in Cities
+### [13] {{% staticref "msc_projects/KaranPappala.pdf" %}}Investigating the Role of Points of Interest in Estimating Mobility Patterns in Cities{{% /staticref %}}
 #### Karan Pappala
-##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
+##### _EPA @ TPM, TU Delft [Apr 2020 -  Oct 2020]_
 
-### [12] Understanding the Impact of AirBnB on the Social Fabric of Cities: A Case of Amsterdam
+>Cities are growing every day due to rising population, vehicular traffic, immigrants looking for
+opportunities and to accommodate this, cities are expanding and reshaping at an immense rate. People
+travel within a city for various purposes but the destination locations are the main reason for the
+movement. It is proved that locations influence a person’s travel behavior. This research aims to study
+the influence of points of interest on human mobility available within a city and estimation of the travel
+flow between specified origin and destination locations. The city of London is chosen as the case study
+and the travel network is the London Rail. The research question this study aims to answer is "How
+to estimate human mobility by using points of interest?".
+
+### [12] {{% staticref "msc_projects/FabioTejedor.pdf" %}}The Impact of Airbnb in the Gentrification Process in Amsterdam{{% /staticref %}}
 #### Fabio Tejedor
-##### _EPA @ TPM, TU Delft [Apr 2020 -  Sep 2020]_
+##### _EPA @ TPM, TU Delft [Apr 2020 -  Oct 2020]_
+
+>In a globalized world, the rapid development in digital technologies and finance has
+enabled the successful growth of Airbnb around the world. The basic idea behind this
+growth is to take advantage of the underused assets —houses, apartments, or rooms and
+to profit from them. The spectacular growth in main cities has caused the social fabric
+of the city was negatively impacted. The diminishing local welfare, shortage in the housingmarket,
+and to the need for identifying ways to regulate the operations are the major
+concerns of local government who perceive Airbnb as a disruptor of the main city subsystems
+—social, urban infrastructure, and governance. In this regard, it is important
+to understand the evolution in the adoption of Airbnb to explain the conditions that enabled
+the rapid absorption. Moreover, how people perceive houses as a profitable source
+of additional income becomes relevant in the discussion of commodification of housing.
+As a result, the connection with gentrification as an urban process that relates socioeconomic
+conditions and the housing system emerges as a possible connection with
+Airbnb. The available data on Airbnb, households, and houses allows analyzing the potential
+correlations between Airbnb and the socio-economic conditions. This can help
+the decision-makers to understand the relationship between the role of Airbnb and the
+socio-economic conditions of a city. From a theoretical idea about the causes, effects,
+and facets of gentrification, this dissertation aims to bridge the gap between Airbnb as a
+socio-technical platformand the commodification of housing.
 
 ### [11] {{% staticref "msc_projects/JakobSerlier.pdf" %}}Assessing time resilience of public transit networks using London Underground data{{% /staticref %}}
 #### Jakob Serlier [BSc Student]

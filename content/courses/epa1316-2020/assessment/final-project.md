@@ -75,4 +75,4 @@ you used to explore the data (initial explorations, data cleaning and reconcilia
 Submit your final project on Brightspace as a **pdf** (only one submission per group).
 - Use the [project template]({{< ref "project-template.md" >}}) to write the final report.
 - You will be assessed using a [project rubric](../../resources/project-rubric.pdf).
-- You are required to also submit a peer evaluation of each team member (link will be updated later).
+- You are required to also submit a peer evaluation of each team member ([Buddycheck](https://brightspace.tudelft.nl/d2l/le/content/279068/viewContent/1938159/View)).
