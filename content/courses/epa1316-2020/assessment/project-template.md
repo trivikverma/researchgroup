@@ -68,7 +68,7 @@ Please include,
 
 *Note: The point of a literature review is not actually to review all of the relevant literature paragraph by paragraph. The point is to make the case for why your study is important and the literature summaries and refrences are there to justify **your** work.
 
-#### Exploratory Data Analysis (4-6 short paragraphs)
+#### Exploratory Data Analysis
 
 * Provide a brief overview of the study: an outline that tells the reader how all of the following methods and analysis will be connected.
 * Start by describing all the different data you will be using and answer some of the following questions
