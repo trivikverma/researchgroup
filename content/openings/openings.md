@@ -20,28 +20,18 @@ date_format = "Jan 2006"
 -----
 <br />
 
-# Teaching Positions
+## Prospective Postdoctoral Positions
 
-[1] Teaching Assistantship for EPA 1316 (formerly 1315) **[CLOSED]**
-
-<br />
-
-# Available Master's Projects
-
-[1] Evaluation of fairness in addressing citizen complaints using the Dutch complaints database
-
-[2] Preference elicitation of public and private sector organisations in addressing climate change
-
-[3] Flight Slot Allocation System
+- {{% staticref "jobs/Postdoc_CUSP_2020.pdf" %}}A postdoc position at the intersection of urban science, complex networks and machine learning{{% /staticref %}} **[closed]**
 
 <br />
 
-# Prospective PhD Positions
+## Prospective PhD Positions
 
 Currently there are no openings for PhD positions.
 
 <br />
 
-# Prospective Postdoctoral Positions
+## Teaching Positions
 
-[1] {{% staticref "jobs/Postdoc_CUSP_2020.pdf" %}}A postdoc position at the intersection of urban science, complex networks and machine learning{{% /staticref %}}
+- Teaching Assistantship for EPA 1316 (formerly 1315) **[closed]**

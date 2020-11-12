@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear.
 
-title = "Onbaording at the CUSP Lab"
+title = "Onboarding at the CUSP Lab"
 subtitle = ""
 
 # Date format for experience

@@ -67,26 +67,15 @@
   url = "onboarding/"
   weight = 80
 
+[[main]]
+  name = "MSc Projects"
+  post = ""
+  url = "mscprojects/"
+#  url = "courses/epa1316-2020/"
+  weight = 90
 
-
-# Right menu
-
-[[main_right]]
+[[main]]
   name = "<i class=\"fab fa-twitter\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
   post = ""
   url = "https://twitter.com/TrivikV"
-  weight = 20
-
-[[main_right]]
-  name = "<span class=\"btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0 ml-md-3\">EPA 1316</span>"
-  post = ""
-  url = "courses/epa1316-2020/"
-  weight = 30
-
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+  weight = 100

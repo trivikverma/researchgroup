@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [Tanja Emonts]
 tags: ["policy", "data-science"]
-categories: ["news"]
+categories: ["blog"]
 date: 2020-02-11T08:44:07+01:00
 lastmod: 2020-02-11T08:44:07+01:00
 featured: true

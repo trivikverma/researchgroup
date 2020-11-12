@@ -1,69 +1,49 @@
 +++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+# About widget.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 15  # Order that this section will appear in.
 
 title = "News"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
-
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 0
-
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = "news"
-    publication_type = ""
-    exclude_featured = false
-
 [design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 3
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
+[background]
   # Background color.
-  # color = "navy"
+  #color = ""
 
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image = "header.png"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  #image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  # text_color_light = true
+  text_color_light = true
 
-[advanced]
- # Custom CSS.
- css_style = ""
-
- # CSS class.
- css_class = ""
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "25px", "10px", "25px"]
 +++
 
-{{< figure library="1" src="featured_news.jpg" title="" >}}
+* [2021-01-10] Trivik is invited to speak at the 179th Dies event of the university @ TU Delft on the topic of "Resilient Environment".
+* [2020-11-09] Trivik gave a keynote presentation at the [Brave New World](https://www.bravenewworld.nl/) Conference held in Leiden on the topic of "Self-Fulfilling Prophecy of Smart Cities".
+* [2020-09-01] Amir Ebrahimi Fard is now working with the [4TU Research Data](https://data.4tu.nl/info/en/) organisation at TU Delft as a Data Consultant.
+* [2020-08-30] Trivik is serving on a project evaluation committee of Innoviris SDG in Brussels, Belgium.
+* [2020-07-15] Trivik was recognised with an _Outstanding PC Member_ award at ACM Hypertext 2020.
+* [2020-05-01] Oana Garbasevschi started a PhD at DLR where she is studying large scale estimation of building age for efficient energy modelling.
+* [2020-05-01] Mikhail Sirenko got a postdoc position at the TPM Resilience Lab, working on the EU project called [HERoS](https://www.heros-project.eu/).
+* [2019-12-04] Paper titled "Impact of perceived distances on international tourism" was published in [PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225315).
+* [2019-11-21] Trivik is invited to speak at the Spark event of CiTG faculty at TU Delft on the topic of "Urbanisation and Policy in Cities".
+* [2019-08-22] Trivik is giving a talk at [The Alan Turing Institute](https://www.turing.ac.uk/) in the UK on the topic of "Urban Sprawl and Public Transport Utilisation."
+* [2019-05-28] Trivik is attending the [Technology, Management, and Policy Consortium](https://tmp2019.seas.gwu.edu/) @ The George Washington University in Washington, DC between 16-18 June, 2019 representing the faculty of TPM, TU Delft. He will be chairing one of the sessions. If you would like to know more about our research related to cities and policy, find him there.
+* [2019-04-01] Trivik joined the Multi-Actor Systems department at TU Delft as an Assitant Professor.
