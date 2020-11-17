@@ -4,7 +4,7 @@ title: Amir E. Fard
 
 # Username (this should match the folder name)
 authors:
-- amiref
+- amirebrahimifard
 
 # Is this the primary user of the site?
 superuser: false
