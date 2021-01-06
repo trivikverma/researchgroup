@@ -1,19 +1,16 @@
-+++
-title = "A guide to writing scientific text"
-summary =  "The hourglass approach"
+---
+title: "A guide to writing scientific text"
+summary:  "The hourglass approach"
 # Add a page description.
-date = "2019-01-01T00:00:00Z"  # Add today's date.
+date: "2019-01-01T00:00:00Z"  # Add today's date.
 #type = "widget_page"  # Page type is a Widget Page
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-#image = "resources/scientific-writing.jpg"
-#image = "resources/test.png"
-#caption = "Scientific Writing"
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
-+++
-
-## Writing
+---
 
 Scientific writing is a lifelong pursuit. Even though our varied reading habits predispose us to various styles of writing, it usually takes years to hone the skills needed for excerpts to make _sense_. As we are drawn to the wonders of natural and social sciences through our senses, writing is a means to invoke the same feelings in others. Can we bring them the same euphoric sense of discovery experienced by us while researching? Besides, useful pieces of writing have the tendency to outlive us, thus keeping our ideas alive.
 
