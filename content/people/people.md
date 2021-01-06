@@ -18,6 +18,7 @@ subtitle = ""
                  #"Postdoctoral Researchers",
                  "PhD Students",
                  "Research Assistants",
+                 "Master Students",
                  #"Administration",
                  #"Visitors",
                  "Professors",

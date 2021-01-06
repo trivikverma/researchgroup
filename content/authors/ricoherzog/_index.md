@@ -4,7 +4,7 @@ title: Rico Herzog
 
 # Username (this should match the folder name)
 authors:
-- ricohenriherzog
+- ricoherzog
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,14 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master student with an interest in the combination of spatial planning and digitalization. 
+bio: Master student with an interest in the combination of spatial planning and digitalization.
 
 interests:
 - Spatial and urban planning
 - Simulation models
 - Decision making under deep uncertainty
 - Digital transformation in all its impacts
-- Agent-based modelling 
+- Agent-based modelling
 - Data Science and Visualisation
 
 education:
@@ -72,9 +72,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Master Students
 ---
 
-With a background in both environmental and industrial engineering, I focus my research on the digitalization of spatial and urban planning. The kind of change the digital revolution brought and continues to bring to everyone's life is unprecedented. It opens up completely new ways to display, perceive and plan urban environments; the exact environment more than 70% of the earth's population will live in by 2050. 
+With a background in both environmental and industrial engineering, I focus my research on the digitalization of spatial and urban planning. The kind of change the digital revolution brought and continues to bring to everyone's life is unprecedented. It opens up completely new ways to display, perceive and plan urban environments; the exact environment more than 70% of the earth's population will live in by 2050.
 My focus in the CUSP is to research into new means to combine quantitative and qualitative methods to understand and improve citizen participation methods in urban and spatial planning. To put in in the words on Jane Jacobs, "Cities have the capability of providing something for everybody, only because, and only when, they are
-created by everybody". 
+created by everybody".
