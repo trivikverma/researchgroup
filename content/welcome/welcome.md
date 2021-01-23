@@ -32,7 +32,7 @@ Our mission is to do rigorous science for social good. Most of our funding comes
 
 -----
 
-{{< figure src="lab.png" title="Members of the lab finding a moment to laugh in 2020 (many missing from this image)." >}}
+{{< figure src="lab2.png" title="Members of the lab finding a moment to laugh in 2020 (many missing from this image)." >}}
 
 <br />
 
