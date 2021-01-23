@@ -130,28 +130,27 @@ We can host a useful and practical meeting by,
 * celebrating individual and team achievements
 * disseminating essential and timely information
 
-Weekly lab meetings are a chance to discuss our research as a team. You are expected to introduce a problem, on abservation or a result of your analyses to the group in **5 minutes**. An excellent way to utilise this time for feedback and discussions is to start with a clear and high-level but brief description of your problem/analyses and a question posed to the group. All lab members come from diverse backgrounds with individual experiences that may offer a solution to your problem.
+Weekly lab meetings are a chance to discuss our research as a team. We will all be on a schedule of 2 members presenting every week. When it is your chance, you are expected to introduce a problem, on abservation or a result of your analyses to the group in **10 minutes**, followed by a **15 minute** discussion. An excellent way to utilise this time for feedback and discussions is to start with a clear and high-level but brief description of your problem/analyses and a question posed to the group. All lab members come from diverse backgrounds with individual experiences that may offer a solution to your problem.
 
-These discussions could be anything among,
+These presentations could be anything among,
 - Data collection
 - Problematic data, confusing results
 - Analysing, visualising or interpreting results
 - Analyses that didn’t work
-– Analyses that worked
+- Analyses that worked
 - Building models
 - Coding or model structures
-- An idea for a project
+- An idea for a new project
 - An abstract for a conference submission
-- A paper you read
+- A paper you read related to your work
 - A paper outline you have to write
-- A literature review
-- A tutorial on a technique you mastered
-- Something you learned in class
+- A literature review related to your project
+- A tutorial on a technique you mastered for your project
 - Talking to decision-makers and stakeholders of your project
 - Disseminating your findings
 - Designing a tool for decision-makers
 
-You are as important as any other member of this lab, so your participation is necessary for the growth of the collective work we do. Please make sure that when you speak to the lab members, you are addressing **everyone**, and they understand the big picture of what you are describing. Only then will they be able to help you in those **5 minutes**. Likewise, when something is not clear, ask others who are describing their problem. Understandably, we all have different educational backgrounds, so it is **okay** to ask a follow-up question for clarifications.
+You are as important as any other member of this lab, so your participation is necessary for the growth of the collective work we do. Please make sure that when you speak to the lab members, you are addressing **everyone**, and they understand the big picture of what you are describing. Only then will they be able to help you in those **15 minutes**. Likewise, when something is not clear, ask others who are describing their problem. Understandably, we all have different educational backgrounds, so it is **okay** to ask a follow-up question for clarifications.
 
 To participate and benefit from these lab meetings, you may be asked at some point in time to,
 * organise and/or manage a lab presentation schedule,
