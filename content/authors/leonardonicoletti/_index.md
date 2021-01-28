@@ -46,9 +46,12 @@ social:
 - icon: paper-plane
   icon_pack: fas
   link: 'mailto:l.a.nicoletti@student.tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Leonardonclt
 - icon: linkedin-in
   icon_pack: fab
-  link: www.linkedin.com/in/leonardonicoletti
+  link: http://www.linkedin.com/in/lenicoletti
 - icon: github
   icon_pack: fab
   link: https://github.com/lnicoletti
@@ -69,6 +72,6 @@ user_groups:
 
 I have a keen interest in understanding cities and the societal mechanisms that shape them over time. With experience in regional planning, I have worked in urban analytics within the context of the greater Vancouver region, which is facing the conflicting pressures of sea level rise, urban densification, widespread homelessness, and a real estate crisis. In this context, I have mapped and quantified region-wide environmental indicators, modelled future land use trends, and forecasted future loss in forest biomass as a result of urban development. This work was instrumental in informing higher level decision making in the context of regional growth policies.
 
-As a master student in Engineering and Policy Analysis at TU Delft, I am now applying data science and modelling techniques to inform public policy with regards to societal challenges. I hope to specialize in data science within the context of urban systems and urban policy. As data driven solutions to urban challenges are transforming traditional systems of urban governance, I am excited to utilize such technologies to help design policies for resilient and livable cities.
+As a master student in Engineering and Policy Analysis at TU Delft, I am now applying data science and modelling techniques to inform public policy with regards to societal challenges (see my website for more [data stories](https://www.leonardonicoletti.com/)). I hope to specialize in data science within the context of urban systems and urban policy. As data driven solutions to urban challenges are transforming traditional systems of urban governance, I am excited to utilize such technologies to help design policies for resilient and livable cities.
 
 Aside from my academic path, I have a passion for street and documentary photography. Most recently, I have worked as a documentary photographer on the topic of homelessness and drug addiction in Vancouver, BC. The objective of this work was to build a story of homelessness in the Greater Vancouver Region through a collaborative community-based research approach using photography and written documentary, as a way of capturing the images and stories of those who are living at the heart of the current opioid epidemic.
