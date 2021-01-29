@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 
 <br />
 
-#### 1. Analysing the socio-demographic and environmental impacts of on-demand transit across multiple cities.
+#### 1. Analysing the socio-demographic and environmental impacts of on-demand transit across multiple cities (with Spare Labs in Canada).
 
 >Achieving inclusion and fairness in policy interventions within cities has become a central objective for urban planners around the world. Modern cities have challenged planners to provide access to basic urban services to communities from all socio-economic groups. However, many urban communities are distinctly segregated in their access to amenities. Microtransit services are slowly filling this void for serving communities that do not generally have good access in cities.
 >
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 <br />
 
-#### 2. Sensing urban demographics using alternate sources of satellite imagery, street view or social media data.
+#### 2. Sensing urban demographics using alternate sources of satellite imagery, street view or social media data (potentially with Deltares).
 
 >Geocoded socio-economic data is fundamental for urban planning. From research on human migration to equity-driven studies, spatial socio-economic data helps in understanding complex social patterns in cities. Most of the time, comprehensive socio-economic data at small spatial scales is provided by census programs such as the American Community Survey, the Canadian Census, or The Hague Cijfers. Census data, however, has strong limitations, three main ones being that (1) it is recorded every 5 or 10 years, (2) the process of gathering, processing, and making the data available is costly, labour-intensive and affects the digital privacy of citizens, and (3) census data detailed enough to be useful for planners/researchers is only available for a select group of western countries (e.g. the United States, Canada, Australia, New Zealand). This makes it difficult for planners in many cities in the world to develop policies that appropriately reflect the needs and realities of the communities they serve. Not surprisingly, this has a disproportionate impact on communities that are already underrepresented, to begin with (i.e. indigenous communities, racial minorities, refugees, etc).
 >
@@ -47,6 +47,8 @@ date_format = "Jan 2006"
 <br />
 
 #### 4. Investigating the socio-technical interplay between human mobility behaviour and digital infrastructure (like Google Maps).
+
+{{< hl >}}Not available{{< /hl >}}
 
 >A large part of human mobility behaviour is mediated by physical mobility infrastructure that is represented in digital infrastructure (DI). However, DI is not a neutral representation of the physical world, rather it comes with its own set of assumptions and biases about human behaviour. Digital representations of infrastructure such as Google Maps tend to provide highly biased perspectives of the geographic world to users. Our research suggests that using Google Maps in an urban environment will result in users misinterpreting the information given by Google Maps (e.g., an urban drive often involves end-to-end parking time as well not included in Google Maps suggestions), leading them to make decisions that they would not otherwise make. This typically leads users of Google Maps to prefer driving over public transport more than individuals that have not used Google Maps. Similar biased perspectives have also been observed in other multi-modal mapping and routing software. We believe that these biased perspectives could have a considerable effect on the modes of transportation users choose, which in turn is likely to increase the carbon emissions of those users. Such assumptions and biases can have unexpected consequences to mobility behaviour, both for users of digital infrastructure and for those who design physical infrastructure and manage mobility.
 >

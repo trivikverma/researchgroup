@@ -22,6 +22,26 @@ date_format = "Jan 2006"
 
 <br />
 
+#### [25] Understanding Slot use behavior at Schiphol for coordination of airline services.
+#### Tess Kim
+EPA @ TPM, TU Delft [Nov 2020 -  July 2021]
+
+#### [24] The Stockholm Metro System Adaptation
+#### Lukas Kolkowski
+TIL @ CiTG, TU Delft [Nov 2020 -  July 2021]
+
+#### [23] Investigating the socio-technical interplay between human mobility behaviour and digital infrastructure (like Google Maps).
+#### Hugo Duivenvoorden
+CoSEM @ TPM, TU Delft [Nov 2020 -  July 2021]
+
+#### [22] Cities for citizens: assessing and comparing effectiveness of citizen particpation methods in urban planning.
+#### Rico Herzog
+EPA @ TPM, TU Delft [Nov 2020 -  July 2021]
+
+#### [21] Evaluating the role of diverse moral principles in building an accessible and inclusive city.
+#### Lotte Lourens
+EPA @ TPM, TU Delft [Nov 2020 -  July 2021]
+
 #### [20] Understanding mobility patterns during and after natural disasters in urban areas
 #### Esmée Tijhuis
 EPA @ TPM, TU Delft [Nov 2020 -  July 2021]
