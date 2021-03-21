@@ -34,4 +34,4 @@ Currently there are no openings for PhD positions.
 
 ## Teaching Positions
 
-- Teaching Assistantship for EPA 1316 (formerly 1315) **[closed]**
+- {{% staticref "jobs/TAs_EPA1316_2021.pdf" %}}Teaching Assistantship for EPA 1316{{% /staticref %}}
