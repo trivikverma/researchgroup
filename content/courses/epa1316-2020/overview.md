@@ -51,9 +51,9 @@ After completion of this course, you will be able to:
 
 … and hopefully get great data-driven policy jobs in the future where you can address issues of equity, or go on adventurous travels with an open mind.
 
-{{% alert note %}}
+{{% callout note %}}
 It may be useful to keep the following description of an Urban System in mind for this course.
-{{% /alert %}}
+{{% /callout %}}
 
 ## Urban Systems
 Taking inspiration from Meerow et al. (2016), we describe an urban system as a complex, adaptive and emerging environment that, for simplicity, is organised in 4 different layers of function. The layer of infrastructure form consists of public assets like buildings, service infrastructure and natural capital. Networks of energy, material, and information flows enable the movement of resources that address our collective needs. The layer of socioeconomic dynamics expresses how demographics are interspersed with socially constructed values such as sustainability and equity. The layer of governance includes organisations, institutions and businesses that shape urban systems through new development, policies or innovation.

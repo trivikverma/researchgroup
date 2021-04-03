@@ -34,9 +34,9 @@ Note: The slides will be updated latest a night before the lecture.
 <br/>
 <br/>
 
-{{% alert note %}}
+{{% callout note %}}
 Before starting this course, watch [this video](https://www.youtube.com/watch?v=8jqEj8XUPlk&t=80s) by Khalid Kadir about a reflection on poverty (an example of a social problem), expertise and equity. This representation is an example of how experts create boxes around their craft. As a data scientist or a future AI expert, it is our responsibility to step out of those boxes and engage with communities to strive for just outcomes.
-{{% /alert %}}
+{{% /callout %}}
 
 {{< youtube 8jqEj8XUPlk >}}
 
