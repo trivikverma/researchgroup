@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear.
 
-title = "Welcome to the lab!"
-subtitle = ""
+title = "Welcome to the Centre!"
+subtitle = "If you are interested in working with us, please review our social philosophy/contract"
 
 # Date format for experience
 #   Refer to https://sourcethemes.cm/academic/docs/customization/#date-format
@@ -32,7 +32,7 @@ Our mission is to do rigorous science for the social good. Most of our funding c
 
 -----
 
-{{< figure src="lab2.png" title="Members of the lab finding a moment to laugh in 2020 (many missing from this image)." >}}
+{{< figure src="lab2.png" title="Members of the centre finding a moment to laugh in 2020 (many missing from this image)." >}}
 
 <br />
 
@@ -52,7 +52,7 @@ As an equal member of this lab, we are all responsible for certain things.
 * Be honest about your work, and never plagiarize, tamper with data, make data up, omit data, or fudge results in any way. Science is about finding out the truth, and null results and unexpected results are still important. That truth may or may not be yours, or may not be what you expected to find at the start. Accept it, be sure of your results, and move on.
 * Academia motivates competition. Let's not fall into that trap. Science is collaborative and if we want to do great things, let's include our colleagues. Support your peers. Help them out if they need help (even if you aren’t on the project).
 * Respect your colleagues in everything. Respect their strengths and weaknesses, respect their choices and their decisions. Respect their culture, their religion, their beliefs, their gender, their sexual orientation.
-* If you’re struggling, tell someone at the lab (you are welcome to talk to Trivik!). Our priority is your health and well-being. A PhD can indeed be the toughest years of one's academic career. If you feel that way about your work or life, or any other way that is not positive, we are all here to support you. Talk to someone!
+* If you’re struggling, tell someone at the group (you are welcome to talk to Trivik!). Our priority is your health and well-being. A PhD can indeed be the toughest years of one's academic career. If you feel that way about your work or life, or any other way that is not positive, we are all here to support you. Talk to someone!
 * If you are facing tension or hostility in the lab, tell Trivik about it. It is not okay to work in an environment where you don't feel comfortable.
 * If you have a problem with Trivik, you can talk to him directly about it. If you aren’t comfortable, then consider talking to people outside the lab. You could reach out to Dr Martijn Warnier and Dr Seda Gürses, both based in the dept. of Multi Actor Systems at TPM.
 * Stay up to date on the latest research by following the relevant scientists, policymakers and journals on Twitter, RSS feeds, Google Scholar, or getting a journal table of contents to your email. We also share articles on some channels on Slack.
@@ -62,7 +62,7 @@ As an equal member of this lab, we are all responsible for certain things.
 
 * It is okay that sometimes you have to miss a meeting. Inform others in time, so they can plan accordingly.
 * We don't expect you to work on weekends or over holidays. Academia is a complex and chaotic environment, and sometimes you will find yourself working late into the night or unexpectedly through a holiday. Don't do it! You are expected to get work done, but you are also expected to take care of yourself.
-* We have a small lab so you can find a physical space to collaborate, create and build a community. If you want to experiment with your physical location of work, you are free to do so.
+* We have a small group so you can find a physical space to collaborate, create and build a community. If you want to experiment with your physical location of work, you are free to do so.
 * Arrive on time for meetings. It is disrespectful and disturbing to others who are waiting or have to accommodate us when we are late.
 * Plan for vacations ahead of time and let your collaborators know when you will not be available.
 
@@ -107,7 +107,7 @@ I will…
 
 For every project we work on, we also strive to have openness in our communication. Wherever possible, we share our code and data and aim for open access publishing. However, when we work with datasets that belong to other collaborators or are collected from people, we want to first adhere to the strictest of data sharing policies and stay under GDPR guidelines. We are in the process of transferring course materials to this website that helps us in developing good practices for open and reproducible science.
 
-We use various forms of communications channels: Microsoft Teams for individual meetings and group meetings (can be accessed through TU Delft), and Email and Slack for written communication. Before the pandemic, we used to often walk into each other's offices, or the regular lab room to discuss new ideas or problems, ask for coffee or lunch, or schedule meetings into the future. However, since we all started working from home and found new ways to adapt to this situation, we have been relying on these tools a lot more to stay in contact.
+We use various forms of communications channels: Microsoft Teams for individual meetings and group meetings (can be accessed through TU Delft), and Email and Slack for written communication. Before the pandemic, we used to often walk into each other's offices, or the regular research room to discuss new ideas or problems, ask for coffee or lunch, or schedule meetings into the future. However, since we all started working from home and found new ways to adapt to this situation, we have been relying on these tools a lot more to stay in contact.
 
 -----
 
@@ -116,9 +116,9 @@ We use various forms of communications channels: Microsoft Teams for individual 
 ## Meetings
 -----
 
-#### Lab Meetings (weekly online on Teams)
+#### Group Meetings (weekly online on Teams)
 
-Lab meetings are the soul of this lab. The objective of these meetings is to grow and learn from each other by leveraging the diverse skills and experience of lab members. This will ultimately lead to the successful completion of our projects and advancements in Computational Urban Science & Policy.
+Lab meetings are the soul of this lab. The objective of these meetings is to grow and learn from each other by leveraging the diverse skills and experience of group members. This will ultimately lead to the successful completion of our projects and advancements in Computational Urban Science & Policy.
 
 We can host a useful and practical meeting by,
 * establishing a participatory and democratic research culture
@@ -130,7 +130,7 @@ We can host a useful and practical meeting by,
 * celebrating individual and team achievements
 * disseminating essential and timely information
 
-Weekly lab meetings are a chance to discuss our research as a team. We will all be on a schedule of 2 members presenting every week. When it is your chance, you are expected to introduce a problem, on observation or a result of your analyses to the group in **10 minutes**, followed by a **15 minute** discussion. An excellent way to utilise this time for feedback and discussions is to start with a clear and high-level but brief description of your problem/analyses and a question posed to the group. All lab members come from diverse backgrounds with individual experiences that may offer a solution to your problem.
+Weekly group meetings are a chance to discuss our research as a team. We will all be on a schedule of 2 members presenting every week. When it is your chance, you are expected to introduce a problem, on observation or a result of your analyses to the group in **10 minutes**, followed by a **15 minute** discussion. An excellent way to utilise this time for feedback and discussions is to start with a clear and high-level but brief description of your problem/analyses and a question posed to the group. Group members come from diverse backgrounds with individual experiences that may offer a solution to your problem.
 
 These presentations could be anything among,
 - Data collection
@@ -150,10 +150,10 @@ These presentations could be anything among,
 - Disseminating your findings
 - Designing a tool for decision-makers
 
-You are as important as any other member of this lab, so your participation is necessary for the growth of the collective work we do. Please make sure that when you speak to the lab members, you are addressing **everyone**, and they understand the big picture of what you are describing. Only then will they be able to help you in those **15 minutes**. Likewise, when something is not clear, ask others who are describing their problem. Understandably, we all have different educational backgrounds, so it is **okay** to ask a follow-up question for clarifications.
+You are as important as any other member of this lab, so your participation is necessary for the growth of the collective work we do. Please make sure that when you speak to the group members, you are addressing **everyone**, and they understand the big picture of what you are describing. Only then will they be able to help you in those **15 minutes**. Likewise, when something is not clear, ask others who are describing their problem. Understandably, we all have different educational backgrounds, so it is **okay** to ask a follow-up question for clarifications.
 
-To participate and benefit from these lab meetings, you may be asked at some point in time to,
-* organise and/or manage a lab presentation schedule,
+To participate and benefit from these meetings, you may be asked at some point in time to,
+* organise and/or manage a presentation schedule,
 * arrange an engaging speaker you want to hear from,
 * approach an organisation for collaboration
 * take responsibility for some activity in the lab
@@ -170,7 +170,7 @@ Use email if you want to communicate with me about anything official, long or wi
 
 #### Slack
 
-We use Slack for daily and impromptu discussions. Conversations are _not_ archived here. Let me know with a short email what email address you prefer to use for Slack and join the lab group [here](https://cusp-tudelft.slack.com).
+We use Slack for daily and impromptu discussions. Conversations are _not_ archived here. Let me know with a short email what email address you prefer to use for Slack and join the research group [here](https://cusp-tudelft.slack.com).
 
 -----
 

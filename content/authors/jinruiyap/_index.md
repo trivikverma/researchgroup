@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Alumni
 ---
 
 I am a Masters student in Engineering and Policy Analysis in the Technology, Policy and Management Faculty at TU Delft. I am experienced in building enclosure consulting, and have assisted building owners, architects and contractors design and construct robust building enclosures. Additional experience includes building two- and three-dimensional software models to evaluate the thermal performance of building components to better inform enclosure designs.

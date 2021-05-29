@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Master Students
 ---
 
 I have a keen interest in understanding cities and the societal mechanisms that shape them over time. With experience in regional planning, I have worked in urban analytics within the context of the greater Vancouver region, which is facing the conflicting pressures of sea level rise, urban densification, widespread homelessness, and a real estate crisis. In this context, I have mapped and quantified region-wide environmental indicators, modelled future land use trends, and forecasted future loss in forest biomass as a result of urban development. This work was instrumental in informing higher level decision making in the context of regional growth policies.

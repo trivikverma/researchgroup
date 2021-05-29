@@ -18,7 +18,7 @@ day_night = false
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "lato"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search providers. If undefined, superuser role is used in place.
-description = ""
+description = "CUSP is a transdisciplinary research group working to advance urban research, planning and policy in a way that strives for just and equitable outcomes for communities. We use a mix of computational spatial science and qualitiative citizen participation methods to investigate how social, economic, environmental and political processes shape cities. Our goal is to develop a body of computational approaches and curate evidence that facilitates a systems-based approach for urban planning."
 
 ############################
 ## Site Features
@@ -117,7 +117,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "header.jpeg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "TrivikV"

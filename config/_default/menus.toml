@@ -9,38 +9,43 @@
   weight = 10
 
 [[main]]
-  name = "People"
-  url = "people/"
+  name = "Research"
+  url = "research/"
   weight = 20
 
 [[main]]
-  name = "Research"
-  identifier = "research"
+  name = "Teaching"
+  url = "teaching/"
   weight = 30
 
 [[main]]
-  name = "Masters"
-  parent = "research"
-  url = "masters/"
-  weight = 32
+  name = "People"
+  url = "people/"
+  weight = 40
 
-[[main]]
-  name = "CV"
-  parent = "research"
-  url = "cv/CV_trivikverma.pdf"
-  weight = 34
+#[[main]]
+#  name = "Masters"
+#  parent = "research"
+#  url = "masters/"
+#  weight = 32
 
-[[main]]
-  name = "Publications"
-  parent = "research"
-  url = "publications/"
-  weight = 31
+#[[main]]
+#  name = "CV"
+#  parent = "research"
+#  url = "cv/CV_trivikverma.pdf"
+#  weight = 34
 
-[[main]]
-  name = "Writing"
-  parent = "research"
-  url = "writing/"
-  weight = 33
+#[[main]]
+#  name = "Publications"
+#  parent = "research"
+#  url = "publications/"
+#  weight = 31
+
+#[[main]]
+#  name = "Writing"
+#  parent = "research"
+#  url = "writing/"
+#  weight = 33
 
 #[[main]]
 #  name = "Courses"
@@ -52,30 +57,29 @@
   url = "news/"
   weight = 50
 
+#[[main]]
+#  name = "Blog"
+#  url = "blog/"
+#  weight = 60
+
 [[main]]
-  name = "Blog"
-  url = "blog/"
+  name = "Opportunities"
+  url = "opportunities/"
   weight = 60
 
 [[main]]
-  name = "Openings"
-  url = "openings/"
+  name = "Philosophy"
+  url = "welcome/"
   weight = 70
 
 [[main]]
-  name = "Welcome"
-  url = "welcome/"
+  name = "Publications"
+  url = "publications/"
   weight = 80
 
-[[main]]
-  name = "MSc Projects"
-  post = ""
-  url = "mscprojects/"
+#[[main]]
+#  name = "MSc Projects"
+#  post = ""
+#  url = "mscprojects/"
 #  url = "courses/epa1316-2020/"
-  weight = 90
-
-[[main]]
-  name = "Courses"
-  post = ""
-  url = "courses/"
-  weight = 100
+#  weight = 90

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Researcher of Computational Social Science and Policy Analysis
+role: (Graduated) PhD Researcher of Computational Social Science and Policy Analysis
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 
 I am a PhD researcher at the Policy Analysis section of TU Delft’s Faculty of Technology, Policy and Management. I am broadly interested in modelling social phenomena using computational/analytical approaches. In my PhD project, I am working on strategies to curb notoriously framed concept of rumour in online social network. More specifically, my research aims to bring more understanding of how the complicated and long-standing phenomenon of rumour can be managed in an effective and timely manner. To this end, multiple approaches like computational, educational, and governance have been taken into account.

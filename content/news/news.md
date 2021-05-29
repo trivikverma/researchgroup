@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear in.
 
-title = "News"
+title = "Latest News"
 subtitle = ""
 
 [design]
@@ -35,6 +35,14 @@ subtitle = ""
   padding = ["50px", "25px", "10px", "25px"]
 +++
 
+-----
+<br />
+
+* [01-08-2021] Ruth Nelson joins us as a PhD candidate working on Urbanisation, Inequalities and Integrated Policy.
+* [29-06-2021] Trivik will be giving a talk at the [OneHot Data Science Community](https://onehot.nl/events/2021-06-29-the-birds-eye-view/).
+* [09-06-2021] Trivik will be giving a talk at the [The 17th International Conference on CUPUM - Computational Urban Planning and Urban ManagementCUPUM 2021](https://www.cupum2021.org/).
+* [11-05-2021] Trivik is giving a talk at the TU Delft GLobal Seminar Series on the topic of "Toward Equitable & Inclusive Cities".
+* [09-01-2021] Amir Ebrahimi Fard defended his PhD thesis and successfully graduated at TU Delft.
 * [13-01-2021] Trivik is invited to speak at the 179th Dies event of the university @ TU Delft on the topic of "Resilient Environment".
 * [01-01-2021] Juliana Gonçalves joined us a post-doc to work on Urban Inequalities and Spatial Justice.
 * [08-12-2020] We were awarded a 5,000 EUR seed funding grant from the [TU Delft Safety and Security Institute](https://www.tudelft.nl/tu-delft-safety-security-institute/) to support the ground work in building Conversational Agents for Mental Health & Wellbeing. The team consists of assistant professors [Dr. Ujwal Gadiraju](http://ujwalgadiraju.com/) from the EEMCS faculty and Dr. Derek Lomas from the IDE faculty. More on this coming up soon!
