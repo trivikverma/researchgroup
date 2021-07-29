@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Research Interns
 ---
 
 I am an undergraduate student at Columbia University pursuing a Bachelor of Science in Applied Mathematics and a Bachelor of Arts in Urban Studies. With that, I have gained computational skills to develop models and simulations of urban phenomena. Currently I am researching street networks to study what are the building blocks of a city and how we can further understand urban issues through this underlying network structure.

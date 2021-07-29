@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- PhD Candidates
 ---
 
 I am a trained architect and city planner transformed into a data scientist and visulation expert. More formally, I am a PhD Candidate at [the School of Public Policy and Urban Affairs](https://cssh.northeastern.edu/policyschool/) at [Northeasrern University](https://www.northeastern.edu/) and visiting the CUSP lab for my final year. Before starting graduate school at MIT, I served as a city planner and a planning information manager at the Tel Aviv-Yafo City Planning Department in Israel.

@@ -32,16 +32,16 @@ We are not recruiting any postdoc candidates right now. However, we are always o
 
 ## Prospective PhD Positions
 
-Currently there are no openings for PhD positions. However, if you are interested, please email us your CV and a description of your interests and fit with our centre. We don't always have funding but we always reply and maintain an archive of candidates who fit in and can potentially expand our vision.
+Currently there are no openings for PhD positions. However, if you are interested, please email us your CV and a description of your interests and fit with our centre. We don't always have funding but we always respond and maintain an archive of candidates who fit in and can potentially expand our vision.
 
 <br />
 
 ## Prospective Master's Projects
 
-If you are a student at the Engineering and Policy Analysis Master's Program, and are interested in conducting your Master's thesis or other projects at the centre, write to us with your CV and a description of your research interests. Mention how your interest intersect with the work of the centre.
+We host master students for their thesis or extra coursework in the form of a project worth 10 credits. If you are interested in working with us at the centre, write to us with your CV and a description of your research interests. Please mention how your interests intersect with the work of the centre.
 
 <br />
 
 ## Teaching Positions
 
-Teaching Assistantships for EPA 1316 run on a rolling basis every year. We are not taking any more applications for 2021.
+Teaching Assistantships for EPA 1316 run on a rolling basis every year. We are not taking any more applications for this year.

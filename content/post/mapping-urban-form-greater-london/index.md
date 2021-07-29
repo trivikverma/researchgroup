@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mapping Urban Form: A Distribution of Points of Interest in Greater London"
+title: "Mapping urban form: A distribution of Points of Interest in Greater London"
 subtitle: ""
 summary: ""
 authors: ["jinruiyap"]

@@ -83,3 +83,11 @@
 #  url = "mscprojects/"
 #  url = "courses/epa1316-2020/"
 #  weight = 90
+
+# Right menu
+
+[[main_right]]
+  name = "<span class=\"btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0 ml-md-3\">Citizens Collective</span>"
+  post = ""
+  url = "https://www.citizens-collective.org/"
+  weight = 30

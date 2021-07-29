@@ -1,17 +1,27 @@
 ---
-widget: blank
+widget: hero
+headless: true
 weight: 10
-title: Centre for Urban Science & Policy
-subtitle: We are a transdisciplinary research group developing methods to understand and address challenges associated with urbanisation and inequalities. We strive for embedding equity and justice in our work and culture.
-design:
-  columns: '1'
-  background:
-    # Apply a background color, gradient, or image.
-    #   Uncomment (by removing `#`) an option to apply it.
-    #   Choose a light or dark text color by setting `text_color_light`.
-    #   Any HTML color name or Hex value is valid.
 
+hero_media: 'SeanPerezMandela-1.png'
+
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
+#   Remove a link/note by deleting a cta/note block.
+cta:
+  url: '/publications'
+  label: Our publications
+#  icon_pack: fas
+#  icon: download
+#cta_alt:
+#  url: 'https://wowchemy.com'
+#  label: View Documentation
+
+# Note. An optional note to show underneath the links.
+cta_note:
+  label: 'Image adapted from the work of Sean Perez'
 
 ---
 
-{{% cta cta_link="/publications" cta_text="Explore our work" %}}
+We are a transdisciplinary research group developing methods to understand and address challenges associated with urbanisation and inequalities. We strive for embedding equity and justice in our work and culture.

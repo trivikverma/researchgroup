@@ -4,8 +4,8 @@ widget: "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 active: true  # Activate this widget? true/false
 weight: 10  # Order that this section will appear.
 
-title: "Teaching & Mentorship"
-subtitle: "We are committed to creating a safe, collaborative, and inclusive environment for our community."
+title: ""
+subtitle: ""
 
 design:
   columns: '1'
@@ -17,11 +17,11 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: joinus.jpeg  # Name of image in `static/media/`.
+    image: student.jpeg  # Name of image in `static/media/`.
     image_darken: 1.0
     image_size: cover
-    image_position: bottom
-
+    text_color_light: true
 ---
 
-{{% cta cta_link="/welcome" cta_text="Learn More" %}}
+# Teaching & Mentorship
+We are committed to creating a safe, collaborative, and inclusive environment for our community.

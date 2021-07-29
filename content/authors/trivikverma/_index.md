@@ -75,7 +75,7 @@ user_groups:
 - Director
 ---
 
-I am an Assistant Professor at the faculty of [Technology, Policy and Management](https://www.tudelft.nl/en/tpm/) in [Delft University of Technology](https://www.tudelft.nl/en/). I lead the **C**entre for **U**rban **S**cience & **P**olicy at the department of [Multi-Actor Systems](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/). I am in the advisory team of the [TPM AI Lab](https://www.tudelft.nl/tpm/tpm-ai-lab/) and also an active member of the [Dutch Network Science community](http://www.netsci.nl/) and the [4TU Centre for Resilience Engineering](https://www.4tu.nl/resilience/en/).
+I am an Assistant Professor at the faculty of [Technology, Policy and Management](https://www.tudelft.nl/en/tpm/) in [Delft University of Technology](https://www.tudelft.nl/en/). I lead the **C**entre for **U**rban **S**cience & **P**olicy at the department of [Multi-Actor Systems](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/). I am the director of the [TPM AI Lab](https://www.tudelft.nl/tpm/tpm-ai-lab/) and also an active member of the [Dutch Network Science community](http://www.netsci.nl/) and the [4TU Centre for Resilience Engineering](https://www.4tu.nl/resilience/en/).
 
 My research focusses on tackling challenges of urbanisation in an equitable and just manner. I am particularly interested in understanding the processes that drive and shape urbanization and inequalities from a computational perspective. I focus on using methods in spatial data science, complex network analyses and partipatory mapping to develop computational tools for advancing the theories and practices of urban science. 
 

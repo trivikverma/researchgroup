@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 weight: 20
-title: Our Research
+title: Our Research Themes
 subtitle:
 feature:
   - icon: layer-group

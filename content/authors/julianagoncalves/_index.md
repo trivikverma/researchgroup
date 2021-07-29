@@ -18,13 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: With a quantitative background and an analytic mind, I collaborate with people across different disciplines and sectors to develop solutions for a sustainable and just society. I believe it is possible to transform the world.
+bio: With a quantitative background and an analytic mind, I collaborate with people across disciplines and sectors to develop solutions for a sustainable and just society. I believe it is possible to transform the world.
 
 interests:
--
-- Social Network Analysis
-- Computational Social Science
-- Mis/Disinformation studies
+- Spatial Justice
+- Urban Science
+- Public Participation and Community Engagement
+- Social Impact Assessment
+- Energy Transition
+- Housing & Buildings
 
 education:
   courses:
@@ -73,11 +75,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Researchers
+- Postdoc Researchers
 ---
 
-I am a (postdoc) researcher at the section of Policy Analysis in the department of Multi-Actor Systems at TU Delft. Within TU Delft, I am also part of CUSP lab and the TPM AI Lab. My current research seeks to understand the spatial dimension of the urban environment in order to inform policy on the challenges of equitable distribution of resources in cities. I also have extensive experience in the field of energy & buildings.
+I am a (postdoc) researcher at the section of Policy Analysis in the Faculty of Technology, Management and Policy at TU Delft. I am also part of Centre for Urban Science and Policy and the TPM AI Lab. My current research seeks to understand the spatial dimension of the urban environment in order to inform policy on the challenges of equitable distribution of resources in cities. I also have extensive experience in the field of energy & buildings.
 
 I do what I most like: I collaborate with people across different disciplines and sectors to develop solutions for a sustainable society. In order to solve the challenges we face today, I am betting on unconventional and diverse collaborations. Why? Because finding solutions that leave no one behind requires the integration of complex systems. Housing, energy, food, waste, transportation, water. When it comes to climate change (justice!), understanding the whole system becomes an even greater challenge. I believe that diversity and transdisciplinary collaboration are key to tackle this challenge.
 
-My research interests include energy transition, housing & buildings, spatial justice, climate/environmental justice, urban resilience, energy communities, circular economy, and related policy implications. My personal interests are wide-ranging. On my bookshelf, you can find economics, politics, fiction, poetry, bestsellers, classics. You can find books in Portuguese, English, French, Spanish, and a few in German and Dutch. I like a good discussion with good arguments, and I definitely enjoy brainstorming.
+My research interests include spatial & climate justice, public participation and community engagement, energy transition, housing & buildings, urban resilience, energy communities, circular economy, and related policy implications. My personal interests are wide-ranging. On my bookshelf, you can find economics, politics, fiction, poetry, bestsellers, classics. You can find books in Portuguese, English, French, Spanish, and a few in German and Dutch. I like a good discussion with good arguments, and I definitely enjoy brainstorming.
