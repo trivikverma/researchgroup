@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 
 +++
 
-1. Photo by <a href="https://unsplash.com/@purzlbaum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Claudio Schwarz | @purzlbaum</a> on <a href="https://unsplash.com/@trivik/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+1. Photo b <a href="https://unsplash.com/@purzlbaum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Claudio Schwarz | @purzlbaum</a> on <a href="https://unsplash.com/@trivik/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 2. Photo by <a href="https://unsplash.com/@danasaki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dan Asaki</a> on <a href="https://unsplash.com/s/photos/netherlands-aerial?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 3. Photo by <a href="https://unsplash.com/@usgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">USGS</a> on <a href="https://unsplash.com/s/photos/ussg-satellite-gulf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 4. Photo by <a href="https://unsplash.com/@leowieling?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Leo Wieling</a> on <a href="https://unsplash.com/s/photos/netherlands-aerial?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
