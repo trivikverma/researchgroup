@@ -1,0 +1,165 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+# Choose a theme.
+#   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
+#   Browse built-in themes in `themes/academic/data/themes/`
+#   Browse user installed themes in `data/themes/`
+theme: custom
+# Enable users to switch between day and night mode?
+day_night: false
+# Override the theme's font set (optional).
+#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
+#   Browse built-in font sets in `themes/academic/data/fonts/`
+#   Browse user installed font sets in `data/fonts/`
+font: lato
+# Choose a font size.
+# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+font_size: L
+
+# SEO
+
+# Website type
+#   Improve how search providers understand your site.
+#   For personal sites, choose "Person".
+#   For organizations and projects, choose from https://schema.org/Organization#subtypes
+#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+site_type: Organization
+# Local business type (optional)
+# If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
+local_business_type: ''
+# Organization name (optional)
+# Enter an organization or project name. Defaults to the site title from `config.toml`.
+org_name: 'CUSP - Centre for Urban Science & Policy at TU Delft'
+# Description for social sharing and search providers. If undefined, superuser role is used in place.
+description: CUSP is a transdisciplinary research group working to advance urban research, planning and policy in a way that strives for just and equitable outcomes for communities. We use a mix of computational spatial science and qualitiative citizen participation methods to investigate how social, economic, environmental and political processes shape cities. Our goal is to develop a body of computational approaches and curate evidence that facilitates a systems-based approach for urban planning.
+twitter: 'TrivikV'
+
+# Contact (edit or remove options as required)
+
+##
+## These details power the Contact widget (if enabled).
+## Additionally, for organizations, these details may be used to enrich search engine results.
+
+email: cusp@tudelft.nl
+phone: +31 152 788 981
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
+  country_code:
+coordinates:
+  latitude:
+  longitude:
+directions:
+office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Us
+    link: 'https://twitter.com/TrivikV'
+
+# Site header
+
+main_menu:
+  enable: true
+  align: l
+  show_logo: true
+  show_language: false
+  show_day_night: false
+  show_search: false
+  highlight_active_link: true
+
+# Localization
+
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
+address_format: en-us
+
+# Site features
+
+highlight: true
+highlight_languages: ["shell", "r","yaml", "plaintext", "python", "jupyter", "markdown"]
+math: true
+diagram: true
+privacy_pack: true
+link_authors: true
+abstract_length: 135
+show_related:
+  post: true
+  project: true
+  publication: true
+  talk: true
+reading_time: true
+section_pager: false
+sharing: true
+sharing_image: 'header.jpeg'
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+plugins_js: []
+avatar:
+  gravatar: false
+  shape: circle
+publications:
+  date_format: January 2006
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+comments:
+  provider: ''
+  commentable:
+    page: true
+    post: true
+    docs: true
+    project: true
+    publication: true
+    talk: true
+  disqus:
+    shortname: ''
+    show_count: true
+  commento:
+    url: ''
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  provider: mapnik
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: ''
+  google_tag_manager: ''
+  google_site_verification: ''
+  baidu_site_verification: ''
+  baidu_tongji: ''
+cms:
+  branch: main
+  local_backend: false
+icon:
+  pack:
+    ai: true
+breadcrumb:
+  page_types:
+    book: true
+cms:
+  branch: "main"
+  local_backend: false
