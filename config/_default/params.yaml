@@ -28,7 +28,7 @@ font_size: L
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type: Organization
+site_type: ResearchOrganization
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
 local_business_type: ''
@@ -102,7 +102,6 @@ show_related:
 reading_time: true
 section_pager: false
 sharing: true
-sharing_image: 'header.jpeg'
 copyright_license:
   enable: false
   allow_derivatives: false
