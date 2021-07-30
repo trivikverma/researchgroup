@@ -22,7 +22,7 @@ cta:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: 'Image created by Bichi Zhang'
+  label: 'A map of Den Haag, NL created by Bichi Zhang, an MSc student in Computer Science at TU Delft'
 
 design:
   background:

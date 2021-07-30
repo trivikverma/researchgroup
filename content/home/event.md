@@ -3,6 +3,7 @@ widget: hero
 headless: true  # This file represents a page section.
 weight: 40
 # ... Put Your Section Options Here (title etc.) ...
+title: We are building a community
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: 'CitizensCollective_logo.png'

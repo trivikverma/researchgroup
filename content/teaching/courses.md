@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 <br />
 
 {{% callout note %}}
-The course is being updated for 2021 and the contenty will be release 2 weeks prior to the start of the sessions.
+The course is being updated for 2021 and the content will be released 2 weeks prior to the start of the sessions.
 {{% /callout %}}
 
 ### [EPA 1316 Introduction to Urban Data Science (Quarter 1 - 2021)]()
